@@ -2585,21 +2585,21 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/638810
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97488
 #EXTINF:-1 tvg-id="WeatherNationTV.us" tvg-name="WeatherNation" group-title="ENG - News",WeatherNation
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/564513
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="AR  America TV" group-title="ESP - Argentina",AR  America TV
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="AR  America TV" group-title="ESP - EPG",AR  America TV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1604
 #EXTINF:-1 tvg-id="AandE.ar" tvg-name="A&E Argentina" group-title="ESP - Noticias",A&E Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2828
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC Argentina" group-title="ESP - Noticias",AMC Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2829
-#EXTINF:-1 tvg-name="AR AMERICA" tvg-logo="https://static.realiptv.to/snapshots/2831.jpg" group-title="ESP - Argentina",AR AMERICA
+#EXTINF:-1 tvg-name="AR AMERICA" tvg-logo="https://static.realiptv.to/snapshots/2831.jpg" group-title="ESP - EPG",AR AMERICA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2831
-#EXTINF:-1 tvg-name="AR AMERICA_24" tvg-logo="https://static.realiptv.to/snapshots/2830.jpg" group-title="ESP - Argentina",AR AMERICA_24
+#EXTINF:-1 tvg-name="AR AMERICA_24" tvg-logo="https://static.realiptv.to/snapshots/2830.jpg" group-title="ESP - EPG",AR AMERICA_24
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2830
 #EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN Argentina" group-title="ESP - Noticias",AXN Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1615
 #EXTINF:-1 tvg-id="BabyTV.ar" tvg-name="Baby TV Argentina" group-title="ESP - Hijos y familia",Baby TV Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2834
-#EXTINF:-1 tvg-name="Boomerang Argentina" tvg-logo="https://static.realiptv.to/snapshots/2835.jpg" group-title="ESP - Argentina",Boomerang Argentina
+#EXTINF:-1 tvg-name="Boomerang Argentina" tvg-logo="https://static.realiptv.to/snapshots/2835.jpg" group-title="ESP - EPG",Boomerang Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2835
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N Argentina" group-title="ESP - Noticias",C5N Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1605
@@ -2611,7 +2611,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2837
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2839
 #EXTINF:-1 tvg-id="ELNueve.ar" tvg-name="CANAL_9 Argentina" group-title="ESP - Entretenimiento",CANAL_9 Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2840
-#EXTINF:-1 tvg-id="CanalDeLaMusica.ar" tvg-name="AR CANAL DE LA MUSICA" group-title="ESP - Argentina",AR CANAL DE LA MUSICA
+#EXTINF:-1 tvg-id="CanalDeLaMusica.ar" tvg-name="AR CANAL DE LA MUSICA" group-title="ESP - EPG",AR CANAL DE LA MUSICA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2841
 #EXTINF:-1 tvg-id="CartoonNetwork.ar" tvg-name="Cartoon Network Argentina" group-title="ESP - Hijos y familia",Cartoon Network Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2843
@@ -2629,15 +2629,15 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2846
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2848
 #EXTINF:-1 tvg-id="CNN.ar" tvg-name="CNN AR" group-title="ESP - Noticias",CNN AR
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2850
-#EXTINF:-1 tvg-name="AR COMEDY" tvg-logo="https://static.realiptv.to/snapshots/2851.jpg" group-title="ESP - Argentina",AR COMEDY
+#EXTINF:-1 tvg-name="AR COMEDY" tvg-logo="https://static.realiptv.to/snapshots/2851.jpg" group-title="ESP - EPG",AR COMEDY
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2851
-#EXTINF:-1 tvg-name="AR CONEXION" tvg-logo="https://static.realiptv.to/snapshots/2852.jpg" group-title="ESP - Argentina",AR CONEXION
+#EXTINF:-1 tvg-name="AR CONEXION" tvg-logo="https://static.realiptv.to/snapshots/2852.jpg" group-title="ESP - EPG",AR CONEXION
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2852
-#EXTINF:-1 tvg-name="AR CONSTRUIR" tvg-logo="https://static.realiptv.to/snapshots/2853.jpg" group-title="ESP - Argentina",AR CONSTRUIR
+#EXTINF:-1 tvg-name="AR CONSTRUIR" tvg-logo="https://static.realiptv.to/snapshots/2853.jpg" group-title="ESP - EPG",AR CONSTRUIR
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2853
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica Argentina" group-title="ESP - Entretenimiento",Cronica Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2854
-#EXTINF:-1 tvg-name="AR DEPORTV" tvg-logo="https://static.realiptv.to/snapshots/2855.jpg" group-title="ESP - Argentina",AR DEPORTV
+#EXTINF:-1 tvg-name="AR DEPORTV" tvg-logo="https://static.realiptv.to/snapshots/2855.jpg" group-title="ESP - EPG",AR DEPORTV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2855
 #EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name="Disney Argentina" group-title="ESP - Hijos y familia",Disney Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2856
@@ -2645,7 +2645,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2856
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2857
 #EXTINF:-1 tvg-id="DisneyXD.ar" tvg-name="Disney XD Argentina" group-title="ESP - Hijos y familia",Disney XD Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2858
-#EXTINF:-1 tvg-name="AR DW" tvg-logo="https://static.realiptv.to/snapshots/2859.jpg" group-title="ESP - Argentina",AR DW
+#EXTINF:-1 tvg-name="AR DW" tvg-logo="https://static.realiptv.to/snapshots/2859.jpg" group-title="ESP - EPG",AR DW
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2859
 #EXTINF:-1 tvg-id="E!.ar" tvg-name="E! Argentina" group-title="ESP - Entretenimiento",E! Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2860
@@ -2665,11 +2665,11 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2866
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2867
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel Argentina" group-title="ESP - Entretenimiento",Star Channel Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2868
-#EXTINF:-1 tvg-name="AR FOXSP_PREMIUM_HD" tvg-logo="https://static.realiptv.to/snapshots/2883.jpg" group-title="ESP - Argentina",AR FOXSP_PREMIUM_HD
+#EXTINF:-1 tvg-name="AR FOXSP_PREMIUM_HD" tvg-logo="https://static.realiptv.to/snapshots/2883.jpg" group-title="ESP - EPG",AR FOXSP_PREMIUM_HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2883
 #EXTINF:-1 tvg-id="StarLife.ar" tvg-name="Star Life Argentina" group-title="ESP - Entretenimiento",Star Life Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2869
-#EXTINF:-1 tvg-name="AR FOX_NEWS" tvg-logo="https://static.realiptv.to/snapshots/2870.jpg" group-title="ESP - Argentina",AR FOX_NEWS
+#EXTINF:-1 tvg-name="AR FOX_NEWS" tvg-logo="https://static.realiptv.to/snapshots/2870.jpg" group-title="ESP - EPG",AR FOX_NEWS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2870
 #EXTINF:-1 tvg-id="StarAction.ar" tvg-name="Star Action Argentina" group-title="ESP - Entretenimiento",Star Action Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2871
@@ -2679,7 +2679,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2872
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2873
 #EXTINF:-1 tvg-id="StarComedy.ar" tvg-name="Star Comedy Argentina" group-title="ESP - Entretenimiento",Star Comedy Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2874
-#EXTINF:-1 tvg-name="AR FOX_PREMIUM_FAMILY" tvg-logo="https://static.realiptv.to/snapshots/2875.jpg" group-title="ESP - Argentina",AR FOX_PREMIUM_FAMILY
+#EXTINF:-1 tvg-name="AR FOX_PREMIUM_FAMILY" tvg-logo="https://static.realiptv.to/snapshots/2875.jpg" group-title="ESP - EPG",AR FOX_PREMIUM_FAMILY
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2875
 #EXTINF:-1 tvg-id="StarSeries.ar" tvg-name="Star Series Argentina" group-title="ESP - Entretenimiento",Star Series Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2878
@@ -2691,97 +2691,97 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2881
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2882
 #EXTINF:-1 tvg-id="FX.ar" tvg-name="FX Argentina" group-title="ESP - Entretenimiento",FX Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2884
-#EXTINF:-1 tvg-name="AR Universal Comedy" tvg-logo="https://static.realiptv.to/snapshots/1639.jpg" group-title="ESP - Argentina",AR Universal Comedy
+#EXTINF:-1 tvg-name="AR Universal Comedy" tvg-logo="https://static.realiptv.to/snapshots/1639.jpg" group-title="ESP - EPG",AR Universal Comedy
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1639
 #EXTINF:-1 tvg-id="GolfChannel.ar" tvg-name="Golf Argentina" group-title="ESP - Deportes",Golf Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2888
 #EXTINF:-1 tvg-id="History2.ar" tvg-name="History 2 Argentina" group-title="ESP - Entretenimiento",History 2 Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2890
-#EXTINF:-1 tvg-name="AR HBO" tvg-logo="https://static.realiptv.to/snapshots/2893.jpg" group-title="ESP - Argentina",AR HBO
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO1 Argentina" group-title="ESP - Películas",HBO1 Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2893
-#EXTINF:-1 tvg-name="AR HBO 2" tvg-logo="https://static.realiptv.to/snapshots/2891.jpg" group-title="ESP - Argentina",AR HBO 2
+#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO2 Argentina" group-title="ESP - Películas",HBO2 Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2891
-#EXTINF:-1 tvg-name="AR HBO FAMILY ESTES" tvg-logo="https://static.realiptv.to/snapshots/2892.jpg" group-title="ESP - Argentina",AR HBO FAMILY ESTES
+#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-name="HBO Family Estes Argentina" group-title="ESP - Películas",HBO Family Estes Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2892
-#EXTINF:-1 tvg-name="AR HBO PLUS ESTE" tvg-logo="https://static.realiptv.to/snapshots/2894.jpg" group-title="ESP - Argentina",AR HBO PLUS ESTE
+#EXTINF:-1 tvg-id="HBOPlusEste.ar" tvg-name="HBO Plus Este Argentina" group-title="ESP - Películas",HBO Plus Este Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2894
-#EXTINF:-1 tvg-name="AR HBO SIGNATURE" tvg-logo="https://static.realiptv.to/snapshots/2895.jpg" group-title="ESP - Argentina",AR HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBOSignature.ar" tvg-name="HBO Signature Argentina" group-title="ESP - Películas",HBO Signature Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2895
-#EXTINF:-1 tvg-name="AR HCDN" tvg-logo="https://static.realiptv.to/snapshots/2896.jpg" group-title="ESP - Argentina",AR HCDN
+#EXTINF:-1 tvg-name="AR HCDN" tvg-logo="https://static.realiptv.to/snapshots/2896.jpg" group-title="ESP - EPG",AR HCDN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2896
-#EXTINF:-1 tvg-name="AR HISTORY" tvg-logo="https://static.realiptv.to/snapshots/2897.jpg" group-title="ESP - Argentina",AR HISTORY
+#EXTINF:-1 tvg-id="History.ar" tvg-name="History Argentina" group-title="ESP - Entretenimiento",History Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2897
-#EXTINF:-1 tvg-name="AR HTV" tvg-logo="https://static.realiptv.to/snapshots/2898.jpg" group-title="ESP - Argentina",AR HTV
+#EXTINF:-1 tvg-id="HTV.ar" tvg-name="HTV Argentina" group-title="ESP - Entretenimiento",HTV Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2898
-#EXTINF:-1 tvg-name="AR I-SAT" tvg-logo="https://static.realiptv.to/snapshots/2899.jpg" group-title="ESP - Argentina",AR I-SAT
+#EXTINF:-1 tvg-id="I-SAT.ar" tvg-name="I-SAT Argentina" group-title="ESP - Entretenimiento",I-SAT Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2899
-#EXTINF:-1 tvg-name="AR LIFETIME" tvg-logo="https://static.realiptv.to/snapshots/2900.jpg" group-title="ESP - Argentina",AR LIFETIME
+#EXTINF:-1 tvg-id="Lifetime.ar " tvg-name="LIFETIME Argentina" group-title="ESP - Entretenimiento",LIFETIME Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2900
-#EXTINF:-1 tvg-name="AR LN MAS" tvg-logo="https://static.realiptv.to/snapshots/2901.jpg" group-title="ESP - Argentina",AR LN MAS
+#EXTINF:-1 tvg-name="AR LN MAS" tvg-logo="https://static.realiptv.to/snapshots/2901.jpg" group-title="ESP - EPG",AR LN MAS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2901
-#EXTINF:-1 tvg-name="AR MAS_CHIC" tvg-logo="https://static.realiptv.to/snapshots/2902.jpg" group-title="ESP - Argentina",AR MAS_CHIC
+#EXTINF:-1 tvg-id="MasChic.ar" tvg-name="Mas Chic Argentina" group-title="ESP - Entretenimiento",Mas Chic Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2902
-#EXTINF:-1 tvg-name="AR MAX" tvg-logo="https://static.realiptv.to/snapshots/2904.jpg" group-title="ESP - Argentina",AR MAX
+#EXTINF:-1 tvg-name="AR MAX" tvg-logo="https://static.realiptv.to/snapshots/2904.jpg" group-title="ESP - EPG",AR MAX
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2904
-#EXTINF:-1 tvg-name="AR MAX_PRIME" tvg-logo="https://static.realiptv.to/snapshots/2903.jpg" group-title="ESP - Argentina",AR MAX_PRIME
+#EXTINF:-1 tvg-name="AR MAX_PRIME" tvg-logo="https://static.realiptv.to/snapshots/2903.jpg" group-title="ESP - EPG",AR MAX_PRIME
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2903
-#EXTINF:-1 tvg-name="AR MAX_UP" tvg-logo="https://static.realiptv.to/snapshots/2905.jpg" group-title="ESP - Argentina",AR MAX_UP
+#EXTINF:-1 tvg-name="AR MAX_UP" tvg-logo="https://static.realiptv.to/snapshots/2905.jpg" group-title="ESP - EPG",AR MAX_UP
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2905
-#EXTINF:-1 tvg-name="AR METRO" tvg-logo="https://static.realiptv.to/snapshots/2906.jpg" group-title="ESP - Argentina",AR METRO
+#EXTINF:-1 tvg-id="Metro.ar" tvg-name="Metro Argentina" group-title="ESP - Entretenimiento",Metro Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2906
-#EXTINF:-1 tvg-name="AR MTV" tvg-logo="https://static.realiptv.to/snapshots/2907.jpg" group-title="ESP - Argentina",AR MTV
+#EXTINF:-1 tvg-id="MTV.ar" tvg-name="MTV Argentina" group-title="ESP - Entretenimiento",MTV Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2907
-#EXTINF:-1 tvg-name="AR MTV_HITS" tvg-logo="https://static.realiptv.to/snapshots/2908.jpg" group-title="ESP - Argentina",AR MTV_HITS
+#EXTINF:-1 tvg-id="MTVHits.ar" tvg-name="MTV Hits Argentina" group-title="Music (All Lang)",MTV Hits Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2908
-#EXTINF:-1 tvg-name="AR MUCH_MUSIC" tvg-logo="https://static.realiptv.to/snapshots/2909.jpg" group-title="ESP - Argentina",AR MUCH_MUSIC
+#EXTINF:-1 tvg-id="MuchMusic.ar" tvg-name="Much Music Argentina" group-title="Music (All Lang)",Much Music Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2909
-#EXTINF:-1 tvg-name="AR MUSIC_TOP" tvg-logo="https://static.realiptv.to/snapshots/2910.jpg" group-title="ESP - Argentina",AR MUSIC_TOP
+#EXTINF:-1 tvg-id="Musictop.ar" tvg-name="Music Top Argentina" group-title="Music (All Lang)",Music Top Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2910
-#EXTINF:-1 tvg-name="AR NATGEO_KIDS" tvg-logo="https://static.realiptv.to/snapshots/2913.jpg" group-title="ESP - Argentina",AR NATGEO_KIDS
+#EXTINF:-1 tvg-id="NatGeoKids.ar" tvg-name="NatGeo Kids Argentina" group-title="ESP - Hijos y familia",NatGeo Kids Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2913
-#EXTINF:-1 tvg-name="AR NAT_GEO" tvg-logo="https://static.realiptv.to/snapshots/2911.jpg" group-title="ESP - Argentina",AR NAT_GEO
+#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="NatGeo Argentina" group-title="ESP - Entretenimiento",NatGeo Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2911
-#EXTINF:-1 tvg-name="AR NAT_GEO_WILD" tvg-logo="https://static.realiptv.to/snapshots/2912.jpg" group-title="ESP - Argentina",AR NAT_GEO_WILD
+#EXTINF:-1 tvg-id="NationalGeographicWild.ar" tvg-name="NatGeo Wild Argentina" group-title="ESP - Entretenimiento",NatGeo Wild Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2912
-#EXTINF:-1 tvg-name="AR NICKELODEON" tvg-logo="https://static.realiptv.to/snapshots/2914.jpg" group-title="ESP - Argentina",AR NICKELODEON
+#EXTINF:-1 tvg-name="AR NICKELODEON" tvg-logo="https://static.realiptv.to/snapshots/2914.jpg" group-title="ESP - EPG",AR NICKELODEON
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2914
-#EXTINF:-1 tvg-name="AR NICKELODEON_JR" tvg-logo="https://static.realiptv.to/snapshots/2915.jpg" group-title="ESP - Argentina",AR NICKELODEON_JR
+#EXTINF:-1 tvg-id="NickJr..ar" tvg-name="Nick Jr Argentina" group-title="ESP - Hijos y familia",Nick Jr Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2915
-#EXTINF:-1 tvg-name="AR PARAMOUNT" tvg-logo="https://static.realiptv.to/snapshots/2917.jpg" group-title="ESP - Argentina",AR PARAMOUNT
+#EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="Paramount Network Argentina" group-title="ESP - Entretenimiento",Paramount Network Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2917
-#EXTINF:-1 tvg-name="AR SYFY" tvg-logo="https://static.realiptv.to/snapshots/2925.jpg" group-title="ESP - Argentina",AR SYFY
+#EXTINF:-1 tvg-id="Syfy.ar" tvg-name="SYFY Argentina" group-title="ESP - Entretenimiento",SYFY Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2925
-#EXTINF:-1 tvg-id="76739" tvg-name="AR TELEMUNDO" tvg-logo="https://static.realiptv.to/snapshots/2930.jpg" group-title="ESP - Argentina",AR TELEMUNDO
+#EXTINF:-1 tvg-id="TelemundoInternacional.ar" tvg-name="Telemundo Argentina" group-title="ESP - Entretenimiento",Telemundo Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2930
-#EXTINF:-1 tvg-name="AR TELESUR" tvg-logo="https://static.realiptv.to/snapshots/2931.jpg" group-title="ESP - Argentina",AR TELESUR
+#EXTINF:-1 tvg-id="teleSUR.ar" tvg-name="teleSUR Argentina" group-title="ESP - Entretenimiento",teleSUR Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2931
-#EXTINF:-1 tvg-name="AR TN" tvg-logo="https://static.realiptv.to/snapshots/2933.jpg" group-title="ESP - Argentina",AR TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN Argentina" group-title="ESP - Entretenimiento",TN Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2933
-#EXTINF:-1 tvg-name="AR TNT" tvg-logo="https://static.realiptv.to/snapshots/2934.jpg" group-title="ESP - Argentina",AR TNT
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT Argentina" group-title="ESP - Entretenimiento",TNT Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2934
-#EXTINF:-1 tvg-name="AR TNT_SERIES" tvg-logo="https://static.realiptv.to/snapshots/2935.jpg" group-title="ESP - Argentina",AR TNT_SERIES
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series Argentina" group-title="ESP - Entretenimiento",TNT Series Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2935
-#EXTINF:-1 tvg-name="AR TRUTV" tvg-logo="https://static.realiptv.to/snapshots/2938.jpg" group-title="ESP - Argentina",AR TRUTV
+#EXTINF:-1 tvg-id="TruTV.ar" tvg-name="TruTV Argentina" group-title="ESP - Entretenimiento",TruTV Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2938
-#EXTINF:-1 tvg-name="AR TV Publica" tvg-logo="https://static.realiptv.to/snapshots/1610.jpg" group-title="ESP - Argentina",AR TV Publica
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica Argentina1" group-title="ESP - Entretenimiento",TV Publica Argentina1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1610
-#EXTINF:-1 tvg-name="AR TV_PUBLICA" tvg-logo="https://static.realiptv.to/snapshots/2939.jpg" group-title="ESP - Argentina",AR TV_PUBLICA
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica Argentina2" group-title="ESP - Entretenimiento",TV Publica Argentina2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2939
-#EXTINF:-1 tvg-name="AR TYC_SPORTS" tvg-logo="https://static.realiptv.to/snapshots/2942.jpg" group-title="ESP - Argentina",AR TYC_SPORTS
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports Argentina" group-title="ESP - Deportes",TyC Sports Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2942
-#EXTINF:-1 tvg-name="AR Universal" tvg-logo="https://static.realiptv.to/snapshots/1668.jpg" group-title="ESP - Argentina",AR Universal
+#EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="Universal TV Argentina" group-title="ESP - Entretenimiento",Universal TV Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1668
-#EXTINF:-1 tvg-name="AR UNIVERSAL CINEMA" tvg-logo="https://static.realiptv.to/snapshots/2943.jpg" group-title="ESP - Argentina",AR UNIVERSAL CINEMA
+#EXTINF:-1 tvg-name="AR UNIVERSAL CINEMA" tvg-logo="https://static.realiptv.to/snapshots/2943.jpg" group-title="ESP - EPG",AR UNIVERSAL CINEMA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2943
-#EXTINF:-1 tvg-name="AR Universal Reality" tvg-logo="https://static.realiptv.to/snapshots/1669.jpg" group-title="ESP - Argentina",AR Universal Reality
+#EXTINF:-1 tvg-name="AR Universal Reality" tvg-logo="https://static.realiptv.to/snapshots/1669.jpg" group-title="ESP - EPG",AR Universal Reality
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1669
-#EXTINF:-1 tvg-name="AR VH1" tvg-logo="https://static.realiptv.to/snapshots/2945.jpg" group-title="ESP - Argentina",AR VH1
+#EXTINF:-1 tvg-id="VH1.ar" tvg-name="VH1 Argentina" group-title="ESP - Entretenimiento",VH1 Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2945
-#EXTINF:-1 tvg-name="AR VOLVER" tvg-logo="https://static.realiptv.to/snapshots/2946.jpg" group-title="ESP - Argentina",AR VOLVER
+#EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver Argentina" group-title="ESP - Entretenimiento",Volver Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2946
-#EXTINF:-1 tvg-name="AR Warner Channel" tvg-logo="https://static.realiptv.to/snapshots/1670.jpg" group-title="ESP - Argentina",AR Warner Channel
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="Warner Channel Argentina" group-title="ESP - Entretenimiento",Warner Channel Argentina
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1670
-#EXTINF:-1 tvg-name="AR WARNER_TV" tvg-logo="https://static.realiptv.to/snapshots/2947.jpg" group-title="ESP - Argentina",AR WARNER_TV
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="Warner Channel Argentina2" tvg-logo="Warnertv" group-title="ESP - Entretenimiento",Warner Channel Argentina2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2947
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="AR | Fayetteville | Telemundo KEGW" group-title="ESP - Local",AR | Fayetteville | Telemundo KEGW
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629097
@@ -5019,107 +5019,107 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1270001
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1426065
 #EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-name="Sportsman Channel HD1 US" group-title="ENG - Sports",Sportsman Channel HD1 US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1437446
-#EXTINF:-1 tvg-name="CL A&E" tvg-logo="https://static.realiptv.to/snapshots/560364.jpg" group-title="ESP - Chile",CL A&E
+#EXTINF:-1 tvg-id="A&E.cl" tvg-name="A&E Chile" group-title="ESP - Entretenimiento",A&E Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560364
-#EXTINF:-1 tvg-name="CL CANAL 13" tvg-logo="https://static.realiptv.to/snapshots/560365.jpg" group-title="ESP - Chile",CL CANAL 13
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13 Chile" group-title="ESP - Entretenimiento",Canal 13 Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560365
-#EXTINF:-1 tvg-name="CL CANAL 13 CABLE" tvg-logo="https://static.realiptv.to/snapshots/560366.jpg" group-title="ESP - Chile",CL CANAL 13 CABLE
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13 Chile2" group-title="ESP - Entretenimiento",Canal 13 Chile2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560366
-#EXTINF:-1 tvg-name="CL CANAL 24 HORAS" tvg-logo="https://static.realiptv.to/snapshots/560367.jpg" group-title="ESP - Chile",CL CANAL 24 HORAS
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="Canal 24 Horas Chile" group-title="ESP - Entretenimiento",Canal 24 Horas Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560367
-#EXTINF:-1 tvg-name="CL CANAL 26" tvg-logo="https://static.realiptv.to/snapshots/560368.jpg" group-title="ESP - Chile",CL CANAL 26
+#EXTINF:-1 tvg-name="CL CANAL 26" tvg-logo="https://static.realiptv.to/snapshots/560368.jpg" group-title="ESP - EPG",CL CANAL 26
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560368
-#EXTINF:-1 tvg-name="CL CDO" tvg-logo="https://static.realiptv.to/snapshots/560369.jpg" group-title="ESP - Chile",CL CDO
+#EXTINF:-1 tvg-id="CDO.cl" tvg-name="CDO Chile" group-title="ESP - Entretenimiento",CDO Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560369
-#EXTINF:-1 tvg-name="CL CNN_CHILE" tvg-logo="https://static.realiptv.to/snapshots/560370.jpg" group-title="ESP - Chile",CL CNN_CHILE
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="CNN Chile" group-title="ESP - Noticias",CNN Chile 
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560370
-#EXTINF:-1 tvg-name="CL DIRECTV SPORTS" tvg-logo="https://static.realiptv.to/snapshots/560371.jpg" group-title="ESP - Chile",CL DIRECTV SPORTS
+#EXTINF:-1 tvg-id="DIRECTVSports.cl" tvg-name="DirecTV Sports Chile" group-title="ESP - Deportes",DirecTV Sports Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560371
-#EXTINF:-1 tvg-name="CL DIRECTV SPORTS_2" tvg-logo="https://static.realiptv.to/snapshots/560372.jpg" group-title="ESP - Chile",CL DIRECTV SPORTS_2
+#EXTINF:-1 tvg-id="DIRECTVSports2.cl" tvg-name="DirecTV Sports 2 Chile" group-title="ESP - Deportes",DirecTV Sports 2 Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560372
-#EXTINF:-1 tvg-name="CL DIRECTV SPORTS_PLUS" tvg-logo="https://static.realiptv.to/snapshots/560373.jpg" group-title="ESP - Chile",CL DIRECTV SPORTS_PLUS
+#EXTINF:-1 tvg-id="DIRECTVSports+.cl" tvg-name="DirecTV Sports Plus Chile" group-title="ESP - Deportes",DirecTV Sports Plus Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560373
-#EXTINF:-1 tvg-name="CL ESPN" tvg-logo="https://static.realiptv.to/snapshots/560374.jpg" group-title="ESP - Chile",CL ESPN
+#EXTINF:-1 tvg-id="ESPN.cl" tvg-name="ESPN1 Chile" group-title="ESP - Deportes",ESPN1 Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560374
-#EXTINF:-1 tvg-name="CL ESPN 2" tvg-logo="https://static.realiptv.to/snapshots/560375.jpg" group-title="ESP - Chile",CL ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.cl" tvg-name="ESPN2 Chile" group-title="ESP - Deportes",ESPN2 Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560375
-#EXTINF:-1 tvg-name="CL ESPN 3" tvg-logo="https://static.realiptv.to/snapshots/560376.jpg" group-title="ESP - Chile",CL ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.cl" tvg-name="ESPN3 Chile" group-title="ESP - Deportes",ESPN3 Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560376
-#EXTINF:-1 tvg-name="CL ESPN EXTRA" tvg-logo="https://static.realiptv.to/snapshots/560377.jpg" group-title="ESP - Chile",CL ESPN EXTRA
+#EXTINF:-1 tvg-id="ESPNExtra.cl" tvg-name="ESPN Extra Chile" group-title="ESP - Deportes",ESPN Extra Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560377
-#EXTINF:-1 tvg-name="CL FILM Y ARTS" tvg-logo="https://static.realiptv.to/snapshots/560378.jpg" group-title="ESP - Chile",CL FILM Y ARTS
+#EXTINF:-1 tvg-id="film&arts.cl" tvg-name="Film & Arts Chile" group-title="ESP - Entretenimiento",Film & Arts Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560378
-#EXTINF:-1 tvg-name="CL LA RED" tvg-logo="https://static.realiptv.to/snapshots/560379.jpg" group-title="ESP - Chile",CL LA RED
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red Chile" group-title="ESP - Entretenimiento",La Red Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560379
-#EXTINF:-1 tvg-name="CL TELETRAK TV" tvg-logo="https://static.realiptv.to/snapshots/560380.jpg" group-title="ESP - Chile",CL TELETRAK TV
+#EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="Teletrak TV Chile" group-title="ESP - Deportes",Teletrak TV Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560380
-#EXTINF:-1 tvg-name="CL TELEVISION ESPANOLA" tvg-logo="https://static.realiptv.to/snapshots/560381.jpg" group-title="ESP - Chile",CL TELEVISION ESPANOLA
+#EXTINF:-1 tvg-name="CL TELEVISION ESPANOLA" tvg-logo="https://static.realiptv.to/snapshots/560381.jpg" group-title="ESP - EPG",CL TELEVISION ESPANOLA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560381
-#EXTINF:-1 tvg-name="CL TNT SPORTS 1" tvg-logo="https://static.realiptv.to/snapshots/560382.jpg" group-title="ESP - Chile",CL TNT SPORTS 1
+#EXTINF:-1 tvg-id="TNTSports.cl" tvg-name="TNT Sports 1 Chile" group-title="ESP - Deportes",TNT Sports 1 Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560382
-#EXTINF:-1 tvg-name="CL TNT SPORTS 2" tvg-logo="https://static.realiptv.to/snapshots/560383.jpg" group-title="ESP - Chile",CL TNT SPORTS 2
+#EXTINF:-1 tvg-name="CL TNT SPORTS 2" tvg-logo="https://static.realiptv.to/snapshots/560383.jpg" group-title="ESP - EPG",CL TNT SPORTS 2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560383
-#EXTINF:-1 tvg-name="CL TNT SPORTS 3" tvg-logo="https://static.realiptv.to/snapshots/560384.jpg" group-title="ESP - Chile",CL TNT SPORTS 3
+#EXTINF:-1 tvg-id="TNTSports3.cl" tvg-name="TNT Sports 3 Chile" group-title="ESP - Deportes",TNT Sports 3 Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560384
-#EXTINF:-1 tvg-name="CL TV CORTOS" tvg-logo="https://static.realiptv.to/snapshots/560385.jpg" group-title="ESP - Chile",CL TV CORTOS
+#EXTINF:-1 tvg-name="CL TV CORTOS" tvg-logo="https://static.realiptv.to/snapshots/560385.jpg" group-title="ESP - EPG",CL TV CORTOS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560385
-#EXTINF:-1 tvg-name="CL TV PLUS" tvg-logo="https://static.realiptv.to/snapshots/560386.jpg" group-title="ESP - Chile",CL TV PLUS
+#EXTINF:-1 tvg-name="CL TV PLUS" tvg-logo="https://static.realiptv.to/snapshots/560386.jpg" group-title="ESP - EPG",CL TV PLUS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560386
-#EXTINF:-1 tvg-name="CL TVN" tvg-logo="https://static.realiptv.to/snapshots/560387.jpg" group-title="ESP - Chile",CL TVN
+#EXTINF:-1 tvg-id="TelevisionNacionalDeChile.ch" tvg-name="TVN Chile" group-title="ESP - Entretenimiento",TVN Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/560387
-#EXTINF:-1 tvg-name="Latin CL 13C" tvg-logo="https://static.realiptv.to/snapshots/119561.jpg" group-title="ESP - Chile",Latin CL 13C
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="13C Chile" group-title="ESP - Entretenimiento",13C Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119561
-#EXTINF:-1 tvg-name="Latin CL 13i" tvg-logo="https://static.realiptv.to/snapshots/119562.jpg" group-title="ESP - Chile",Latin CL 13i
+#EXTINF:-1 tvg-name="13i Canal 13 International Chile" group-title="ESP - EPG",13i Canal 13 International Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119562
-#EXTINF:-1 tvg-name="Latin CL 24 Horas" tvg-logo="https://static.realiptv.to/snapshots/119563.jpg" group-title="ESP - Chile",Latin CL 24 Horas
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="24 Horas Chile" group-title="ESP - Entretenimiento",24 Horas Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119563
-#EXTINF:-1 tvg-name="Latin CL Canal 13 HD" tvg-logo="https://static.realiptv.to/snapshots/119564.jpg" group-title="ESP - Chile",Latin CL Canal 13 HD
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13 HD Chile" group-title="ESP - Entretenimiento",Canal 13 HD Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119564
-#EXTINF:-1 tvg-name="Latin CL CDF Basico" tvg-logo="https://static.realiptv.to/snapshots/119565.jpg" group-title="ESP - Chile",Latin CL CDF Basico
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="CDF Basico Chile (TNTSP3)" group-title="ESP - Deportes",CDF Basico Chile (TNTSP3)
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119565
-#EXTINF:-1 tvg-name="Latin CL CDF FHD" tvg-logo="https://static.realiptv.to/snapshots/119566.jpg" group-title="ESP - Chile",Latin CL CDF FHD
+#EXTINF:-1 tvg-id="CDF.cl" tvg-name="CDF FHD Chile (TNTSP1)" group-title="ESP - Deportes",CDF FHD Chile (TNTSP1)
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119566
-#EXTINF:-1 tvg-name="Latin CL CDF HD" tvg-logo="https://static.realiptv.to/snapshots/119568.jpg" group-title="ESP - Chile",Latin CL CDF HD
+#EXTINF:-1 tvg-id="CDF.cl" tvg-name="CDF HD Chile (TNTSP1)" group-title="ESP - Deportes",CDF HD Chile (TNTSP1)
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119568
-#EXTINF:-1 tvg-name="Latin CL CDF Premium" tvg-logo="https://static.realiptv.to/snapshots/119567.jpg" group-title="ESP - Chile",Latin CL CDF Premium
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF Premium Chile (TNTSP2)" group-title="ESP - Deportes",CDF Premium Chile (TNTSP2)
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119567
-#EXTINF:-1 tvg-name="Latin CL CDO Basico" tvg-logo="https://static.realiptv.to/snapshots/119560.jpg" group-title="ESP - Chile",Latin CL CDO Basico
+#EXTINF:-1 tvg-id="CDOBasico.cl" tvg-name="CDO Basico Chile" group-title="ESP - Entretenimiento",CDO Basico Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119560
-#EXTINF:-1 tvg-name="Latin CL CDO HD" tvg-logo="https://static.realiptv.to/snapshots/119570.jpg" group-title="ESP - Chile",Latin CL CDO HD
+#EXTINF:-1 tvg-id="CDO.cl" tvg-name="CDO HD Chile" group-title="ESP - Entretenimiento",CDO HD Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119570
-#EXTINF:-1 tvg-name="Latin CL CDO Premium" tvg-logo="https://static.realiptv.to/snapshots/119569.jpg" group-title="ESP - Chile",Latin CL CDO Premium
+#EXTINF:-1 tvg-id="CDOPremium.cl" tvg-name="CDO Premium Chile" group-title="ESP - Entretenimiento",CDO Premium Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119569
-#EXTINF:-1 tvg-name="Latin CL Etc TV" tvg-logo="https://static.realiptv.to/snapshots/119575.jpg" group-title="ESP - Chile",Latin CL Etc TV
+#EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="ETC TV Chile" group-title="ESP - Entretenimiento",ETC TV Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119575
-#EXTINF:-1 tvg-name="Latin CL Etc Tv" tvg-logo="https://static.realiptv.to/snapshots/119584.jpg" group-title="ESP - Chile",Latin CL Etc Tv
+#EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="ETC TV Chile2" group-title="ESP - Entretenimiento",ETC TV Chile2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119584
-#EXTINF:-1 tvg-name="Latin CL Fox Sports" tvg-logo="https://static.realiptv.to/snapshots/119585.jpg" group-title="ESP - Chile",Latin CL Fox Sports
+#EXTINF:-1 tvg-id="FOXSports1.cl" tvg-name="Fox Sports Chile" group-title="ESP - Deportes",Fox Sports Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119585
-#EXTINF:-1 tvg-name="Latin CL Fox Sports " tvg-logo="https://static.realiptv.to/snapshots/119574.jpg" group-title="ESP - Chile",Latin CL Fox Sports
+#EXTINF:-1 tvg-id="FOXSports1.cl" tvg-name="Fox Sports Chile" group-title="ESP - Deportes",Fox Sports Chile2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119574
-#EXTINF:-1 tvg-name="Latin CL La Red" tvg-logo="https://static.realiptv.to/snapshots/119576.jpg" group-title="ESP - Chile",Latin CL La Red
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red Chile" group-title="ESP - Entretenimiento",La Red Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119576
-#EXTINF:-1 tvg-name="Latin CL La Red HD" tvg-logo="https://static.realiptv.to/snapshots/119577.jpg" group-title="ESP - Chile",Latin CL La Red HD
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red HD Chile" group-title="ESP - Entretenimiento",La Red HD Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119577
-#EXTINF:-1 tvg-name="Latin CL Mega FHD" tvg-logo="https://static.realiptv.to/snapshots/119580.jpg" group-title="ESP - Chile",Latin CL Mega FHD
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega FHD Chile" group-title="ESP - Entretenimiento",Mega FHD Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119580
-#EXTINF:-1 tvg-name="Latin CL Rec TV" tvg-logo="https://static.realiptv.to/snapshots/119581.jpg" group-title="ESP - Chile",Latin CL Rec TV
+#EXTINF:-1 tvg-id="RECTV.cl" tvg-name="Rec TV Chile" group-title="ESP - Entretenimiento",Rec TV Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119581
-#EXTINF:-1 tvg-name="Latin CL Teletrak HD" tvg-logo="https://static.realiptv.to/snapshots/119571.jpg" group-title="ESP - Chile",Latin CL Teletrak HD
+#EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="Teletrak HD Chile" group-title="ESP - Deportes",Teletrak HD Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119571
-#EXTINF:-1 tvg-name="Latin CL TV Chile " tvg-logo="https://static.realiptv.to/snapshots/119583.jpg" group-title="ESP - Chile",Latin CL TV Chile
+#EXTINF:-1 tvg-name="Latin CL TV Chile " tvg-logo="https://static.realiptv.to/snapshots/119583.jpg" group-title="ESP - EPG",Latin CL TV Chile
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119583
-#EXTINF:-1 tvg-name="Latin CL TVN " tvg-logo="https://static.realiptv.to/snapshots/119582.jpg" group-title="ESP - Chile",Latin CL TVN
+#EXTINF:-1 tvg-name="Latin CL TVN " tvg-logo="https://static.realiptv.to/snapshots/119582.jpg" group-title="ESP - EPG",Latin CL TVN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119582
-#EXTINF:-1 tvg-name="COL (DTV) Cali TV" tvg-logo="https://static.realiptv.to/snapshots/680944.jpg" group-title="ESP - Colombia",COL (DTV) Cali TV
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-name="Cali TV (DTV) Colombia" group-title="ESP - Entretenimiento",Cali TV (DTV) Colombia
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/680944
-#EXTINF:-1 tvg-name="COL Canal 1" tvg-logo="https://static.realiptv.to/snapshots/680945.jpg" group-title="ESP - Colombia",COL Canal 1
+#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1 Colombia" group-title="ESP - Entretenimiento",Canal 1 Colombia 
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/680945
-#EXTINF:-1 tvg-name="COL Telecaribe" tvg-logo="https://static.realiptv.to/snapshots/680946.jpg" group-title="ESP - Colombia",COL Telecaribe
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="Telecaribe Colombia" group-title="ESP - Entretenimiento",Telecaribe Colombia
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/680946
-#EXTINF:-1 tvg-name="COL Telecaribe Plus" tvg-logo="https://static.realiptv.to/snapshots/680947.jpg" group-title="ESP - Colombia",COL Telecaribe Plus
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="Telecaribe+ Colombia" group-title="ESP - Entretenimiento",Telecaribe+ Colombia
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/680947
-#EXTINF:-1 tvg-name="Latin CO ESPN 2" tvg-logo="https://static.realiptv.to/snapshots/558865.jpg" group-title="ESP - Colombia",Latin CO ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.co" tvg-name="ESPN2 Colombia" group-title="ESP - Deportes",ESPN2 Colombia
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/558865
 #EXTINF:-1 tvg-name="CR (Claro) Extrema TV" tvg-logo="https://static.realiptv.to/snapshots/680950.jpg" group-title="ESP - Costa Rica",CR (Claro) Extrema TV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/680950
@@ -5127,7 +5127,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/680950
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/680953
 #EXTINF:-1 tvg-name="Latin CR 88 Stereo" tvg-logo="https://static.realiptv.to/snapshots/52219.jpg" group-title="ESP - Costa Rica",Latin CR 88 Stereo
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/52219
-#EXTINF:-1 tvg-name="Latin CR Canal 13" tvg-logo="https://static.realiptv.to/snapshots/52206.jpg" group-title="ESP - Costa Rica",Latin CR Canal 13
+#EXTINF:-1 tvg-id="Canal13.cr" tvg-name="Canal 13 Costa Rica" group-title="ESP - Entretenimiento",Canal 13 Costa Rica
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/52206
 #EXTINF:-1 tvg-name="Latin CR Canal 14 Tv Sur" tvg-logo="https://static.realiptv.to/snapshots/52207.jpg" group-title="ESP - Costa Rica",Latin CR Canal 14 Tv Sur
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/52207
@@ -5305,25 +5305,25 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/40648
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/40647
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" group-title="ESP - Deportes",TUDN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/4640
-#EXTINF:-1 tvg-name="Latin DO Channel 4 RD" tvg-logo="https://static.realiptv.to/snapshots/558826.jpg" group-title="ESP - Dominica Republic",Latin DO Channel 4 RD
+#EXTINF:-1 tvg-name="Latin DO Channel 4 RD" tvg-logo="https://static.realiptv.to/snapshots/558826.jpg" group-title="ESP - EPG",Latin DO Channel 4 RD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/558826
-#EXTINF:-1 tvg-name="Latin DO CINEVISION" tvg-logo="https://static.realiptv.to/snapshots/558827.jpg" group-title="ESP - Dominica Republic",Latin DO CINEVISION
+#EXTINF:-1 tvg-name="Latin DO CINEVISION" tvg-logo="https://static.realiptv.to/snapshots/558827.jpg" group-title="ESP - EPG",Latin DO CINEVISION
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/558827
-#EXTINF:-1 tvg-name="Latin DO Sports LIBER" tvg-logo="https://static.realiptv.to/snapshots/558835.jpg" group-title="ESP - Dominica Republic",Latin DO Sports LIBER
+#EXTINF:-1 tvg-name="Latin DO Sports LIBER" tvg-logo="https://static.realiptv.to/snapshots/558835.jpg" group-title="ESP - EPG",Latin DO Sports LIBER
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/558835
-#EXTINF:-1 tvg-name="Latin DO TELEMEDIOS" tvg-logo="https://static.realiptv.to/snapshots/558829.jpg" group-title="ESP - Dominica Republic",Latin DO TELEMEDIOS
+#EXTINF:-1 tvg-name="Latin DO TELEMEDIOS" tvg-logo="https://static.realiptv.to/snapshots/558829.jpg" group-title="ESP - EPG",Latin DO TELEMEDIOS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/558829
-#EXTINF:-1 tvg-name="Latin DO TELERADIO" tvg-logo="https://static.realiptv.to/snapshots/558838.jpg" group-title="ESP - Dominica Republic",Latin DO TELERADIO
+#EXTINF:-1 tvg-name="Latin DO TELERADIO" tvg-logo="https://static.realiptv.to/snapshots/558838.jpg" group-title="ESP - EPG",Latin DO TELERADIO
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/558838
-#EXTINF:-1 tvg-name="Latin DO TELEVIDA" tvg-logo="https://static.realiptv.to/snapshots/558839.jpg" group-title="ESP - Dominica Republic",Latin DO TELEVIDA
+#EXTINF:-1 tvg-name="Latin DO TELEVIDA" tvg-logo="https://static.realiptv.to/snapshots/558839.jpg" group-title="ESP - EPG",Latin DO TELEVIDA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/558839
-#EXTINF:-1 tvg-name="Latin DO VOZDEMARIA" tvg-logo="https://static.realiptv.to/snapshots/558840.jpg" group-title="ESP - Dominica Republic",Latin DO VOZDEMARIA
+#EXTINF:-1 tvg-name="Latin DO VOZDEMARIA" tvg-logo="https://static.realiptv.to/snapshots/558840.jpg" group-title="ESP - EPG",Latin DO VOZDEMARIA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/558840
-#EXTINF:-1 tvg-name="Latin HN EBENEZER" tvg-logo="https://static.realiptv.to/snapshots/119599.jpg" group-title="ESP - Honduras",Latin HN EBENEZER
+#EXTINF:-1 tvg-name="Latin HN EBENEZER" tvg-logo="https://static.realiptv.to/snapshots/119599.jpg" group-title="ESP - EPG",Latin HN EBENEZER
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119599
-#EXTINF:-1 tvg-name="Latin HN ENLACE" tvg-logo="https://static.realiptv.to/snapshots/119600.jpg" group-title="ESP - Honduras",Latin HN ENLACE
+#EXTINF:-1 tvg-id="Enlace.hn" tvg-name="Enlace Honduras" group-title="Religion (All Lang)",Enlace Honduras
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119600
-#EXTINF:-1 tvg-name="Latin HN ENLACE JUVENIL" tvg-logo="https://static.realiptv.to/snapshots/119601.jpg" group-title="ESP - Honduras",Latin HN ENLACE JUVENIL
+#EXTINF:-1 tvg-name="Latin HN ENLACE JUVENIL" tvg-logo="https://static.realiptv.to/snapshots/119601.jpg" group-title="ESP - EPG",Latin HN ENLACE JUVENIL
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119601
 #EXTINF:-1 tvg-name="Latin PR BUENA TV" tvg-logo="https://static.realiptv.to/snapshots/73066.jpg" group-title="ESP - USA Latin",Latin PR BUENA TV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/73066
@@ -5331,9 +5331,9 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/73066
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75372
 #EXTINF:-1 tvg-id="WIPR.pr" tvg-name="WIPR Canal 6 PR" group-title="ESP - Hijos y familia",WIPR Canal 6 PR
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/73061
-#EXTINF:-1 tvg-name="Latin SV Tele el Salvador" tvg-logo="https://static.realiptv.to/snapshots/119596.jpg" group-title="ESP - El Salvador",Latin SV Tele el Salvador
+#EXTINF:-1 tvg-name="Latin SV Tele el Salvador" tvg-logo="https://static.realiptv.to/snapshots/119596.jpg" group-title="ESP - EPG",Latin SV Tele el Salvador
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/119596
-#EXTINF:-1 tvg-name="Latin Tele El Salvador" tvg-logo="https://static.realiptv.to/snapshots/4591.jpg" group-title="ESP - El Salvador",Latin Tele El Salvador
+#EXTINF:-1 tvg-name="Latin Tele El Salvador" tvg-logo="https://static.realiptv.to/snapshots/4591.jpg" group-title="ESP - EPG",Latin Tele El Salvador
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/4591
 #EXTINF:-1 tvg-id="ArizonaDiamondbacks.mlb" tvg-name="MLB Arizona Diamondbacks" group-title="ENG - Sports MLB",MLB Arizona Diamondbacks
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390398
