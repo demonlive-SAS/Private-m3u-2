@@ -563,7 +563,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89802
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/81884
 #EXTINF:-1 tvg-id="CBSWJHL.us" tvg-name="TN-VA | Tri-Cities | CBS WJHL" group-title="ENG - Local CBS",TN-VA | Tri-Cities | CBS WJHL
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89809
-#EXTINF:-1 tvg-id="CBSKTVT.us" tvg-name="TX |  Dallas | CBS KTVT" group-title="ENG - Local CBS",TX |  Dallas | CBS KTVT
+#EXTINF:-1 tvg-id="CBSKTVT.us" tvg-name="TX | Dallas | CBS KTVT" group-title="ENG - Local CBS",TX | Dallas | CBS KTVT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2645
 #EXTINF:-1 tvg-id="CBSKEYE.us" tvg-name="TX | Austin | CBS KEYE" group-title="ENG - Local CBS",TX | Austin | CBS KEYE
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/85343
@@ -577,9 +577,9 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630650
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89822
 #EXTINF:-1 tvg-id="CBSKDBC.us" tvg-name="TX | El Paso | CBS KDBC" group-title="ENG - Local CBS",TX | El Paso | CBS KDBC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89826
-#EXTINF:-1 tvg-id="CBSKTVT.us" tvg-name="TX | Fort Worth | CBS KTVT" tvg-logo="Ktxa" group-title="ENG - Local CBS",TX | Fort Worth | CBS KTVT
+#EXTINF:-1 tvg-id="IndependentKTXA.us" tvg-name="TX | Fort Worth | KTXA" group-title="ENG - Local CW/IND",TX | Fort Worth | KTXA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89829
-#EXTINF:-1 tvg-id="CBSKGBT.us" tvg-name="TX | Harlingen | CBS KGBT" group-title="ENG - Local CBS",TX | Harlingen | CBS KGBT
+#EXTINF:-1 tvg-id="MyNetKGBT.us" tvg-name="TX | Harlingen | MY KGBT" group-title="ENG - Local FOX/MY",TX | Harlingen | MY KGBT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89833
 #EXTINF:-1 tvg-id="CBSKHOU.us" tvg-name="TX | Houston | CBS KHOU" group-title="ENG - Local CBS",TX | Houston | CBS KHOU
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2640
@@ -599,7 +599,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/738283
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630212
 #EXTINF:-1 tvg-id="CBSKYTX.us" tvg-name="TX | Tyler | CBS KYTX" group-title="ENG - Local CBS",TX | Tyler | CBS KYTX
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/50915
-#EXTINF:-1 tvg-id="CBSKXTS.us" tvg-name="TX | Victoria | CBS KXTS" group-title="ENG - Local CBS",TX | Victoria | CBS KXTS
+#EXTINF:-1 tvg-id="CBSKXTS.us" tvg-name="TX | Victoria | CBS KXTS" group-title="Z - Offline Streams",TX | Victoria | CBS KXTS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630208
 #EXTINF:-1 tvg-id="CBSKWTX.us" tvg-name="TX | Waco | CBS KWTX" group-title="ENG - Local CBS",TX | Waco | CBS KWTX
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89860
@@ -611,9 +611,9 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/77416
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89862
 #EXTINF:-1 tvg-id="CBSWTKR.us" tvg-name="VA | Hampton Roads | CBS WTKR" group-title="ENG - Local CBS",VA | Hampton Roads | CBS WTKR
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/600284
-#EXTINF:-1 tvg-id="CBSWUSA.us" tvg-name="VA | Luray | CBS WUSA" group-title="ENG - Local CBS",VA | Luray | CBS WUSA
+#EXTINF:-1 tvg-id="CBSWUSA.us" tvg-name="DC | Washington | CBS WUSA HD1" group-title="ENG - Local CBS",DC | Washington | CBS WUSA HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/637852
-#EXTINF:-1 tvg-id="CBSWDJB.us" tvg-name="VA | Roanoke | CBS WDJB" group-title="ENG - Local CBS",VA | Roanoke | CBS WDJB
+#EXTINF:-1 tvg-id="NewsKCAL.us" tvg-name="CA | Los Angeles | KCAL" group-title="ENG - Local CW/IND",CA | Los Angeles | KCAL
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/638580
 #EXTINF:-1 tvg-id="CBSWDBJ.us" tvg-name="VA | Roanoke | CBS WDBJ HD2" group-title="ENG - Local CBS",VA | Roanoke | CBS WDBJ HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89871
@@ -625,7 +625,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2621
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89882
 #EXTINF:-1 tvg-id="CBSKIMA.us" tvg-name="WA | Yakima | CBS KIMA" group-title="ENG - Local CBS",WA | Yakima | CBS KIMA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89887
-#EXTINF:-1 tvg-id="CBSWUSA.us" tvg-name="DC | Washington | CBS WUSA" group-title="ENG - Local CBS",DC | Washington | CBS WUSA
+#EXTINF:-1 tvg-id="CBSWUSA.us" tvg-name="DC | Washington | CBS WUSA HD2" group-title="ENG - Local CBS",DC | Washington | CBS WUSA HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/559692
 #EXTINF:-1 tvg-id="CBSWISC.us" tvg-name="WI | Madison | CBS WISC" group-title="ENG - Local CBS",WI | Madison | CBS WISC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/600291
@@ -657,7 +657,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89736
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/600251
 #EXTINF:-1 tvg-id="FOXKTBY.us" tvg-name="AK | Anchorage | FOX KTBY" group-title="ENG - Local FOX/MY",AK | Anchorage | FOX KTBY
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38319
-#EXTINF:-1 tvg-id="FOXKJUDDT3.us" tvg-name="AK | Juneau | FOX KJUD" group-title="ENG - Local FOX/MY",AK | Juneau | FOX KJUD
+#EXTINF:-1 tvg-id="ABCKJUD.us" tvg-name="AK | Juneau | ABC KJUD" group-title="ENG - Local ABC",AK | Juneau | ABC KJUD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629090
 #EXTINF:-1 tvg-id="FOXWBRC.us" tvg-name="AL | Birmingham | FOX WBRC" group-title="ENG - Local FOX/MY",AL | Birmingham | FOX WBRC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75346
@@ -677,7 +677,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2539
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89421
 #EXTINF:-1 tvg-id="FOXKBFX.us" tvg-name="CA | Bakersfield | FOX KBFX" group-title="ENG - Local FOX/MY",CA | Bakersfield | FOX KBFX
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/512982
-#EXTINF:-1 tvg-id="FOXKECY.us" tvg-name="CA | El Centro | FOX KECY" group-title="ENG - Local FOX/MY",CA | El Centro | FOX KECY
+#EXTINF:-1 tvg-id="ABCKECYDT2.us" tvg-name="CA | El Centro | ABC KECY" group-title="ENG - Local ABC",CA | El Centro | ABC KECY
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/446729
 #EXTINF:-1 tvg-id="FOXKMPH.us" tvg-name="CA | Fresno | FOX KMPH" group-title="ENG - Local FOX/MY",CA | Fresno | FOX KMPH
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/434317
@@ -705,7 +705,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629106
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2556
 #EXTINF:-1 tvg-id="FOXWFTX.us" tvg-name="FL | Cape Coral | FOX WFTX" group-title="ENG - Local FOX/MY",FL | Cape Coral | FOX WFTX
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89482
-#EXTINF:-1 tvg-id="FOXWFOX.us" tvg-name="FL | Jacksonville | FOX WFOX HD1" group-title="ENG - Local FOX/MY",FL | Jacksonville | FOX WFOX HD1
+#EXTINF:-1 tvg-id="FOXWFOX.us" tvg-name="FL | Jacksonville | FOX WFOX HD1" group-title="Z - Offline Streams",FL | Jacksonville | FOX WFOX HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89491
 #EXTINF:-1 tvg-id="FOXWFOX.us" tvg-name="FL | Jacksonville | FOX WFOX HD2" group-title="ENG - Local FOX/MY",FL | Jacksonville | FOX WFOX HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2553
@@ -733,7 +733,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2574
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89520
 #EXTINF:-1 tvg-id="FOXWXTX.us" tvg-name="GA | Columbus | FOX WXTX" group-title="ENG - Local FOX/MY",GA | Columbus | FOX WXTX
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89522
-#EXTINF:-1 tvg-id="FOXWGXA.us" tvg-name="GA | Macon | FOX WGXA" group-title="ENG - Local FOX/MY",GA | Macon | FOX WGXA
+#EXTINF:-1 tvg-id="ABCWGXADT2.us" tvg-name="GA | Macon | ABC WGXA" group-title="ENG - Local ABC",GA | Macon | ABC WGXA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/383409
 #EXTINF:-1 tvg-id="FOXWTGS.us" tvg-name="GA | Savannah | FOX WTGS" group-title="ENG - Local FOX/MY",GA | Savannah | FOX WTGS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/383410
@@ -749,7 +749,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/383411
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/512985
 #EXTINF:-1 tvg-id="FOXKNIN.us" tvg-name="ID | Boise | FOX KNIN HD2" group-title="ENG - Local FOX/MY",ID | Boise | FOX KNIN HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89547
-#EXTINF:-1 tvg-id="FOXKIDKDT2.us" tvg-name="ID | Idaho Falls | FOX KIDK" group-title="ENG - Local FOX/MY",ID | Idaho Falls | FOX KIDK
+#EXTINF:-1 tvg-id="FOXKIDKDT2.us" tvg-name="ID | Idaho Falls | FOX KIDK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/KXPI24.png" group-title="ENG - Local FOX/MY",ID | Idaho Falls | FOX KIDK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629675
 #EXTINF:-1 tvg-id="FOXWYZZ.us" tvg-name="IL | Bloomington | FOX WYZZ" group-title="ENG - Local FOX/MY",IL | Bloomington | FOX WYZZ
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89552
@@ -787,7 +787,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2545
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89601
 #EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="MA | Boston | FOX WFXT" group-title="ENG - Local FOX/MY",MA | Boston | FOX WFXT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2570
-#EXTINF:-1 tvg-id="FOXWGGBDT2.us" tvg-name="MA | Springfield | FOX WGGB" group-title="ENG - Local FOX/MY",MA | Springfield | FOX WGGB
+#EXTINF:-1 tvg-id="ABCWGGB.us" tvg-name="MA | Springfield | ABC WGGB" group-title="ENG - Local ABC",MA | Springfield | ABC WGGB
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89608
 #EXTINF:-1 tvg-id="FOXWBFF.us" tvg-name="MD | Baltimore | FOX WBFF" group-title="ENG - Local FOX/MY",MD | Baltimore | FOX WBFF
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2572
@@ -815,7 +815,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38273
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89643
 #EXTINF:-1 tvg-id="FOXWDAF.us" tvg-name="MO | Kansas City | FOX WDAF HD2" group-title="ENG - Local FOX/MY",MO | Kansas City | FOX WDAF HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2552
-#EXTINF:-1 tvg-name="MO | Kirksville | FOX KYOU" group-title="ENG - Local FOX/MY",MO | Kirksville | FOX KYOU
+#EXTINF:-1 tvg-id="KYOU-DT.us_locals1" tvg-name="MO | Kirksville | FOX KYOU HD1" group-title="ENG - Local FOX/MY",MO | Kirksville | FOX KYOU HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629892
 #EXTINF:-1 tvg-id="FOXKRBK.us" tvg-name="MO | Osage Beach | FOX KRBK" group-title="ENG - Local FOX/MY",MO | Osage Beach | FOX KRBK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89645
@@ -827,7 +827,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2505
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75349
 #EXTINF:-1 tvg-id="FOXWGBC.us" tvg-name="MS | Meridian | Fox WGBC" group-title="ENG - Local FOX/MY",MS | Meridian | Fox WGBC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/50920
-#EXTINF:-1 tvg-id="FOXWCBIDT2.us" tvg-name="MS | Columbus | FOX WCBI" group-title="ENG - Local FOX/MY",MS | Columbus | FOX WCBI
+#EXTINF:-1 tvg-id="CBSWCBI.us" tvg-name="MS | Columbus | CBS WCBI" group-title="ENG - Local CBS",MS | Columbus | CBS WCBI
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/661532
 #EXTINF:-1 tvg-id="FOXWABGDT2.us" tvg-name="MS | Greenwood | FOX WABG" group-title="ENG - Local FOX/MY",MS | Greenwood | FOX WABG
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629906
@@ -837,7 +837,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89656
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/102601
 #EXTINF:-1 tvg-id="FOXKHMT.us" tvg-name="MT | Billings | FOX KHMT" group-title="ENG - Local FOX/MY",MT | Billings | FOX KHMT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/555995
-#EXTINF:-1 tvg-id="FOXKFBBDT2.us" tvg-name="MT | Great Falls | FOX KFBB" group-title="ENG - Local FOX/MY",MT | Great Falls | FOX KFBB
+#EXTINF:-1 tvg-id="ABCKFBB.us" tvg-name="MT | Great Falls | ABC KFBB" group-title="ENG - Local ABC",MT | Great Falls | ABC KFBB
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629885
 #EXTINF:-1 tvg-id="FOXWJZY.us" tvg-name="NC | Charlotte | FOX WJZY HD1 " group-title="ENG - Local FOX/MY",NC | Charlotte | FOX WJZY HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89665
@@ -869,13 +869,13 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89680
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629925
 #EXTINF:-1 tvg-id="FOXKPTM.us" tvg-name="NE | Omaha | FOX KPTM" group-title="ENG - Local FOX/MY",NE | Omaha | FOX KPTM
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/61811
-#EXTINF:-1 tvg-id="FOXKRQE.us" tvg-name="NM | Albuquerque | FOX KRQE" group-title="ENG - Local FOX/MY",NM | Albuquerque | FOX KRQE
+#EXTINF:-1 tvg-id="NBCKOB.us" tvg-name="NM | Albuquerque | NBC KOB" group-title="ENG - Local NBC",NM | Albuquerque | NBC KOB
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/77963
 #EXTINF:-1 tvg-id="FOXKRQE.us" tvg-name="NM | Albuquerque | FOX KRQE" group-title="ENG - Local FOX/MY",NM | Albuquerque | FOX KRQE
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89695
-#EXTINF:-1 tvg-id="FOXKVVU.us" tvg-name="NV | Las Vegas | FOX KVVU" group-title="ENG - Local FOX/MY",NV | Las Vegas | FOX KVVU
+#EXTINF:-1 tvg-id="FOXKVVU.us" tvg-name="NV | Las Vegas | FOX KVVU HD1" group-title="ENG - Local FOX/MY",NV | Las Vegas | FOX KVVU HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89699
-#EXTINF:-1 tvg-id="FOXKVVU.us" tvg-name="NV | Las Vegas | FOX KVVU" group-title="ENG - Local FOX/MY",NV | Las Vegas | FOX KVVU
+#EXTINF:-1 tvg-id="FOXKVVU.us" tvg-name="NV | Las Vegas | FOX KVVU HD2" group-title="ENG - Local FOX/MY",NV | Las Vegas | FOX KVVU HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38256
 #EXTINF:-1 tvg-id="FOXWXXA.us" tvg-name="NY | Albany | FOX WXXA HD1" group-title="ENG - Local FOX/MY",NY | Albany | FOX WXXA HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/63931
@@ -943,7 +943,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/61803
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38270
 #EXTINF:-1 tvg-id="FOXWFXB.us" tvg-name="SC | Myrtle Beach | FOX WFXB" group-title="ENG - Local FOX/MY",SC | Myrtle Beach | FOX WFXB
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/70153
-#EXTINF:-1 tvg-id="FOXWTVC2.us" tvg-name="TN | Chattanooga | FOX WTVC" group-title="ENG - Local FOX/MY",TN | Chattanooga | FOX WTVC
+#EXTINF:-1 tvg-id="ABCWTVC.us" tvg-name="TN | Chattanooga | ABC WTVC HD1" group-title="ENG - Local ABC",TN | Chattanooga | ABC WTVC HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/74689
 #EXTINF:-1 tvg-id="FOXWTNZ.us" tvg-name="TN | Knoxville | FOX WTNZ" group-title="ENG - Local FOX/MY",TN | Knoxville | FOX WTNZ
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89803
@@ -955,13 +955,13 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2546
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/85341
 #EXTINF:-1 tvg-id="FOXKTBC.us" tvg-name="TX | Austin | FOX KTBC HD2 " group-title="ENG - Local FOX/MY",TX | Austin | FOX KTBC HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2573
-#EXTINF:-1 tvg-id="FOXKFDMDT3.us" tvg-name="TX | Beaumont | FOX KFDM" tvg-logo="KBTY" group-title="ENG - Local FOX/MY",TX | Beaumont | FOX KFDM
+#EXTINF:-1 tvg-id="FOXKFDMDT3.us" tvg-name="TX | Beaumont | FOX KFDM" tvg-logo="KBTY" group-title="Z - Offline Streams",TX | Beaumont | FOX KFDM
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630642
 #EXTINF:-1 tvg-id="FOXKWKT.us" tvg-name="TX | Bryan | FOX KWKT" group-title="ENG - Local FOX/MY",TX | Bryan | FOX KWKT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89861
 #EXTINF:-1 tvg-id="FOXKDFW.us" tvg-name="TX | Dallas | FOX KDFW" group-title="ENG - Local FOX/MY",TX | Dallas | FOX KDFW
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2561
-#EXTINF:-1 tvg-id="FOXKFOX.us" tvg-name="TX | El Paso | FOX KFOX" group-title="ENG - Local FOX/MY",TX | El Paso | FOX KFOX
+#EXTINF:-1 tvg-id="FOXKFOX.us" tvg-name="TX | El Paso | FOX KFOX HD1" group-title="ENG - Local FOX/MY",TX | El Paso | FOX KFOX HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/566739
 #EXTINF:-1 tvg-id="FOXKFXV.us" tvg-name="TX | Harlingen | FOX KFXV" group-title="ENG - Local FOX/MY",TX | Harlingen | FOX KFXV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89834
@@ -983,13 +983,13 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2535
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630215
 #EXTINF:-1 tvg-id="FOXKFXK.us" tvg-name="TX | Tyler | FOX KFXK" group-title="ENG - Local FOX/MY",TX | Tyler | FOX KFXK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629974
-#EXTINF:-1 tvg-id="FOXKVCT.us" tvg-name="TX | Victoria | FOX KVCT" group-title="ENG - Local FOX/MY",TX | Victoria | FOX KVCT
+#EXTINF:-1 tvg-id="CW.Plus.East.us2" tvg-name="TX | Victoria | CW KVCT" group-title="ENG - Local CW/IND",TX | Victoria | CW KVCT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630210
 #EXTINF:-1 tvg-id="FOXKJTL.us" tvg-name="TX | Wichita Falls | FOX KJTL" group-title="ENG - Local FOX/MY",TX | Wichita Falls | FOX KJTL
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/641956
-#EXTINF:-1 tvg-id="Fox11+KCOP.us" tvg-name="CA | Los Angeles | MY KCOP HD" group-title="ENG - Local FOX/MY",CA | Los Angeles | MY KCOP HD
+#EXTINF:-1 tvg-id="Fox11+KCOP.us" tvg-name="CA | Los Angeles | MY KCOP HD" group-title="Z - Offline Streams",CA | Los Angeles | MY KCOP HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2478
-#EXTINF:-1 tvg-id="MyNetKTXH.us" tvg-name="TX | Houston | MY KTXH" group-title="ENG - Local FOX/MY",TX | Houston | MY KTXH
+#EXTINF:-1 tvg-id="MyNetKTXH.us" tvg-name="TX | Houston | MY KTXH" group-title="Z - Offline Streams",TX | Houston | MY KTXH
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/50091
 #EXTINF:-1 tvg-id="MyNetWRDC.us" tvg-name="CA | Los Angeles | My WRDC" group-title="Z - Offline Streams",CA | Los Angeles | My WRDC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2475
@@ -1001,7 +1001,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/92927
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/433309
 #EXTINF:-1 tvg-id="MYWWOR.us" tvg-name="NY | NYC | MY WWOR HD1" group-title="ENG - Local FOX/MY",NY | NYC | MY WWOR HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2476
-#EXTINF:-1 tvg-id="MYWUXP.us" tvg-name="TN | Nashville | MY WUXP" group-title="ENG - Local FOX/MY",TN | Nashville | MY WUXP
+#EXTINF:-1 tvg-id="ABCWKRN.us" tvg-name="TN | Nashville | ABC WKRN" tvg-logo="Wuxp" group-title="ENG - Local ABC",TN | Nashville | ABC WKRN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38297
 #EXTINF:-1 tvg-id="MyNetworkWTVZ.us" tvg-name="VA | Hampton Roads | MY WTVZ" group-title="ENG - Local FOX/MY",VA | Hampton Roads | MY WTVZ
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38324
@@ -1009,7 +1009,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38324
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38281
 #EXTINF:-1 tvg-id="MYWQMY.us" tvg-name="PA | Williamsport | MY WQMY" group-title="ENG - Local FOX/MY",PA | Williamsport | MY WQMY
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38290
-#EXTINF:-1 tvg-id="MYKSMO.us" tvg-name="MO | Kansas City | MY KSMO" group-title="ENG - Local FOX/MY",MO | Kansas City | MY KSMO
+#EXTINF:-1 tvg-id="CWWBSF.us" tvg-name="MI | Flint | CW WBSF" group-title="ENG - Local CW/IND",MI | Flint | CW WBSF
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38288
 #EXTINF:-1 tvg-id="MyWCIV.us" tvg-name="SC | Charleston | MY WCIV" group-title="ENG - Local FOX/MY",SC | Charleston | MY WCIV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38307
@@ -1021,29 +1021,29 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597158
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597166
 #EXTINF:-1 tvg-id="MYWWOR.us" tvg-name="NY | NYC | MY WWOR HD2" group-title="ENG - Local FOX/MY",NY | NYC | MY WWOR HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597169
-#EXTINF:-1 tvg-id="MYWUXP.us" tvg-name="TN | Nashville | My WUXP" group-title="ENG - Local FOX/MY",TN | Nashville | My WUXP
+#EXTINF:-1 tvg-id="MYWUXP.us" tvg-name="TN | Nashville | MY WUXP" group-title="ENG - Local FOX/MY",TN | Nashville | MY WUXP
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597172
-#EXTINF:-1 tvg-id="MYWWOR.us" tvg-name="NY | NYC | MY WWOR HD3" group-title="ENG - Local FOX/MY",NY | NYC | MY WWOR HD3
+#EXTINF:-1 tvg-id="MYWWOR.us" tvg-name="NY | NYC | MY WWOR HD3" group-title="Z - Offline Streams",NY | NYC | MY WWOR HD3
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597173
 #EXTINF:-1 tvg-id="CWWPHL.us" tvg-name="PA | Philadelphia | CW WPHL" group-title="ENG - Local CW/IND",PA | Philadelphia | CW WPHL
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/433308
 #EXTINF:-1 tvg-id="FOXKSTU.us" tvg-name="UT | SLC | FOX KSTU" group-title="ENG - Local FOX/MY",UT | SLC | FOX KSTU
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2536
-#EXTINF:-1 tvg-id="FOXWVBT.us" tvg-name="VA | Hampton Roads | FOX WVBT" group-title="ENG - Local FOX/MY",VA | Hampton Roads | FOX WVBT
+#EXTINF:-1 tvg-id="NBCWAVY.us" tvg-name="VA | Hampton Roads | NBC WAVY" group-title="ENG - Local FOX/MY",VA | Hampton Roads | NBC WAVY
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/635411
 #EXTINF:-1 tvg-id="FOXWTTG.us" tvg-name="DC | Washington | FOX WTTG HD" group-title="ENG - Local FOX/MY",DC | Washington | FOX WTTG HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/637864
-#EXTINF:-1 tvg-id="FOXWFXR.us" tvg-name="VA | Roanoke | FOX WFXR" group-title="ENG - Local FOX/MY",VA | Roanoke | FOX WFXR
+#EXTINF:-1 tvg-id="FOXWFXR.us" tvg-name="VA | Roanoke | FOX WFXR HD1" group-title="ENG - Local FOX/MY",VA | Roanoke | FOX WFXR HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/638583
 #EXTINF:-1 tvg-id="FOXWRLH.us" tvg-name="VA | Richmond | FOX WRLH" group-title="ENG - Local FOX/MY",VA | Richmond | FOX WRLH
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630652
-#EXTINF:-1 tvg-id="FOXWFXR.us" tvg-name="VA | Roanoke | FOX WFXR" group-title="ENG - Local FOX/MY",VA | Roanoke | FOX WFXR
+#EXTINF:-1 tvg-id="FOXWFXR.us" tvg-name="VA | Roanoke | FOX WFXR HD2" group-title="ENG - Local FOX/MY",VA | Roanoke | FOX WFXR HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89872
 #EXTINF:-1 tvg-id="FOXWVBT.us" tvg-name="VA | Virginia Beach | FOX WVBT" group-title="ENG - Local FOX/MY",VA | Virginia Beach | FOX WVBT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89874
 #EXTINF:-1 tvg-id="FOXWFFF.us" tvg-name="VT | Burlington | FOX WFFF" group-title="ENG - Local FOX/MY",VT | Burlington | FOX WFFF
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89876
-#EXTINF:-1 tvg-id="FOXKCPQ.us" tvg-name="WA | Seattle | FOX KCPQ" group-title="ENG - Local FOX/MY",WA | Seattle | FOX KCPQ
+#EXTINF:-1 tvg-id="MyKZJO.us" tvg-name="WA | Seattle | MY KZJO" group-title="ENG - Local FOX/MY",WA | Seattle | MY KZJO
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/730458
 #EXTINF:-1 tvg-id="FOXKCPQ.us" tvg-name="WA | Seattle | FOX KCPQ" group-title="ENG - Local FOX/MY",WA | Seattle | FOX KCPQ
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89885
@@ -1067,11 +1067,11 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/631752
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/637227
 #EXTINF:-1 tvg-id="FOXKFNB.us" tvg-name="WY | Casper | FOX KFNB" group-title="ENG - Local FOX/MY",WY | Casper | FOX KFNB
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/631825
-#EXTINF:-1 tvg-id="NBCKGWNDT2.us" tvg-name="WY | Cheyenne | NBC KGWN" group-title="ENG - Local NBC",WY | Cheyenne | NBC KGWN
+#EXTINF:-1 tvg-id="FOXKLWY.us" tvg-name="WY | Cheyenne | FOX KLWY" group-title="ENG - Local FOX/MY",WY | Cheyenne | FOX KGWN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/631830
 #EXTINF:-1 tvg-id="FOXWRSP.us" tvg-name="IL | Springfield | FOX WRSP" group-title="ENG - Local FOX/MY",IL | Springfield | FOX WRSP
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/600287
-#EXTINF:-1 tvg-id="Fox+WPWR.us" tvg-name="IL |  Chicago | MY WPWR HD2" group-title="ENG - Local FOX/MY",IL | Chicago | MY WPWR HD2
+#EXTINF:-1 tvg-id="Fox+WPWR.us" tvg-name="IL |  Chicago | MY WPWR HD2" group-title="Z - Offline Streams",IL | Chicago | MY WPWR HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/600288
 #EXTINF:-1 tvg-id="TV20WMYD.us" tvg-name="MI | Detroit | The Spot WMYD" group-title="ENG - Local FOX/MY",MI | Detroit | The Spot WMYD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1430700
@@ -1085,7 +1085,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89394
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38267
 #EXTINF:-1 tvg-id="NBCKATH.us" tvg-name="AK | Juneau | NBC KATH" group-title="ENG - Local NBC",AK | Juneau | NBC KATH
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89395
-#EXTINF:-1 tvg-id="NBCWVTM.us" tvg-name="AL | Birmingham | NBC WVTM" group-title="ENG - Local NBC",AL | Birmingham | NBC WVTM
+#EXTINF:-1 tvg-id="CBSWVTMDT4.us" tvg-name="AL | Birmingham | CBS WVTM" group-title="ENG - Local CBS",AL | Birmingham | CBS WVTM
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75348
 #EXTINF:-1 tvg-id="NBCWRGX.us" tvg-name="AL | Dothan | NBC WRGX" group-title="ENG - Local NBC",AL | Dothan | NBC WRGX
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89400
@@ -1095,7 +1095,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75355
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38294
 #EXTINF:-1 tvg-id="NBCWSFA.us" tvg-name="AL | Montgomery | NBC WSFA" group-title="ENG - Local NBC",AL | Montgomery | NBC WSFA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89406
-#EXTINF:-1 tvg-id="NBCKAIT.us" tvg-name="AR | Jonesboro | NBC KAIT" group-title="ENG - Local NBC",AR | Jonesboro | NBC KAIT
+#EXTINF:-1 tvg-id="ABCKAIT.us" tvg-name="AR | Jonesboro | ABC KAIT" group-title="ENG - Local ABC",AR | Jonesboro | ABC KAIT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89408
 #EXTINF:-1 tvg-id="NBCKARK.us" tvg-name="AR | Little Rock | NBC KARK" group-title="ENG - Local NBC",AR | Little Rock | NBC KARK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89411
@@ -1107,7 +1107,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89422
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89425
 #EXTINF:-1 tvg-id="CNBC.ca" tvg-name="CNBC (R) CA" group-title="ENG - News",CNBC (R) CA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3083
-#EXTINF:-1 tvg-id="CW.Plus.Pacific.us" tvg-name="CA | Bakersfield | CW+ KGET" group-title="ENG - Local CW/IND",CA | Bakersfield | CW+ KGET
+#EXTINF:-1 tvg-id="NBCKGET.us" tvg-name="CA | Bakersfield | NBC KGET" group-title="ENG - Local NBC",CA | Bakersfield | NBC KGET
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89427
 #EXTINF:-1 tvg-id="NBCKNVN.us" tvg-name="CA | Chico | NBC KNVN" group-title="ENG - Local NBC",CA | Chico | NBC KNVN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89428
@@ -1155,7 +1155,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3668
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2452
 #EXTINF:-1 tvg-id="NBCWESH.us" tvg-name="FL | Orlando | NBC WESH" group-title="ENG - Local NBC",FL | Orlando | NBC WESH
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2446
-#EXTINF:-1 tvg-id="NBCWTWC.us" tvg-name="FL | Tallahassee | NBC WTWC" group-title="ENG - Local NBC",FL | Tallahassee | NBC WTWC
+#EXTINF:-1 tvg-id="FOXWTWCDT2.us" tvg-name="FL | Tallahassee | FOX WTWC" group-title="ENG - Local FOX/MY",FL | Tallahassee | FOX WTWC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/60444
 #EXTINF:-1 tvg-id="NBCWFLA.us" tvg-name="FL | TAMPA | NBC WFLA" group-title="ENG - Local NBC",FL | TAMPA | NBC WFLA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/59890
@@ -1201,7 +1201,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2464
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89558
 #EXTINF:-1 tvg-id="NBCWPSD.us" tvg-name="IL | Harrisburg | NBC WPSD" group-title="ENG - Local NBC",IL | Harrisburg | NBC WPSD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93165
-#EXTINF:-1 tvg-id="NBCWEEK.us" tvg-name="IL | Peoria | NBC WEEK" group-title="ENG - Local NBC",IL | Peoria | NBC WEEK
+#EXTINF:-1 tvg-id="ABCWEEKDT2.us" tvg-name="IL | Peoria | ABC WEEK" group-title="ENG - Local ABC",IL | Peoria | ABC WEEK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89561
 #EXTINF:-1 tvg-id="NBCWGEM.us" tvg-name="IL | Quincy | NBC WGEM" group-title="ENG - Local NBC",IL | Quincy | NBC WGEM
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89562
@@ -1215,7 +1215,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89568
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/56256
 #EXTINF:-1 tvg-id="NBCKLAF.us" tvg-name="LA | Lafayette | NBC KLAF" group-title="ENG - Local NBC",LA | Lafayette | NBC KLAF
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/430037
-#EXTINF:-1 tvg-id="NBCWPBIDT2.us" tvg-name="IN | Lafayette | NBC WPBI" group-title="ENG - Local NBC",IN | Lafayette | NBC WPBI
+#EXTINF:-1 tvg-id="FOXWPBI.us" tvg-name="IN | Lafayette | FOX WPBI" group-title="ENG - Local FOX/MY",IN | Lafayette | FOX WPBI
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89572
 #EXTINF:-1 tvg-id="NBCWNDU.us" tvg-name="IN | South Bend | NBC WNDU" group-title="ENG - Local NBC",IN | South Bend | NBC WNDU
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89574
@@ -1225,7 +1225,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89575
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89577
 #EXTINF:-1 tvg-id="NBCKSNW.us" tvg-name="KS | Wichita | NBC KSNW" group-title="ENG - Local NBC",KS | Wichita | NBC KSNW
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75366
-#EXTINF:-1 tvg-id="NBCWNKY.us" tvg-name="KY | Bowling Green | NBC WNKY" group-title="ENG - Local NBC",KY | Bowling Green | NBC WNKY
+#EXTINF:-1 tvg-id="CBSWNKYDT2.us" tvg-name="KY | Bowling Green | CBS WNKY" group-title="ENG - Local CBS",KY | Bowling Green | CBS WNKY
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/50917
 #EXTINF:-1 tvg-id="NBCWLEX.us" tvg-name="KY | Lexington | NBC WLEX" group-title="ENG - Local NBC",KY | Lexington | NBC WLEX
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93171
@@ -1233,11 +1233,11 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93171
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/70148
 #EXTINF:-1 tvg-id="NBCWPSD.us" tvg-name="KY | Paducah | NBC WPSD" group-title="ENG - Local NBC",KY | Paducah | NBC WPSD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/723762
-#EXTINF:-1 tvg-id="NBCKALB.us" tvg-name="LA | Alexandria | NBC KALB" group-title="ENG - Local NBC",LA | Alexandria | NBC KALB
+#EXTINF:-1 tvg-id="CBSKALBDT2.us" tvg-name="LA | Alexandria | CBS KALB" group-title="ENG - Local CBS",LA | Alexandria | CBS KALB
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89587
 #EXTINF:-1 tvg-id="NBCWVLA.us" tvg-name="LA | Baton Rouge | NBC WVLA " group-title="ENG - Local NBC",LA | Baton Rouge | NBC WVLA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38254
-#EXTINF:-1 tvg-id="ABCWBRZ.us" tvg-name="LA | Baton Rouge | ABC WBRZ HD2" group-title="ENG - Local ABC",LA | Baton Rouge | ABC WBRZ HD2
+#EXTINF:-1 tvg-id="NBCWVLA.us" tvg-name="LA | Baton Rouge | NBC WVLA HD" group-title="ENG - Local NBC",LA | Baton Rouge | NBC WVLA HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89590
 #EXTINF:-1 tvg-id="NBCKLAF.us" tvg-name="LA | Lafayette | NBC KLAF" group-title="ENG - Local NBC",LA | Lafayette | NBC KLAF
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89595
@@ -1255,7 +1255,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2426
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2467
 #EXTINF:-1 tvg-id="NBCWWLP.us" tvg-name="MA | Springfield | NBC WWLP" group-title="ENG - Local NBC",MA | Springfield | NBC WWLP
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89609
-#EXTINF:-1 tvg-id="NBCWLUC.us" tvg-name="MI | Marquette | NBC WLUC" group-title="ENG - Local NBC",MI | Marquette | NBC WLUC
+#EXTINF:-1 tvg-id="FoxUpWLUCDT2.us" tvg-name="MI | Marquette | FOX WLUC" group-title="ENG - Local FOX/MY",MI | Marquette | FOX WLUC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/77760
 #EXTINF:-1 tvg-id="NBCWBAL.us" tvg-name="MD | Baltimore | NBC WBAL" group-title="ENG - Local NBC",MD | Baltimore | NBC WBAL
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2468
@@ -1285,9 +1285,9 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2450
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38274
 #EXTINF:-1 tvg-id="NBCKSHB.us" tvg-name="MO | Kansas City | NBC KSHB" group-title="ENG - Local NBC",MO | Kansas City | NBC KSHB
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89644
-#EXTINF:-1 tvg-id="KYOU-DT.us_locals1" tvg-name="MO | Kirksville | FOX KYOU" group-title="ENG - Local FOX/MY",MO | Kirksville | FOX KYOU
+#EXTINF:-1 tvg-id="KYOU-DT.us_locals1" tvg-name="MO | Kirksville | FOX KYOU HD2" group-title="ENG - Local FOX/MY",MO | Kirksville | FOX KYOU HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629891
-#EXTINF:-1 tvg-id="CW.Plus.East.us2" tvg-name="MO | St. Joseph | CW+ KBJO" group-title="ENG - Local CW/IND",MO | St. Joseph | CW+ KBJO
+#EXTINF:-1 tvg-id="ABCKQTV.us" tvg-name="MO | St. Joseph | ABC KQTV" tvg-logo="CW+ KBJO" group-title="ENG - Local ABC",MO | St. Joseph | ABC KQTV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89648
 #EXTINF:-1 tvg-id="NBCWSFA.us" tvg-name="AL | Montgomery | NBC WFSA" group-title="ENG - Local NBC",AL | Montgomery | NBC WFSA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75351
@@ -1299,9 +1299,9 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629905
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/62428
 #EXTINF:-1 tvg-id="NBCWLBT.us" tvg-name="MS | Jackson | NBC WLBT" group-title="ENG - Local NBC",MS | Jackson | NBC WLBT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/102602
-#EXTINF:-1 tvg-id="NBCWDAM.us" tvg-name="MS | Laurel | NBC WDAM" group-title="ENG - Local NBC",MS | Laurel | NBC WDAM
+#EXTINF:-1 tvg-id="ABCWDAMDT2.us" tvg-name="MS | Laurel | ABC WDAM" group-title="ENG - Local ABC",MS | Laurel | ABC WDAM
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89658
-#EXTINF:-1 tvg-id="NBCWGBCDT2.us" tvg-name="MS | Meridian | NBC WGBC" group-title="ENG - Local NBC",MS | Meridian | NBC WGBC
+#EXTINF:-1 tvg-id="FOXWGBC.us" tvg-name="MS | Meridian | FOX WGBC" group-title="ENG - Local FOX/MY",MS | Meridian | FOX WGBC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/434064
 #EXTINF:-1 tvg-id="NBCKULR.us" tvg-name="MT | Billings | NBC KULR" group-title="ENG - Local NBC",MT | Billings | NBC KULR
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89660
@@ -1387,7 +1387,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89740
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89743
 #EXTINF:-1 tvg-id="NBCWHIZ.us" tvg-name="OH | Zanesville | NBC WHIZ" group-title="ENG - Local NBC",OH | Zanesville | NBC WHIZ
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89744
-#EXTINF:-1 tvg-id="NBCKTEN.us" tvg-name="OK | Ada | NBC KTEN" group-title="ENG - Local NBC",OK | Ada | NBC KTEN
+#EXTINF:-1 tvg-id="ABCKTENDT3.us" tvg-name="OK | Ada | ABC KTEN" group-title="ENG - Local ABC",OK | Ada | ABC KTEN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89745
 #EXTINF:-1 tvg-id="NBCKFOR.us" tvg-name="OK | OKC | NBC KFOR" group-title="ENG - Local NBC",OK | OKC | NBC KFOR
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/42490
@@ -1433,9 +1433,9 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/77755
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38308
 #EXTINF:-1 tvg-id="NBWIS.us" tvg-name="SC | Columbia | NBC WIS" group-title="ENG - Local NBC",SC | Columbia | NBC WIS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/61804
-#EXTINF:-1 tvg-id="NBCWYFF.us" tvg-name="SC | Greenville | NBC WYFF" group-title="ENG - Local NBC",SC | Greenville | NBC WYFF
+#EXTINF:-1 tvg-id="CBSWYFFDT3.us" tvg-name="SC | Greenville | CBS WYFF" group-title="ENG - Local CBS",SC | Greenville | CBS WYFF
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89791
-#EXTINF:-1 tvg-id="NBCKNBN.us" tvg-name="SD | Rapid City | NBC KNBN" group-title="ENG - Local NBC",SD | Rapid City | NBC KNBN
+#EXTINF:-1 tvg-id="CBSKNBNDT2.us" tvg-name="SD | Rapid City | CBS KNBN" group-title="ENG - Local CBS",SD | Rapid City | CBS KNBN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89796
 #EXTINF:-1 tvg-id="FoxKDLTDT2.us" tvg-name="SD | Sioux Falls | FOX KDLT" group-title="ENG - Local FOX/MY",SD | Sioux Falls | FOX KDLT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89798
@@ -1451,7 +1451,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/102603
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89804
 #EXTINF:-1 tvg-id="NBCWSMV.us" tvg-name="TN | Nashville | NBC WSMV" group-title="ENG - Local NBC",TN | Nashville | NBC WSMV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2449
-#EXTINF:-1 tvg-id="NBCWCYB.us" tvg-name="TN-VA | Tri-Cities | NBC WCYB" group-title="ENG - Local NBC",TN-VA | Tri-Cities | NBC WCYB
+#EXTINF:-1 tvg-id="FOXWCYBDT3.us" tvg-name="TN-VA | Tri-Cities | FOX WCYB" group-title="ENG - Local FOX/MY",TN-VA | Tri-Cities | FOX WCYB
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89810
 #EXTINF:-1 tvg-id="NBCWPBN.us" tvg-name="MI | Traverse City | NBC WPBN" group-title="ENG - Local NBC",MI | Traverse City | NBC WPBN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/77764
@@ -1461,9 +1461,9 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/641953
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89814
 #EXTINF:-1 tvg-id="NBCKXAN.us" tvg-name="TX | Austin | NBC KXAN" group-title="ENG - Local NBC",TX | Austin | NBC KXAN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/85342
-#EXTINF:-1 tvg-id="NBCKBMTDT2.us" tvg-name="TX | Beaumont | NBC KBMT" group-title="ENG - Local NBC",TX | Beaumont | NBC KBMT
+#EXTINF:-1 tvg-id="ABCKBMT.us" tvg-name="TX | Beaumont | ABC KBMT" group-title="ENG - Local ABC",TX | Beaumont | ABC KBMT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89819
-#EXTINF:-1 tvg-id="NBCKVEO.us" tvg-name="TX | Brownsville | NBC KVEO" group-title="ENG - Local NBC",TX | Brownsville | NBC KVEO
+#EXTINF:-1 tvg-id="CBSKVEODT2.us" tvg-name="TX | Brownsville | CBS KVEO" group-title="ENG - Local CBS",TX | Brownsville | CBS KVEO
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89821
 #EXTINF:-1 tvg-id="NBCKAGS.us" tvg-name="TX | Bryan | NBC KAGS" group-title="ENG - Local NBC",TX | Bryan | NBC KAGS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38277
@@ -1475,7 +1475,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2461
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89827
 #EXTINF:-1 tvg-id="NBCKPRC.us" tvg-name="TX | Houston | NBC KPRC" group-title="ENG - Local NBC",TX | Houston | NBC KPRC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2455
-#EXTINF:-1 tvg-id="NBCKGNS.us" tvg-name="TX | Laredo | NBC KGNS" group-title="ENG - Local NBC",TX | Laredo | NBC KGNS
+#EXTINF:-1 tvg-id="ABCKGNSDT2.us" tvg-name="TX | Laredo | ABC KGNS" group-title="ENG - Local ABC",TX | Laredo | ABC KGNS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89841
 #EXTINF:-1 tvg-id="NBCKCBD.us" tvg-name="TX | Lubbock | NBC KCBD " group-title="ENG - Local NBC",TX | Lubbock | NBC KCBD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38305
@@ -1517,7 +1517,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89868
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89869
 #EXTINF:-1 tvg-id="NBCWSLS.us" tvg-name="VA | Roanoke | NBC WSLS" group-title="ENG - Local NBC",VA | Roanoke | NBC WSLS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89873
-#EXTINF:-1 tvg-id="nbc19wvgn.us" tvg-name="Virgin Islands | Charlotte Amalie | NBC WVGN" tvg-logo="https://static.realiptv.to/snapshots/89912.jpg" group-title="Z - Offline Streams",Virgin Islands | Charlotte Amalie | NBC WVGN
+#EXTINF:-1 tvg-id="NBCWVGN.us" tvg-name="VI | Charlotte Amalie | NBC WVGN" group-title="Z - Offline Streams",VI | Charlotte Amalie | NBC WVGN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89912
 #EXTINF:-1 tvg-id="NBCWPTZ.us" tvg-name="VT | Burlington | NBC WPTZ" group-title="ENG - Local NBC",VT | Burlington | NBC WPTZ
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629927
@@ -1547,19 +1547,19 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89900
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89901
 #EXTINF:-1 tvg-id="NBCWVVA.us" tvg-name="WV | Bluefield | NBC WVVA" group-title="ENG - Local NBC",WV | Bluefield | NBC WVVA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89902
-#EXTINF:-1 tvg-id="NBCWBOY.us" tvg-name="WV | Clarksburg | NBC WBOY" group-title="ENG - Local NBC",WV | Clarksburg | NBC WBOY
+#EXTINF:-1 tvg-id="ABCWBOYDT2.us" tvg-name="WV | Clarksburg | ABC WBOY" group-title="ENG - Local ABC",WV | Clarksburg | ABC WBOY
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89904
 #EXTINF:-1 tvg-id="NBCWSAZ.us" tvg-name="WV | Huntington | NBC WSAZ" group-title="ENG - Local NBC",WV | Huntington | NBC WSAZ
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89906
 #EXTINF:-1 tvg-id="NBCWTAP.us" tvg-name="WV | Parkersburg | NBC WTAP" group-title="ENG - Local NBC",WV | Parkersburg | NBC WTAP
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89907
-#EXTINF:-1 tvg-id="NBCWTOV.us" tvg-name="WV | Wheeling | NBC WTOV" group-title="ENG - Local NBC",WV | Wheeling | NBC WTOV
+#EXTINF:-1 tvg-id="FOXWTOVDT2.us" tvg-name="WV | Wheeling | FOX WTOV" group-title="ENG - Local FOX/MY",WV | Wheeling | FOX WTOV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/434066
 #EXTINF:-1 tvg-id="NBCKCWY.us" tvg-name="WY | Casper | NBC KCWY HD" group-title="ENG - Local NBC",WY | Casper | NBC KCWY HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89908
 #EXTINF:-1 tvg-id="NBCKCWY.us" tvg-name="WY | Cheyenne | NBC KCWY HD2" group-title="ENG - Local NBC",WY | Cheyenne | NBC KCWY HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89909
-#EXTINF:-1 tvg-id="ABCWJARDT2.us" tvg-name="RI | Providence | ABC WJAR" group-title="ENG - Local ABC",RI | Providence | ABC WJAR
+#EXTINF:-1 tvg-id="ABCWJARDT2.us" tvg-name="RI | Providence | ABC WJAR HD1" group-title="ENG - Local ABC",RI | Providence | ABC WJAR HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/98187
 #EXTINF:-1 tvg-id="PBSKAKM.us" tvg-name="AK | Anchorage | PBS KAKM" group-title="ENG - Kids & Family",AK | Anchorage | PBS KAKM
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629088
@@ -1817,7 +1817,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97474
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3674
 #EXTINF:-1 tvg-id="PBSKLVX.us" tvg-name="NV | Las Vegas | PBS KLVX" group-title="ENG - Kids & Family",NV | Las Vegas | PBS KLVX
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/725062
-#EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="PBS Kids (East) HD" group-title="ENG - Kids & Family",PBS Kids (East) HD 
+#EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="PBS Kids (East) HD" group-title="ENG - Kids & Family",PBS Kids (East) HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21816
 #EXTINF:-1 tvg-id="PBSKidsNYC.us" tvg-name="PBS Kids (East) SD" group-title="ENG - Kids & Family",PBS Kids (East) SD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401189
@@ -1855,7 +1855,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38263
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38262
 #EXTINF:-1 tvg-id="ABCWNCF.us" tvg-name="AL | Montgomery | ABC WNCF" group-title="ENG - Local ABC",AL | Montgomery | ABC WNCF
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75350
-#EXTINF:-1 tvg-id="ABCKHBS.us" tvg-name="AR | Fort Smith | ABC KHOG" group-title="ENG - Local ABC",AR | Fort Smith | ABC KHOG
+#EXTINF:-1 tvg-id="FOXKHON.us" tvg-name="HI | Honolulu | FOX KHON" group-title="ENG - Local FOX/MY",HI | Honolulu | FOX KHON
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38265
 #EXTINF:-1 tvg-id="ABCKATV.us" tvg-name="AR | Little Rock | ABC KATV" group-title="ENG - Local ABC",AR | Little Rock | ABC KATV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/525686
@@ -1875,7 +1875,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/512981
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/446730
 #EXTINF:-1 tvg-id="ABCKFSN.us" tvg-name="CA | Fresno | ABC KFSN" group-title="ENG - Local ABC",CA | Fresno | ABC KFSN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2688
-#EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="CA | Los Angeles | ABC KABC" group-title="ENG - Local ABC",CA | Los Angeles | ABC KABC
+#EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="CA | Los Angeles | ABC KABC HD1" group-title="ENG - Local ABC",CA | Los Angeles | ABC KABC HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2684
 #EXTINF:-1 tvg-id="ABCKXTV.us" tvg-name="CA | Sacramento | ABC KXTV" group-title="ENG - Local ABC",CA | Sacramento | ABC KXTV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2674
@@ -1893,7 +1893,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629110
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2691
 #EXTINF:-1 tvg-id="ABCKJCT.us" tvg-name="CO | Grand Junction | ABC KJCT" group-title="ENG - Local ABC",CO | Grand Junction | ABC KJCT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629108
-#EXTINF:-1 tvg-id="ABCWTNH.us" tvg-name="CO | Hartford | ABC WTNH" group-title="ENG - Local ABC",CO | Hartford | ABC WTNH
+#EXTINF:-1 tvg-id="ABCWTNH.us" tvg-name="CT | Hartford | ABC WTNH HD1" group-title="ENG - Local ABC",CT | Hartford | ABC WTNH HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629542
 #EXTINF:-1 tvg-id="ABCWENY.us" tvg-name="NY | Elmira | ABC WENY" group-title="ENG - Local ABC",NY | Elmira | ABC WENY
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/674970
@@ -1901,7 +1901,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/674970
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38258
 #EXTINF:-1 tvg-id="ABCWCJB.us" tvg-name="FL | Gainesville | ABC WCJB" group-title="ENG - Local ABC",FL | Gainesville | ABC WCJB
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38315
-#EXTINF:-1 tvg-id="ABCWJXX.us" tvg-name="FL | Jacksonville | ABC WJXX" group-title="ENG - Local ABC",FL | Jacksonville | ABC WJXX
+#EXTINF:-1 tvg-id="NBCWTLV.us" tvg-name="FL | Jacksonville | NBC WTLV" group-title="ENG - Local NBC",FL | Jacksonville | NBC WTLV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38245
 #EXTINF:-1 tvg-id="ABCWSVNDT2.us" tvg-name="FL | Miami | ABC WSVN HD1" group-title="ENG - Local ABC",FL | Miami | ABC WSVN HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2683
@@ -2027,7 +2027,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2696
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38250
 #EXTINF:-1 tvg-id="ABCWCTI.us" tvg-name="NC | New Bern | ABC WCTI" group-title="ENG - Local ABC",NC | New Bern | ABC WCTI
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/638521
-#EXTINF:-1 tvg-id="ABCWTVD.us" tvg-name="NC | Raleigh | ABC WTVD" group-title="ENG - Local ABC",NC | Raleigh | ABC WTVD
+#EXTINF:-1 tvg-id="ABCWTVD.us" tvg-name="NC | Durham | ABC WTVD HD1" group-title="ENG - Local ABC",NC | Durham | ABC WTVD HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/542959
 #EXTINF:-1 tvg-id="ABCKBMY.us" tvg-name="ND | Bismarck | ABC KBMY" group-title="ENG - Local ABC",ND | Bismarck | ABC KBMY
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89679
@@ -2039,7 +2039,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629923
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629924
 #EXTINF:-1 tvg-id="ABCKETV.us" tvg-name="NE | Omaha | ABC KETV" group-title="ENG - Local ABC",NE | Omaha | ABC KETV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/735645
-#EXTINF:-1 tvg-id="ABCWTNH.us" tvg-name="CT | New Haven | ABC WTNH" group-title="ENG - Local ABC",CT | New Haven | ABC WTNH
+#EXTINF:-1 tvg-id="ABCWTNH.us" tvg-name="CT | Hartford | ABC WTNH HD2" group-title="ENG - Local ABC",CT | Hartford | ABC WTNH HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2693
 #EXTINF:-1 tvg-id="ABCWMUR.us" tvg-name="NH | Manchester | ABC WMUR" group-title="ENG - Local ABC",NH | Manchester | ABC WMUR
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38299
@@ -2049,7 +2049,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38302
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38255
 #EXTINF:-1 tvg-id="ABCWTEN.us" tvg-name="NY | ALBANY | ABC WTEN" group-title="ENG - Local ABC",NY | ALBANY | ABC WTEN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/64027
-#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="NY | NYC | ABC WABC (SD)" group-title="ENG - Local ABC",NY | NYC | ABC WABC (SD)
+#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="NY | NYC | ABC WABC SD" group-title="ENG - Local ABC",NY | NYC | ABC WABC SD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21541
 #EXTINF:-1 tvg-id="ABCWALBDT2.us" tvg-name="NY | ALBANY | ABC WALB HD1" group-title="ENG - Local ABC",NY | Albany | ABC WALB HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/63934
@@ -2057,9 +2057,9 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/63934
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/691402
 #EXTINF:-1 tvg-id="ABCWKBW.us" tvg-name="NY | Buffalo | ABC WKBW" group-title="ENG - Local ABC",NY | Buffalo | ABC WKBW
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38280
-#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="NY | NYC | ABC WABC" group-title="ENG - Local ABC",NY | NYC | ABC WABC
+#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="NY | NYC | ABC WABC HD1" group-title="ENG - Local ABC",NY | NYC | ABC WABC HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/112234
-#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="NY | NYC | ABC WABC UHD" group-title="ENG - Local ABC",NY | NYC | ABC WABC UHD
+#EXTINF:-1 tvg-id="ABCWABC.us" tvg-name="NY | NYC | ABC WABC HD2" group-title="ENG - Local ABC",NY | NYC | ABC WABC HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3606
 #EXTINF:-1 tvg-id="ABCWHAM.us" tvg-name="NY | Rochester | ABC WHAM" group-title="ENG - Local ABC",NY | Rochester | ABC WHAM
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/536273
@@ -2099,9 +2099,9 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/510265
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38261
 #EXTINF:-1 tvg-id="ABCWPVI.us" tvg-name="PA | Philadelphia | ABC WPVI" group-title="ENG - Local ABC",PA | Philadelphia | ABC WPVI
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2678
-#EXTINF:-1 tvg-id="VEPLUS.us" tvg-name="PA | Scranton | ABC WNEP" group-title="ENG - Local ABC",PA | Scranton | ABC WNEP
+#EXTINF:-1 tvg-id="WNEP-DT.us_locals1" tvg-name="PA | Scranton | ABC WNEP" group-title="ENG - Local ABC",PA | Scranton | ABC WNEP
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/112251
-#EXTINF:-1 tvg-id="ABCWJARDT2.us" tvg-name="RI | Providence | ABC WJAR" group-title="ENG - Local ABC",RI | Providence | ABC WJAR
+#EXTINF:-1 tvg-id="ABCWJARDT2.us" tvg-name="RI | Providence | ABC WJAR HD2" group-title="ENG - Local ABC",RI | Providence | ABC WJAR HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/628874
 #EXTINF:-1 tvg-id="ABCWCIVDT2.us" tvg-name="SC | Charleston | ABC WCIV" group-title="ENG - Local ABC",SC | Charleston | ABC WCIV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38306
@@ -2113,7 +2113,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/61805
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/70155
 #EXTINF:-1 tvg-id="ABCWLOS.us" tvg-name="SC | Greenville | ABC WLOS" group-title="ENG - Local ABC",SC | Greenville | ABC WLOS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/638184
-#EXTINF:-1 tvg-id="ABCWTVC.us" tvg-name="TN | Chattanooga | ABC WTVC" group-title="ENG - Local ABC",TN | Chattanooga | ABC WTVC
+#EXTINF:-1 tvg-id="ABCWTVC.us" tvg-name="TN | Chattanooga | ABC WTVC HD2" group-title="ENG - Local ABC",TN | Chattanooga | ABC WTVC HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/74690
 #EXTINF:-1 tvg-id="ABCWATE.us" tvg-name="TN | Knoxville | ABC WATE" group-title="ENG - Local ABC",TN | Knoxville | ABC WATE
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/620009
@@ -2143,7 +2143,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2687
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38303
 #EXTINF:-1 tvg-id="ABCKMID.us" tvg-name="TX | Midland | ABC KMID" group-title="ENG - Local ABC",TX | Midland | ABC KMID
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630029
-#EXTINF:-1 tvg-id="ABCKTXE.us" tvg-name="TX | San Angelo | ABC KTXE" group-title="ENG - Local ABC",TX | San Angelo | ABC KTXE
+#EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="CA | Los Angeles | ABC KABC HD2" group-title="ENG - Local ABC",CA | Los Angeles | ABC KABC HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629965
 #EXTINF:-1 tvg-id="ABCKTXS.us" tvg-name="TX | Sweetwater | ABC KTXS" group-title="ENG - Local ABC",TX | Sweetwater | ABC KTXS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630213
@@ -2153,7 +2153,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630209
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/600293
 #EXTINF:-1 tvg-id="ABCWLS.us" tvg-name="IL | Chicago | ABC WLS (SD)" tvg-logo="https://static.realiptv.to/snapshots/429802.jpg" group-title="ENG - Local ABC",IL | Chicago | ABC WLS (SD)
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/429802
-#EXTINF:-1 tvg-id="ABCWTVD.us" tvg-name="NC | Durham | ABC WTVD" group-title="ENG - Local ABC",NC | Durham | ABC WTVD
+#EXTINF:-1 tvg-id="ABCWTVD.us" tvg-name="NC | Durham | ABC WTVD HD2" group-title="ENG - Local ABC",NC | Durham | ABC WTVD HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2689
 #EXTINF:-1 tvg-id="ABCWISN.us" tvg-name="WI | Milwaukee | ABC WISN" group-title="ENG - Local ABC",WI | Milwaukee | ABC WISN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2682
@@ -2229,11 +2229,11 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630645
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/607668
 #EXTINF:-1 tvg-id="CWWCWJ.us" tvg-name="FL | Jacksonville | CW WCWJ " group-title="ENG - Local CW/IND",FL | Jacksonville | CW WCWJ
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/607669
-#EXTINF:-1 tvg-id="CWWSFL.us" tvg-name="FL | Miami | CW WSFL (SD)" group-title="ENG - Local CW/IND",FL | Miami | CW WSFL (SD)
+#EXTINF:-1 tvg-id="CWWSFL.us" tvg-name="FL | Miami | The Spot WSFL SD" group-title="ENG - Local CW/IND",FL | Miami | The Spot WSFL SD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21556
-#EXTINF:-1 tvg-id="Local10WPLG.us" tvg-name="FL | Miami | WPLG" group-title="ENG - Local CW/IND",FL | Miami | WPLG
+#EXTINF:-1 tvg-id="ABCWSVNDT2.us" tvg-name="FL | Miami | ABC WSVN" group-title="ENG - Local ABC",FL | Miami | ABC WSVN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/694479
-#EXTINF:-1 tvg-id="CWWSFL.us" tvg-name="FL | Miami | CW WSFL" group-title="ENG - Local CW/IND",FL | Miami | CW WSFL
+#EXTINF:-1 tvg-id="CWWSFL.us" tvg-name="FL | Miami | The Spot WSFL HD" group-title="ENG - Local CW/IND",FL | Miami | The Spot WSFL HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/433867
 #EXTINF:-1 tvg-id="MYWBFS.us" tvg-name="FL | Miami | CW WBFS" group-title="ENG - Local CW/IND",FL | Miami | CW WBFS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38327
@@ -2243,7 +2243,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630216
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89505
 #EXTINF:-1 tvg-id="CWWTOG.us" tvg-name="FL | TAMPA | CW WTOG HD2" group-title="ENG - Local CW/IND",FL | TAMPA | CW WTOG HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34429
-#EXTINF:-1 tvg-id="CWWPCH.us" tvg-name="GA | Atlanta | CW WPCH" group-title="ENG - Local CW/IND",GA | Atlanta | CW WPCH
+#EXTINF:-1 tvg-id="CWWPCH.us" tvg-name="GA | Atlanta | CW WPCH HD1" group-title="Z - Offline Streams",GA | Atlanta | CW WPCH HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38244
 #EXTINF:-1 tvg-id="CWWLTZDT2.us" tvg-name="GA | Columbus | CW WLTZ" group-title="ENG - Local CW/IND",GA | Columbus | CW WLTZ
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/709108
@@ -2253,17 +2253,17 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629649
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/512990
 #EXTINF:-1 tvg-id="FOXKSCW.us" tvg-name="KS | Wichita | CW KSCW" group-title="ENG - Local CW/IND",KS | Wichita | CW KSCW
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629716
-#EXTINF:-1 tvg-id="CWWKYTDT2.us" tvg-name="KY | Lexington | CW WKYT" group-title="ENG - Local CW/IND",KY | Lexington | CW WKYT
+#EXTINF:-1 tvg-id="CBSWKYT.us" tvg-name="KY | Lexington | CBS WKYT" group-title="ENG - Local CBS",KY | Lexington | CBS WKYT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629725
 #EXTINF:-1 tvg-id="CWWLVI.us" tvg-name="MA | Boston | CW WLVI" group-title="ENG - Local CW/IND",MA | Boston | CW WLVI
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629809
-#EXTINF:-1 tvg-id="CWWNUV.us" tvg-name="MD | Baltimore | CW WNUV" group-title="ENG - Local CW/IND",MD | Baltimore | CW WNUV
+#EXTINF:-1 tvg-id="CWWNUV.us" tvg-name="MD | Baltimore | CW WNUV" group-title="Z - Offline Streams",MD | Baltimore | CW WNUV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34434
 #EXTINF:-1 tvg-id="CWWOTVDT2.us" tvg-name="MI | Battle Creek | CW WOTV" group-title="ENG - Local CW/IND",MI | Battle Creek | CW WOTV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88740
-#EXTINF:-1 tvg-id="CWWFQXDT2.us" tvg-name="MI | Cadillac | CW WFQX" group-title="ENG - Local CW/IND",MI | Cadillac | CW WFQX
+#EXTINF:-1 tvg-id="FOXWFQX.us" tvg-name="MI | Cadillac | FOX WFQX" group-title="ENG - Local FOX/MY",MI | Cadillac | FOX WFQX
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629818
-#EXTINF:-1 tvg-id="CWWKBD.us" tvg-name="MI | Detroit | CW WKBD" group-title="ENG - Local CW/IND",MI | Detroit | CW WKBD
+#EXTINF:-1 tvg-id="CWWKBD.us" tvg-name="MI | Detroit | CW WKBD HD1" group-title="Z - Offline Streams",MI | Detroit | CW WKBD HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89623
 #EXTINF:-1 tvg-id="CWKDLH.us" tvg-name="MN | Duluth | CW KDLH" group-title="ENG - Local CW/IND",MN | Duluth | CW KDLH
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629916
@@ -2277,21 +2277,21 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629896
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597163
 #EXTINF:-1 tvg-id="CWWJTV.us" tvg-name="MS | Jackson | CW WJTV" group-title="ENG - Local CW/IND",MS | Jackson | CW WJTV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629826
-#EXTINF:-1 tvg-id="CWWLFL.us" tvg-name="NC | Raleigh | CW WLFL" group-title="ENG - Local CW/IND",NC | Raleigh | CW WLFL
+#EXTINF:-1 tvg-id="CWWLFL.us" tvg-name="NC | Raleigh | CW WLFL HD1" group-title="ENG - Local CW/IND",NC | Raleigh | CW WLFL HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34435
-#EXTINF:-1 tvg-id="IndependentWCCB.us" tvg-name="NC | Charlotte | WCCB" group-title="ENG - Local CW/IND",NC | Charlotte | WCCB
+#EXTINF:-1 tvg-id="IndependentWCCB.us" tvg-name="NC | Charlotte | WCCB" group-title="Z - Offline Streams",NC | Charlotte | WCCB
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629727
 #EXTINF:-1 tvg-id="CWWCWG.us" tvg-name="NC | Greensboro | CW WCWG" group-title="ENG - Local CW/IND",NC | Greensboro | CW WCWG
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/635601
-#EXTINF:-1 tvg-id="CWWLFL.us" tvg-name="NC | Raleigh | CW WLFL" group-title="ENG - Local CW/IND",NC | Raleigh | CW WLFL
+#EXTINF:-1 tvg-id="CWWLFL.us" tvg-name="NC | Raleigh | CW WLFL HD2" group-title="ENG - Local CW/IND",NC | Raleigh | CW WLFL HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93154
 #EXTINF:-1 tvg-id="CWWNLO.us" tvg-name="NY | BUFFALO | CW WNLO" group-title="ENG - Local CW/IND",NY | BUFFALO | CW WNLO
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647359
-#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="NY | New York | CW WPIX" group-title="ENG - Local CW/IND",NY | New York | CW WPIX
+#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="NY | New York | CW WPIX HD1" group-title="Z - Offline Streams",NY | New York | CW WPIX HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/93093
-#EXTINF:-1 tvg-id="CWKTTCDT2.us" tvg-name="MN | Rochester | CW KTTC" group-title="ENG - Local CW/IND",MN | Rochester | CW KTTC
+#EXTINF:-1 tvg-id="CWKTTCDT2.us" tvg-name="MN | Rochester | CW KTTC" group-title="Z - Offline Streams",MN | Rochester | CW KTTC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629821
-#EXTINF:-1 tvg-id="CWWSTMDT2.us" tvg-name="NY | Syracuse | CW WSTM" group-title="ENG - Local CW/IND",NY | Syracuse | CW WSTM
+#EXTINF:-1 tvg-id="CWWSTMDT2.us" tvg-name="NY | Syracuse | CW WSTM HD1" group-title="ENG - Local CW/IND",NY | Syracuse | CW WSTM HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629932
 #EXTINF:-1 tvg-id="CWWWHO.us" tvg-name="OH | Columbus | CW WWHO" group-title="ENG - Local CW/IND",OH | Columbus | CW WWHO
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629939
@@ -2301,13 +2301,13 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663871
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34444
 #EXTINF:-1 tvg-id="CW+KMTRDT2.us" tvg-name="OR | Eugene | CW KMTR" group-title="ENG - Local CW/IND",OR | Eugene | CW KMTR
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/512992
-#EXTINF:-1 tvg-id="WPSG-DT.us_locals1" tvg-name="PA | Philadelphia | WPSG" group-title="ENG - Local CW/IND",PA | Philadelphia | WPSG
+#EXTINF:-1 tvg-id="WPSG-DT.us_locals1" tvg-name="PA | Philadelphia | WPSG HD1" group-title="Z - Offline Streams",PA | Philadelphia | WPSG HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34426
-#EXTINF:-1 tvg-id="CWWSEEDT2.us" tvg-name="PA | ERIE | CW WSEE" group-title="ENG - Local CW/IND",PA | ERIE | CW WSEE
+#EXTINF:-1 tvg-id="CWWSEEDT2.us" tvg-name="PA | ERIE | CW WSEE" group-title="Z - Offline Streams",PA | ERIE | CW WSEE
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/510264
-#EXTINF:-1 tvg-id="KDKA+WPKD.us" tvg-name="PA | Jeannette | KDKA+" group-title="ENG - Local CW/IND",PA | Jeannette | KDKA+
+#EXTINF:-1 tvg-id="KDKA+WPKD.us" tvg-name="PA | Jeannette | KDKA+" group-title="Z - Offline Streams",PA | Jeannette | KDKA+
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89764
-#EXTINF:-1 tvg-id="WPSG-DT.us_locals1" tvg-name="PA | Philadelphia | WPSG" group-title="ENG - Local CW/IND",PA | Philadelphia | WPSG
+#EXTINF:-1 tvg-id="WPSG-DT.us_locals1" tvg-name="PA | Philadelphia | WPSG HD2" group-title="Z - Offline Streams",PA | Philadelphia | WPSG HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89770
 #EXTINF:-1 tvg-id="WSWB-DT.us_locals1" tvg-name="PA | Wilkes-Barre | CW WSWB" group-title="ENG - Local CW/IND",PA | Wilkes-Barre | CW WSWB
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34442
@@ -2315,9 +2315,9 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34442
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34433
 #EXTINF:-1 tvg-id="CWWISDT2.us" tvg-name="SC | Columbia | CW WIS" group-title="ENG - Local CW/IND",SC | Columbia | CW WIS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629963
-#EXTINF:-1 tvg-id="CWWSTMDT2.us" tvg-name="NY | Syracuse | CW WSTM" group-title="ENG - Local CW/IND",NY | Syracuse | CW WSTM
+#EXTINF:-1 tvg-id="CWWSTMDT2.us" tvg-name="NY | Syracuse | CW WSTM HD2" group-title="ENG - Local CW/IND",NY | Syracuse | CW WSTM HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/514513
-#EXTINF:-1 tvg-id="CW58WNAB.us" tvg-name="TN | Nashville | CW WNAB" group-title="ENG - Local CW/IND",TN | Nashville | CW WNAB
+#EXTINF:-1 tvg-id="ABCWATM.us" tvg-name="PA | Altoona | ABC WATM" group-title="ENG - Local ABC",PA | Altoona | ABC WATM
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34437
 #EXTINF:-1 tvg-id="CWKIAH.us" tvg-name="TX | Houston | CW KIAH" group-title="ENG - Local CW/IND",TX | Houston | CW KIAH
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/643838
@@ -2337,13 +2337,13 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/81879
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75352
 #EXTINF:-1 tvg-id="CWKFRE.us" tvg-name="CA | Fresno | CW KFRE HD2" group-title="ENG - Local CW/IND",CA | Fresno | CW KFRE HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/446728
-#EXTINF:-1 tvg-id="WPSG-DT.us_locals1" tvg-name="PA | Philadelphia | WPSG HD" group-title="ENG - Local CW/IND",PA | Philadelphia | WPSG HD
+#EXTINF:-1 tvg-id="WPSG-DT.us_locals1" tvg-name="PA | Philadelphia | WPSG HD3" group-title="Z - Offline Streams",PA | Philadelphia | WPSG HD3
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3627
 #EXTINF:-1 tvg-id="CW.Plus.East.us2" tvg-name="CW PLUS" group-title="ENG - Entertainment",CW PLUS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38289
 #EXTINF:-1 tvg-id="CWWCWN.us" tvg-name="NY | Albany | CW WCWN" group-title="ENG - Local CW/IND",NY | Albany | CW WCWN
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34440
-#EXTINF:-1 tvg-id="KDKA+WPKD.us" tvg-name="PA | Pittsburgh | KDKA" group-title="ENG - Local CW/IND",PA | Pittsburgh | KDKA
+#EXTINF:-1 tvg-id="KDKA+WPKD.us" tvg-name="PA | Pittsburgh | KDKA" group-title="Z - Offline Streams",PA | Pittsburgh | KDKA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34432
 #EXTINF:-1 tvg-id="IndependentKMAX.us" tvg-name="CA | Sacramento | KMAX FHD" group-title="ENG - Local CW/IND",CA | Sacramento | KMAX FHD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34431
@@ -2351,21 +2351,21 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34431
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34441
 #EXTINF:-1 tvg-id="CWWOAIDT2.us" tvg-name="TX | San Antonio | CW WOAI HD2" group-title="ENG - Local CW/IND",TX | San Antonio | CW WOAI HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34439
-#EXTINF:-1 tvg-id="CWWKBD.us" tvg-name="MI | Detroit | CW WKBD" group-title="ENG - Local CW/IND",MI | Detroit | CW WKBD
+#EXTINF:-1 tvg-id="CWWKBD.us" tvg-name="MI | Detroit | CW WKBD HD2" group-title="ENG - Local CW/IND",MI | Detroit | CW WKBD HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34427
 #EXTINF:-1 tvg-id="CWWWHO.us" tvg-name="OH | Columbus | CW WWHO" group-title="ENG - Local CW/IND",OH | Columbus | CW WWHO
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34438
 #EXTINF:-1 tvg-id="3TVKTVK.us" tvg-name="KTVK 3TV Arizona's Family Phoenix" group-title="ENG - Local CW/IND",KTVK 3TV Arizona's Family Phoenix
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38298
-#EXTINF:-1 tvg-id="FOXKFOX.us" tvg-name="TX | El Paso | FOX KFOX" group-title="ENG - Local FOX/MY",TX | El Paso | FOX KFOX
+#EXTINF:-1 tvg-id="FOXKFOX.us" tvg-name="TX | El Paso | FOX KFOX HD2" group-title="Z - Offline Streams",TX | El Paso | FOX KFOX HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38212
-#EXTINF:-1 tvg-id="FOXKFOX.us" tvg-name="TX | El Paso | FOX KFOX" group-title="ENG - Local FOX/MY",TX | El Paso | FOX KFOX
+#EXTINF:-1 tvg-id="FOXKFOX.us" tvg-name="TX | El Paso | FOX KFOX HD3" group-title="ENG - Local FOX/MY",TX | El Paso | FOX KFOX HD3
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/446731
 #EXTINF:-1 tvg-id="CWWMYT.us" tvg-name="NC | Charlotte | CW WMYT" group-title="ENG - Local CW/IND",NC | Charlotte | CW WMYT
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597168
 #EXTINF:-1 tvg-id="IndependentWAXN.us" tvg-name="NC | Kannapolis | WAXN-TV " group-title="ENG - Local CW/IND",NC | Kannapolis | WAXN-TV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/723848
-#EXTINF:-1 tvg-id="IndependentWRDQ.us" tvg-name="FL | Orlando | WRDQ" group-title="ENG - Local CW/IND",FL | Orlando | WRDQ
+#EXTINF:-1 tvg-id="IndependentWRDQ.us" tvg-name="FL | Orlando | WRDQ" group-title="Z - Offline Streams",FL | Orlando | WRDQ
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/723849
 #EXTINF:-1 tvg-id="IndependentKTXA.us" tvg-name="TX | Dallas | KTXA" group-title="ENG - Local CW/IND",TX | Dallas | KTXA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38295
@@ -2379,13 +2379,13 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401208
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/635412
 #EXTINF:-1 tvg-id="CWWNNE.us" tvg-name="VT | Burlington | CW WNNE" group-title="ENG - Local CW/IND",VT | Burlington | CW WNNE
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629928
-#EXTINF:-1 tvg-id="CWKSTW.us" tvg-name="WA | Seattle | CW KSTW" group-title="ENG - Local CW/IND",WA | Seattle | CW KSTW
+#EXTINF:-1 tvg-id="CWKSTW.us" tvg-name="WA | Seattle | CW KSTW HD1" group-title="ENG - Local CW/IND",WA | Seattle | CW KSTW HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/34428
-#EXTINF:-1 tvg-id="CWKUNS.us" tvg-name="WA | SEATTLE | CW KUNS" group-title="ENG - Local CW/IND",WA | SEATTLE | CW KUNS
+#EXTINF:-1 tvg-id="CWKUNS.us" tvg-name="WA | SEATTLE | CW KUNS" group-title="Z - Offline Streams",WA | SEATTLE | CW KUNS
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597174
-#EXTINF:-1 tvg-id="CWKSTW.us" tvg-name="WA | Tacoma | CW KSTW" group-title="ENG - Local CW/IND",WA | Tacoma | CW KSTW
+#EXTINF:-1 tvg-id="CWKSTW.us" tvg-name="WA | Tacoma | CW KSTW HD2" group-title="ENG - Local CW/IND",WA | Tacoma | CW KSTW HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89884
-#EXTINF:-1 tvg-id="CWKIMADT2.us" tvg-name="WA | Yakima | CW KIMA" group-title="ENG - Local CW/IND",WA | Yakima | CW KIMA
+#EXTINF:-1 tvg-id="CBSKIMA.us" tvg-name="WA | Yakima | CBS KIMA" group-title="ENG - Local CBS",WA | Yakima | CBS KIMA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/512980
 #EXTINF:-1 tvg-id="CWWCWF.us" tvg-name="WI | Green Bay | CW WCWF" group-title="ENG - Local CW/IND",WI | Green Bay | CW WCWF
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38283
@@ -2393,7 +2393,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38283
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/38328
 #EXTINF:-1 tvg-name="WI | Wausau | CW" group-title="Z - Offline Streams",WI | Wausau | CW
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/631818
-#EXTINF:-1 tvg-id="CWWPXT.us" tvg-name="ME | Portland | CW WPXT" group-title="ENG - Local CW/IND",ME | Portland | CW WPXT
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV (WPXT)" group-title="ENG - Entertainment",Laff TV (WPXT)
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1449163
 #EXTINF:-1 tvg-id="Spectrum.News.-.Albany.Capital.Region.STVA.us2" tvg-name="Spectrum News Albany" group-title="ENG - News",Spectrum News Albany
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/597106
@@ -4151,7 +4151,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/601157
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/601156
 #EXTINF:-1 tvg-id="ScreenPixVoices.us" tvg-name="ScreenPix Voices" group-title="ENG - Movies",ScreenPix Voices
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/601155
-#EXTINF:-1 tvg-id="ScreenPixWesterns.us" tvg-name="ScreenPix Westerns " group-title="ENG - Classic TV & Westerns",ScreenPix Westerns
+#EXTINF:-1 tvg-id="ScreenPixWesterns.us" tvg-name="ScreenPix Westerns " group-title="ENG - Movies",ScreenPix Westerns
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/601154
 #EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 (East) HD US" group-title="ENG - Movies",Showtime 2 (East) HD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3965
@@ -4247,7 +4247,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3958
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97561
 #EXTINF:-1 tvg-id="StarzEncorePacific.us" tvg-name="Starz Encore (West) HD" group-title="ENG - Movies",Starz Encore (West) HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3951
-#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns (East)" group-title="ENG - Classic TV & Westerns",Starz Encore Westerns (East)
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns (East)" group-title="ENG - Movies",Starz Encore Westerns (East)
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3955
 #EXTINF:-1 tvg-id="starzinblack.us" tvg-name="Starz in Black (East) HD" group-title="ENG - Movies",Starz in Black (East) HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3962
@@ -4277,9 +4277,9 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/527261
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/605741
 #EXTINF:-1 tvg-id="HBODramaPacific.us" tvg-name="HBO Drama (West) HD1 US" group-title="ENG - Movies",HBO Drama (West) HD1 US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1094569
-#EXTINF:-1 tvg-id="StarzEncoreWesternsPacific.us" tvg-name="Starz Encore Westerns (West) HD" group-title="ENG - Classic TV & Westerns",Starz Encore Westerns (West) HD
+#EXTINF:-1 tvg-id="StarzEncoreWesternsPacific.us" tvg-name="Starz Encore Westerns (West) HD" group-title="ENG - Movies",Starz Encore Westerns (West) HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1270107
-#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns (East) HD" group-title="ENG - Classic TV & Westerns",Starz Encore Westerns (East) HD
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns (East) HD" group-title="ENG - Movies",Starz Encore Westerns (East) HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1270108
 #EXTINF:-1 tvg-id="StarzEncoreEspanol.us" tvg-name="Starz Encore Español (West)" group-title="ENG - Movies",Starz Encore Español (West)
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/1426786
@@ -4535,7 +4535,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/417709
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3067
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount (East) HD3 USA" group-title="ENG - Entertainment",Paramount (East) HD3 USA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3295
-#EXTINF:-1 tvg-id="CWWPCH.us" tvg-name="GA | Atlanta | CW WPCH" group-title="ENG - Local CW/IND",GA | Atlanta | CW WPCH
+#EXTINF:-1 tvg-id="CWWPCH.us" tvg-name="GA | Atlanta | CW WPCH HD2" group-title="ENG - Local CW/IND",GA | Atlanta | CW WPCH HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3084
 #EXTINF:-1 tvg-id="REVTV.ca" tvg-name="Rev TV CA" group-title="ENG - Sports Auto",Rev TV CA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/702667
@@ -4687,7 +4687,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/149311
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401164
 #EXTINF:-1 tvg-id="Arizona.Family.Sports.us2" tvg-name="AZ Family Sports Network" group-title="ENG - Sports",AZ Family Sports Network
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663143
-#EXTINF:-1 tvg-id="CWWEEKDT3.us" tvg-name="IL | Peoria | CW Week HD1" group-title="ENG - Local CW/IND",IL | Peoria | CW Week HD1
+#EXTINF:-1 tvg-id="CWWEEKDT3.us" tvg-name="IL | Peoria | CW Week HD1" group-title="Z - Offline Streams",IL | Peoria | CW Week HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663248
 #EXTINF:-1 tvg-id="CWWEEKDT3.us" tvg-name="IL | Peoria | CW Week HD2" group-title="ENG - Local CW/IND",IL | Peoria | CW Week HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663188
@@ -4997,7 +4997,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3972
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3973
 #EXTINF:-1 tvg-id="WorldFishingNetwork.us" tvg-name="World Fishing Network FHD" group-title="ENG - Sports",World Fishing Network FHD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/58043
-#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="NY | New York | CW WPIX" group-title="ENG - Local CW/IND",NY | New York | CW WPIX
+#EXTINF:-1 tvg-id="CWWPIX.us" tvg-name="NY | New York | CW WPIX HD2" group-title="ENG - Local CW/IND",NY | New York | CW WPIX HD2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3115
 #EXTINF:-1 tvg-name="DAZN 1 USA" group-title="ENG - Sports",DAZN 1 USA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21583
@@ -5009,7 +5009,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2377
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3776
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="YES Network HD US" group-title="ENG - Sports",YES Network HD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3695
-#EXTINF:-1 tvg-id="CWWQCW.us" tvg-name="OH | Portsmouth | CW WQCW" group-title="ENG - Local CW/IND",OH | Portsmouth | CW WQCW
+#EXTINF:-1 tvg-id="CWWQCW.us" tvg-name="OH | Portsmouth | CW WQCW" group-title="Z - Offline Streams",OH | Portsmouth | CW WQCW
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663241
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphiaPlus.us" tvg-name="NBC Sports Philadelphia Plus" group-title="ENG - Sports",NBC Sports Philadelphia Plus
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/50965
@@ -5397,7 +5397,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390426
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/390427
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network SD US" group-title="ENG - Sports MLB",MLB Network SD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21574
-#EXTINF:-1 tvg-id="FOXKXLT.us" tvg-name="MN | Rochester | FOX KXLT" group-title="Z - Offline Streams",MN | Rochester | FOX KXLT
+#EXTINF:-1 tvg-id="NBCKTTC.us" tvg-name="MN | Rochester | NBC KTTC" tvg-logo="KXLT" group-title="ENG - Local NBC",MN | Rochester | NBC KTTC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/629911
 #EXTINF:-1 tvg-id="Cars.TV.HD.us2" tvg-name="Cars TV" group-title="ENG - Sports Auto",Cars TV
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/75345
@@ -5949,5 +5949,5 @@ http://example.com/stream
 http://example.com/stream
 #EXTINF:-1 tvg-id="Blank.Dummy.us" tvg-name="NFL Expansion (FUTURE4)" group-title="ENG - Sports NFL",NFL Expansion (FUTURE4)
 http://example.com/stream
-#EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP (East) HD2 USA" group-title="ENG - Classic TV & Westerns",INSP (East) HD2 USA
+#EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP (East) HD2 USA" group-title="ENG - Entertainment",INSP (East) HD2 USA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/74682
