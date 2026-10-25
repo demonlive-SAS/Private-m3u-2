@@ -4853,10 +4853,11 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/706915
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/648959
 #EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV FHD US" group-title="ENG - Sports NBA/WNBA",NBA TV FHD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2470
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV HD US" group-title="ENG - Sports NBA/WNBA",NBA TV HD US
+#EXTINF:-1 tvg-id="tv.us" tvg-name="NBA TV HD US" group-title="ENG - Sports NBA/WNBA",NBA TV HD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3751
 #EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV SD US" group-title="ENG - Sports NBA/WNBA",NBA TV SD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3667
+
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area FHD" group-title="ENG - Sports",NBC Sports Bay Area FHD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2436
 #EXTINF:-1 tvg-id="NBCSportsBayAreaPlus.us" tvg-name="NBC Sports Bay Area FHD2" tvg-logo="Plus" group-title="ENG - Sports",NBC Sports Bay Area FHD2
@@ -4873,6 +4874,26 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663896
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3771
 #EXTINF:-1 tvg-id="ChicagoSportsNetworkPlus.us" tvg-name="Chicago Sports Plus 2" group-title="ENG - Sports",Chicago Sports Plus 2
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552930
+#EXTINF:-1 tvg-id="NBALeaguePass1.us" tvg-name="NBA 01 LP:" group-title="ENG - Sports NBA/WNBA",NBA 01 LP:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214171
+#EXTINF:-1 tvg-id="NBALeaguePass2.us" tvg-name="NBA 02 LP:" group-title="ENG - Sports NBA/WNBA",NBA 02 LP:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214172
+#EXTINF:-1 tvg-id="NBALeaguePass3.us" tvg-name="NBA 03 LP:" group-title="ENG - Sports NBA/WNBA",NBA 03 LP:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214173
+#EXTINF:-1 tvg-id="NBALeaguePass4.us" tvg-name="NBA 04 LP:" group-title="ENG - Sports NBA/WNBA",NBA 04 LP:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214174
+#EXTINF:-1 tvg-id="NBALeaguePass5.us" tvg-name="NBA 05 LP:" group-title="ENG - Sports NBA/WNBA",NBA 05 LP:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214175
+#EXTINF:-1 tvg-id="NBALeaguePass6.us" tvg-name="NBA 06 LP:" group-title="ENG - Sports NBA/WNBA",NBA 06 LP:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214176
+#EXTINF:-1 tvg-id="NBALeaguePass7.us" tvg-name="NBA 07 LP:" group-title="ENG - Sports NBA/WNBA",NBA 07 LP:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214177
+#EXTINF:-1 tvg-id="NBALeaguePass8.us" tvg-name="NBA 08 LP:" group-title="ENG - Sports NBA/WNBA",NBA 08 LP:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214178
+#EXTINF:-1 tvg-id="NBALeaguePass9.us" tvg-name="NBA 09 LP:" group-title="ENG - Sports NBA/WNBA",NBA 09 LP:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214179
+#EXTINF:-1 tvg-id="NBALeaguePass10.us" tvg-name="NBA 10 LP:" group-title="ENG - Sports NBA/WNBA",NBA 10 LP:
+https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/214180
 #EXTINF:-1 tvg-id="ChicagoSportsNetwork.us" tvg-name="Chicago Sports FHD3" tvg-logo="Plus" group-title="ENG - Sports",Chicago Sports FHD3
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3775
 #EXTINF:-1 tvg-id="NBCSN.us" tvg-name="NBC Sports Network SD" group-title="ENG - Sports",NBC Sports Network SD
