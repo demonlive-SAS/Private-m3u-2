@@ -23,5 +23,5 @@ https://live.retrostrange.com/hls/0/stream.m3u8?cachebust=fc39b1
 https://retroblast.tv/hls/0/stream.m3u8?cachebust=f224d41f
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="TheUpperLeft" tvg-logo="https://theupperleft.thesprawl.online/logo" group-title="Ambiance",TheUpperLeft
 https://theupperleft.thesprawl.online/hls/0/stream.m3u8?cachebust=2f690bd7
-#EXTINF:-1 tvg-id="KCWX-DT.us_locals1" tvg-name="TX  | San Antonio | KCWX (Not 24/7)" group-title="ENG - Local CW/IND",TX  | San Antonio | KCWX (Not 24/7)
+#EXTINF:-1 tvg-id="KCWX-DT.us_locals1" tvg-name="TX | San Antonio | KCWX (Not 24/7)" group-title="ENG - Local FOX/MY",TX | San Antonio | KCWX (Not 24/7)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
