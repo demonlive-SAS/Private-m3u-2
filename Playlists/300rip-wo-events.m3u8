@@ -117,7 +117,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647292
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/42072
 #EXTINF:-1 tvg-name="MC Video | Holiday Hits" group-title="Z - Offline Streams",MC Video | Holiday Hits
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/42069
-#EXTINF:-1 tvg-name="MC Video | Holiday Yule Logs" group-title="Ambiance",MC Video | Holiday Yule Logs
+#EXTINF:-1 tvg-name="MC | Holiday Yule Logs" group-title="Z - Offline Streams",MC | Holiday Yule Logs
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/42070
 #EXTINF:-1 tvg-id="MusicChoiceFeel-GoodFavorites.us" tvg-name="MC | Feel-Good Favorite" group-title="Music (All Lang)",MC | Feel-Good Favorite
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/42093
@@ -989,7 +989,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/630210
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/641956
 #EXTINF:-1 tvg-id="Fox11+KCOP.us" tvg-name="CA | Los Angeles | MY KCOP HD" group-title="Z - Offline Streams",CA | Los Angeles | MY KCOP HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2478
-#EXTINF:-1 tvg-id="MyNetKTXH.us" tvg-name="TX | Houston | MY KTXH" group-title="Z - Offline Streams",TX | Houston | MY KTXH
+#EXTINF:-1 tvg-id="MyNetKTXH.us" tvg-name="TX | Houston | MY KTXH" group-title="ENG - Local FOX/MY",TX | Houston | MY KTXH
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/50091
 #EXTINF:-1 tvg-id="MyNetWRDC.us" tvg-name="CA | Los Angeles | My WRDC" group-title="Z - Offline Streams",CA | Los Angeles | My WRDC
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2475
@@ -2487,7 +2487,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3716
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21549
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD US" group-title="ENG - News",CNN HD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2608
-#EXTINF:-1 tvg-id="CNNinternational.us" tvg-name="CNN International HD1 US" group-title="ENG - News",CNN International HD1 US 
+#EXTINF:-1 tvg-id="CNNinternational.us" tvg-name="CNN International HD1 US" group-title="ENG - News",CNN International HD1 US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/88946
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD2 US" group-title="ENG - News",CNN HD2 US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3715
@@ -2503,7 +2503,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3643
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21550
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News HD1 US" group-title="ENG - News",FOX News HD1 US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2543
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News HD2 US" group-title="Z - Offline Streams",FOX News HD2 US
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News HD2 US" group-title="ENG - News",FOX News HD2 US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3731
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News HD3 US" group-title="ENG - News",FOX News HD3 US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3647
@@ -3217,7 +3217,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2181
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2177
 #EXTINF:-1 tvg-id="STV.uk" tvg-name="STV FHD" group-title="ENG - Entertainment",STV FHD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2168
-#EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM (East) FHD US" group-title="ENG - Entertainment",TCM (East) FHD US
+#EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM (East) HD US" group-title="ENG - Movies",TCM (East) HD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2165
 #EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC FHD UK" group-title="ENG - Entertainment",TLC FHD UK
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2161
@@ -3877,13 +3877,13 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663939
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401199
 #EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-name="Tastemade Travel" group-title="ENG - Entertainment",Tastemade Travel
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663940
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East) SD USA" group-title="ENG - Entertainment",TBS (East) SD USA
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East) SD US" group-title="ENG - Entertainment",TBS (East) SD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/21606
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East) HD1 USA" group-title="ENG - Entertainment",TBS (East) HD1 USA
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East) HD1 US" group-title="ENG - Entertainment",TBS (East) HD1 US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3761
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East) HD2 USA" group-title="ENG - Entertainment",TBS (East) HD2 USA
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East) HD2 US" group-title="ENG - Entertainment",TBS (East) HD2 US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3684
-#EXTINF:-1 tvg-id="TBSPacific.us" tvg-name="TBS (West) USA" group-title="ENG - Entertainment",TBS (West) USA
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East) HD3 US" group-title="ENG - Entertainment",TBS (East) HD3 US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/3842
 #EXTINF:-1 tvg-id="AfricaChannel.us" tvg-name="Africa Channel HD" group-title="ENG - Entertainment",Africa Channel HD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647825
@@ -3963,7 +3963,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/645915
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/36742
 #EXTINF:-1 tvg-id="VictoryChannel.us" tvg-name="Victory Channel" group-title="ENG - Entertainment",Victory Channel
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/647829
-#EXTINF:-1 tvg-id="WAPAAmerica.us" tvg-name="WAPA America" group-title="ENG - Entertainment",WAPA America
+#EXTINF:-1 tvg-id="WAPAAmerica.us" tvg-name="WAPA America" group-title="ESP - Local",WAPA America
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/4491
 #EXTINF:-1 tvg-id="WeTV.us" tvg-name="WE TV (East) SD USA" group-title="ENG - Entertainment",WE TV (East) SD USA
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97487
@@ -4095,7 +4095,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/97558
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/51552
 #EXTINF:-1 tvg-id="HBOMoviesPacific.us" tvg-name="HBO Movies (West) HD US" group-title="ENG - Movies",HBO Movies (West) HD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/631877
-#EXTINF:-1 tvg-id="HDNetMovies.us" tvg-name="HDNET Movies" group-title="Z - Offline Streams",HDNET Movies
+#EXTINF:-1 tvg-id="HDNetMovies.us" tvg-name="HDNET Movies" group-title="ENG - Movies",HDNET Movies
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/89182
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV (East) HD US" group-title="ENG - Entertainment",HGTV (East) HD US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2489
@@ -4685,7 +4685,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/552925
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/149311
 #EXTINF:-1 tvg-id="SportsNetPittsburgh.us" tvg-name="SportsNet Pittsburgh SD" group-title="ENG - Sports",SportsNet Pittsburgh SD
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/401164
-#EXTINF:-1 tvg-id="Arizona.Family.Sports.us2" tvg-name="AZ Family Sports Network" group-title="Z - Offline Streams",AZ Family Sports Network
+#EXTINF:-1 tvg-id="Arizona.Family.Sports.us2" tvg-name="AZ Family Sports Network" group-title="ENG - Local CW/IND",AZ Family Sports Network
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663143
 #EXTINF:-1 tvg-id="CWWEEKDT3.us" tvg-name="IL | Peoria | CW Week HD1" group-title="ENG - Local CW/IND",IL | Peoria | CW Week HD1
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/663248
@@ -4967,7 +4967,7 @@ https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2408
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2407
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade US" group-title="ENG - Entertainment",Tastemade US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2405
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East) HD US" group-title="ENG - Entertainment",TBS (East) HD US
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS (East) HD4 US" group-title="ENG - Entertainment",TBS (East) HD4 US
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2404
 #EXTINF:-1 tvg-id="TelemundoWNEU.us" tvg-name="MA | Boston | Telemundo WNEU" group-title="ESP - Local",MA | Boston | Telemundo WNEU
 https://restream-live.realiptv.to/riptv1010/mpmoGhhOP8/2401
