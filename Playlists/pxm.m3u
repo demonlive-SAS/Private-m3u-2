@@ -2059,7 +2059,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94127.ts
 #EXTINF:-1 tvg-name="F1 TV ⓧ: Sprint Race" tvg-logo="http://platinumxmedia.xyz/images/logos/f1-tv.png" group-title="ENG - Sports Auto",F1 TV ⓧ: Sprint Race
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/96019.ts
-#EXTINF:-1 tvg-name="FR | A2i Musicⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (EPG)",FR | A2i Musicⓧ HD
+#EXTINF:-1 tvg-name="FR | A2i Musicⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",FR | A2i Musicⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/67256.ts
 #EXTINF:-1 tvg-name="FR | B Smartⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/b-smart-fr.png" group-title="Z - Offline Streams",FR | B Smartⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/66940.ts
@@ -2079,19 +2079,19 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/66255.ts
 #EXTINF:-1 tvg-name="FR | BOSS Movies 8ⓧ HD OFFLINE" group-title="Z - Offline Streams",FR | BOSS Movies 8ⓧ HD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/66260.ts
-#EXTINF:-1 tvg-name="FR | C Star Hitsⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/r-6e94d1f374.png" group-title="Music (EPG)",FR | C Star Hitsⓧ OFFLINE
+#EXTINF:-1 tvg-id="CSTARHITS.fr" tvg-name="Europe 2 Pop TV Franceⓧ" group-title="Music (All Lang)",Europe 2 Pop TV Franceⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77247.ts
 #EXTINF:-1 tvg-name="FR | Canal A+ⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-canal-a-hd-165b8cd6.png" group-title="Z - Offline Streams",FR | Canal A+ⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92397.ts
 #EXTINF:-1 tvg-name="FR | Cine+ Emotionⓧ HEVC" tvg-logo="http://platinumxmedia.xyz/images/logos/cine-plus-emotion-fr.png" group-title="Z - Offline Streams",FR | Cine+ Emotionⓧ HEVC
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92485.ts
-#EXTINF:-1 tvg-name="FR | Clubbing TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-clubbing-tv-27684c2a.png" group-title="Music (EPG)",FR | Clubbing TVⓧ FHD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Clubbing TV Franceⓧ FHD" group-title="Music (All Lang)",Clubbing TV Franceⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77075.ts
-#EXTINF:-1 tvg-name="FR | DBM TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-dbm-tv-sd-01c22665.png" group-title="Music (EPG)",FR | DBM TVⓧ SD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DBM TV Franceⓧ SD" group-title="Music (All Lang)",DBM TV Franceⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9032.ts
 #EXTINF:-1 tvg-name="FR | France 24 Españolⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-france-24-espa-ol-fhd-ac5bcabb.png" group-title="Z - Offline Streams",FR | France 24 Españolⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77077.ts
-#EXTINF:-1 tvg-name="FR | Generations TVⓧ HD" tvg-logo="http://platinumxmedia.xyz:80/images/d1354a34fb12f4a8bb71751f3fbce39b.png" group-title="Music (EPG)",FR | Generations TVⓧ HD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Generations TV Franceⓧ HD" group-title="Music (All Lang)",Generations TV Franceⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92456.ts
 #EXTINF:-1 tvg-id="KUNP-DT.us_locals1" tvg-name="USA | Portland, OR KUNPⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KUNP_2025.svg/250px-KUNP_2025.svg.png" group-title="ENG - Local CW/IND",OR KUNPⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KUNP_2025.svg/250px-KUNP_2025.svg.png" group-title="ENG - Local CW/IND",OR KUNPⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KUNP_2025.svg/250px-KUNP_2025.svg.png" group-title="ENG - Local CW/IND",OR KUNPⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KUNP_2025.svg/250px-KUNP_2025.svg.png" group-title="ENG - Local CW/IND",OR KUNPⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KUNP_2025.svg/250px-KUNP_2025.svg.png" group-title="ENG - Local CW/IND",OR KUNPⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KUNP_2025.svg/250px-KUNP_2025.svg.png" group-title="ENG - Local CW/IND",OR KUNPⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KUNP_2025.svg/250px-KUNP_2025.svg.png" group-title="ENG - Local CW/IND",OR KUNPⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KUNP_2025.svg/250px-KUNP_2025.svg.png" group-title="|USA| INDEPENDENT TV STATIONS",OR KUNPⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/KUNP_2025.svg/250px-KUNP_2025.svg.png" group-title="|USA| INDEPENDENT TV STATIONS",USA | Portland, OR KUNPⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9137.ts
@@ -2099,9 +2099,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/76441.ts
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music Franceⓧ HD" group-title="Music (All Lang)",M6 Music Franceⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/66251.ts
-#EXTINF:-1 tvg-name="FR | MCM Topⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/mcm-top-fr.png" group-title="Music (EPG)",FR | MCM Topⓧ HD
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM Top Franceⓧ SD" tvg-logo="FR MCM top" group-title="Music (All Lang)",MCM Top Franceⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92371.ts
-#EXTINF:-1 tvg-name="FR | MCM Topⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/mcm-top-fr.png" group-title="Music (EPG)",FR | MCM Topⓧ FHD
+#EXTINF:-1 tvg-id="MCMPop.hu" tvg-name="MCM Pop Hungaryⓧ FHD" tvg-logo="FR MCM top" group-title="Music (All Lang)",MCM Pop Hungaryⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9240.ts
 #EXTINF:-1 tvg-id="MELODYTV.fr" tvg-name="Melody Franceⓧ SD" group-title="Music (All Lang)",Melody Franceⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/65449.ts
@@ -2111,7 +2111,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9241.ts
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo Franceⓧ SD" group-title="Music (All Lang)",Mezzo Franceⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/67257.ts
-#EXTINF:-1 tvg-name="FR | Mouv' TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-mouv-tv-08f41f28.jpg" group-title="Music (EPG)",FR | Mouv' TVⓧ SD
+#EXTINF:-1 tvg-name="FR | Mouv' TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-mouv-tv-08f41f28.jpg" group-title="Z - Offline Streams",FR | Mouv' TVⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/65431.ts
 #EXTINF:-1 tvg-id="MTVHits.fr" tvg-name="MTV Hits Franceⓧ FHD" group-title="Music (All Lang)",MTV Hits Franceⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/66077.ts
@@ -2147,7 +2147,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77076.ts
 #EXTINF:-1 tvg-id="StingrayDjazz.fr" tvg-name="Stingray Djazz TV Franceⓧ" group-title="Music (All Lang)",Stingray Djazz TV Franceⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/67255.ts
-#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="Trace Africa English Franceⓧ" group-title="Music (EPG)",Trace Africa English Franceⓧ
+#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="Trace Africa Franceⓧ" group-title="Music (All Lang)",Trace Africa Franceⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92370.ts
 #EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="Trace Africa Frenchⓧ" group-title="Music (All Lang)",Trace Africa Frenchⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/66285.ts
@@ -2159,7 +2159,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77068.ts
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel Franceⓧ HD" group-title="Music (All Lang)",Trace Gospel Franceⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/66286.ts
-#EXTINF:-1 tvg-name="FR | Trace Kitokoⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-trace-kitoko-2021dc9b.png" group-title="Music (EPG)",FR | Trace Kitokoⓧ
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Trace Kitoko Franceⓧ" group-title="Music (All Lang)",Trace Kitoko Franceⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77255.ts
 #EXTINF:-1 tvg-id="TRACELatina.lu" tvg-name="Trace Latinaⓧ" tvg-logo="Fr" group-title="Music (All Lang)",Trace Latinaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/66290.ts
@@ -2171,9 +2171,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9248.ts
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban Franceⓧ" group-title="Music (All Lang)",Trace Urban Franceⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/76440.ts
-#EXTINF:-1 tvg-name="FR | Trace Urban Internationalⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-traceurban.png" group-title="Music (EPG)",FR | Trace Urban Internationalⓧ
+#EXTINF:-1 tvg-name="FR | Trace Urban Internationalⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-traceurban.png" group-title="Z - Offline Streams",FR | Trace Urban Internationalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/66291.ts
-#EXTINF:-1 tvg-name="FR | Trace Vanillaⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-trace-vanilla-b03713e6.png" group-title="Music (EPG)",FR | Trace Vanillaⓧ OFFLINE
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Trace Vanilla Franceⓧ" group-title="Music (All Lang)",Trace Vanilla Franceⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92418.ts
 #EXTINF:-1 tvg-name="FR | TV Vendéeⓧ SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logotype_TV_vend%C3%A9e.svg/langfr-375px-Logotype_TV_vend%C3%A9e.svg.png" group-title="Z - Offline Streams",FR | TV Vendéeⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/67246.ts
@@ -2251,7 +2251,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/79540.ts
 #EXTINF:-1 tvg-name="AR | beIN Sports 9ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/bein-sports-9-int.png" group-title="ESP - AR BEIN SPORTS",AR | beIN Sports 9ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/79541.ts
-#EXTINF:-1 tvg-id="Classica.de" tvg-name="DE | Classicaⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-classica-fea2e9b0.png" group-title="Music (EPG)",DE | Classicaⓧ FHD
+#EXTINF:-1 tvg-id="Classica.de" tvg-name="DE | Classicaⓧ FHD OFFLINE" group-title="Z - Offline Streams",DE | Classicaⓧ FHD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53657.ts
 #EXTINF:-1 tvg-id="DeluxeLounge.de" tvg-name="Deluxe Lounge Germanyⓧ HD" group-title="Music (All Lang)",Deluxe Lounge Germanyⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53737.ts
@@ -2271,7 +2271,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75823.ts
 #EXTINF:-1 tvg-name="DE | Franken Fernsehenⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/franken-fernsehen-de.png" group-title="DE - REGIONAL",DE | Franken Fernsehenⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75826.ts
-#EXTINF:-1 tvg-id="Goldstar.TV.de" tvg-name="DE | GoldStar TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/goldstar-tv-de.png" group-title="Music (EPG)",DE | GoldStar TVⓧ HD
+#EXTINF:-1 tvg-id="Goldstar.TV.de" tvg-name="GoldStar TV Germanyⓧ HD" group-title="Music (All Lang)",GoldStar TV Germanyⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/79436.ts
 #EXTINF:-1 tvg-id="HR.de" tvg-name="DE | HRⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/hr-hd-de.png" group-title="DE - REGIONAL",DE | HRⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53564.ts
@@ -2281,11 +2281,11 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/66958.ts
 #EXTINF:-1 tvg-name="DE | Isar TV Landshutⓧ HD" tvg-logo="https://evlfans.de/index.php?media/11-21znys32cvl-png" group-title="DE - REGIONAL",DE | Isar TV Landshutⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75834.ts
-#EXTINF:-1 tvg-name="DE | J. S. Bach-Stiftungⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (EPG)",DE | J. S. Bach-Stiftungⓧ HD
+#EXTINF:-1 tvg-name="DE | J. S. Bach-Stiftungⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",DE | J. S. Bach-Stiftungⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53725.ts
 #EXTINF:-1 tvg-id="Jukebox.de" tvg-name="Jukebox Germanyⓧ HD" group-title="Music (All Lang)",Jukebox Germanyⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53738.ts
-#EXTINF:-1 tvg-name="DE | Kronehit TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/kronehit-de.png" group-title="Music (EPG)",DE | Kronehit TVⓧ FHD
+#EXTINF:-1 tvg-name="DE | Kronehit TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/kronehit-de.png" group-title="Z - Offline Streams",DE | Kronehit TVⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53610.ts
 #EXTINF:-1 tvg-name="DE | Light Channel TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-light-channel-tv-hd-1c93979b.png" group-title="Religion (All Lang)",DE | Light Channel TVⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75846.ts
@@ -2301,13 +2301,13 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53562.ts
 #EXTINF:-1 tvg-id="MTV80s.de" tvg-name="MTV 80s Germanyⓧ HD OFFLINE" group-title="Music (All Lang)",MTV 80s Germanyⓧ HD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53726.ts
-#EXTINF:-1 tvg-id="MTV.80s.de" tvg-name="DE | MTV 80sⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/p-mtv-80s-hd-offline-a57e1fe9.png" group-title="Music (EPG)",DE | MTV 80sⓧ SD OFFLINE
+#EXTINF:-1 tvg-id="MTV.80s.de" tvg-name="DE | MTV 80sⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/p-mtv-80s-hd-offline-a57e1fe9.png" group-title="Z - Offline Streams",DE | MTV 80sⓧ SD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78844.ts
 #EXTINF:-1 tvg-id="MTV90s.de" tvg-name="MTV 90s Germanyⓧ SD" group-title="Music (All Lang)",MTV 90s Germanyⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78845.ts
-#EXTINF:-1 tvg-id="MTV.Base.de" tvg-name="DE | MTV Baseⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (EPG)",DE | MTV Baseⓧ SD OFFLINE
+#EXTINF:-1 tvg-id="MTV.Base.de" tvg-name="DE | MTV Baseⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",DE | MTV Baseⓧ SD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/79027.ts
-#EXTINF:-1 tvg-name="DE | MTV Clubⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-club-au.png" group-title="Music (EPG)",DE | MTV Clubⓧ SD OFFLINE
+#EXTINF:-1 tvg-name="DE | MTV Clubⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-club-au.png" group-title="Z - Offline Streams",DE | MTV Clubⓧ SD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75857.ts
 #EXTINF:-1 tvg-id="MTVHits.de" tvg-name="MTV Hits Germanyⓧ SD" group-title="Music (All Lang)",MTV Hits Germanyⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78908.ts
@@ -2319,7 +2319,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53739.ts
 #EXTINF:-1 tvg-id="MTV.de" tvg-name="MTV Germany ⓧ HEVC" group-title="DE - Unterhaltung",MTV Germany ⓧ HEVC
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78846.ts
-#EXTINF:-1 tvg-name="DE | MusicTopⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-musictop-7201b39f.png" group-title="Music (EPG)",DE | MusicTopⓧ HD
+#EXTINF:-1 tvg-name="DE | MusicTopⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-musictop-7201b39f.png" group-title="Z - Offline Streams",DE | MusicTopⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75859.ts
 #EXTINF:-1 tvg-id="münchen.tv.de" tvg-name="DE | München TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-m-nchen-tv-fhd-cda39f97.png" group-title="DE - REGIONAL",DE | München TVⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75858.ts
@@ -2331,7 +2331,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78732.ts
 #EXTINF:-1 tvg-id="NDR.de" tvg-name="DE | NDRⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/ndr-hd-de.png" group-title="DE - REGIONAL",DE | NDRⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53561.ts
-#EXTINF:-1 tvg-name="DE | Nick Musicⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-nickmusic.png" group-title="Music (EPG)",DE | Nick Musicⓧ SD
+#EXTINF:-1 tvg-name="DE | Nick Musicⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-nickmusic.png" group-title="Z - Offline Streams",DE | Nick Musicⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53740.ts
 #EXTINF:-1 tvg-name="DE | Niederbayern TV Deggendorfⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/r-a3fbe028ee.png" group-title="DE - REGIONAL",DE | Niederbayern TV Deggendorfⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75863.ts
@@ -2411,7 +2411,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75918.ts
 #EXTINF:-1 tvg-name="DE | TVAⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/tva-de.png" group-title="DE - REGIONAL",DE | TVAⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75916.ts
-#EXTINF:-1 tvg-name="DE | Vevo Popⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-rules-of-engagement-62f704b8.png" group-title="Music (EPG)",DE | Vevo Popⓧ HD
+#EXTINF:-1 tvg-name="DE | Vevo Popⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-rules-of-engagement-62f704b8.png" group-title="Z - Offline Streams",DE | Vevo Popⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108060.ts
 #EXTINF:-1 tvg-name="DE | Waidwerkⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-waidwerk-fhd-e7cba8b0.png" group-title="DE - REGIONAL",DE | Waidwerkⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75919.ts
@@ -2419,7 +2419,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/53560.ts
 #EXTINF:-1 tvg-name="DE | WTV Wettinⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="DE - REGIONAL",DE | WTV Wettinⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75879.ts
-#EXTINF:-1 tvg-name="DE | XITEⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xite-de.png" group-title="Music (EPG)",DE | XITEⓧ HD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="XITE Germanyⓧ HD" group-title="Music (All Lang)",XITE Germanyⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75921.ts
 #EXTINF:-1 tvg-name="GR | NOVA Lifeⓧ HD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/nova-life-gr.png" group-title="Z - Offline Streams",GR | NOVA Lifeⓧ HD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5496.ts
@@ -4443,25 +4443,25 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92122.ts
 #EXTINF:-1 tvg-id="192TV.nl" tvg-name="192 TV Netherlandsⓧ SD" group-title="Music (All Lang)",192 TV Netherlandsⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5618.ts
-#EXTINF:-1 tvg-name="NL | 538 TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/tv-538-nl.png" group-title="Music (EPG)",NL | 538 TVⓧ HD
+#EXTINF:-1 tvg-name="NL | 538 TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/tv-538-nl.png" group-title="Z - Offline Streams",NL | 538 TVⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5886.ts
-#EXTINF:-1 tvg-id="DanceTelevision.nl" tvg-name="NL | Dance Televisionⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/dance-television-nl.png" group-title="Music (EPG)",NL | Dance Televisionⓧ FHD
+#EXTINF:-1 tvg-id="DanceTelevision.nl" tvg-name="Dance Television Netherlandsⓧ FHD" group-title="Music (All Lang)",Dance Television Netherlandsⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5647.ts
-#EXTINF:-1 tvg-name="NL | DNO Streek TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-dnotv.png" group-title="Music (EPG)",NL | DNO Streek TVⓧ HD
+#EXTINF:-1 tvg-name="NL | DNO Streek TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-dnotv.png" group-title="Z - Offline Streams",NL | DNO Streek TVⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5875.ts
-#EXTINF:-1 tvg-name="NL | Gigant FM TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-gigant-fm-tv-9d09360d.png" group-title="Music (EPG)",NL | Gigant FM TVⓧ HD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Gigant FM TV Netherlandsⓧ HD" group-title="Music (All Lang)",Gigant FM TV Netherlandsⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5870.ts
-#EXTINF:-1 tvg-name="NL | GO TVⓧ HD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-go-tv-d2e3931f.png" group-title="Music (EPG)",NL | GO TVⓧ HD OFFLINE
+#EXTINF:-1 tvg-name="NL | GO TVⓧ HD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-go-tv-d2e3931f.png" group-title="Z - Offline Streams",NL | GO TVⓧ HD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5727.ts
-#EXTINF:-1 tvg-name="NL | Mezzo Liveⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/mezzo-live-nl.png" group-title="Music (EPG)",NL | Mezzo Liveⓧ HD
+#EXTINF:-1 tvg-name="NL | Mezzo Liveⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/mezzo-live-nl.png" group-title="Z - Offline Streams",NL | Mezzo Liveⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5766.ts
 #EXTINF:-1 tvg-id="Mezzo.nl" tvg-name="Mezzo Netherlandsⓧ SD" group-title="Music (All Lang)",Mezzo Netherlandsⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92129.ts
-#EXTINF:-1 tvg-name="NL | MTV 00sⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-mtv-00s-7da65ba6.png" group-title="Music (EPG)",NL | MTV 00sⓧ SD
+#EXTINF:-1 tvg-id="EUROPE.1.gr" tvg-name="Europe 1 TV Franceⓧ SD" tvg-logo="NL | MTV 00sⓧ SD" group-title="FR - Divertissement",Europe 1 TV Franceⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5770.ts
 #EXTINF:-1 tvg-id="MTV80s.nl" tvg-name="MTV 80s Netherlandsⓧ SD" group-title="Music (All Lang)",MTV 80s Netherlandsⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5899.ts
-#EXTINF:-1 tvg-name="NL | MTV Classicⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-classic-au.png" group-title="Music (EPG)",NL | MTV Classicⓧ SD
+#EXTINF:-1 tvg-name="NL | MTV Classicⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-classic-au.png" group-title="Z - Offline Streams",NL | MTV Classicⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5777.ts
 #EXTINF:-1 tvg-id="MTVHits.nl" tvg-name="MTV Hits Netherlandsⓧ SD" group-title="Music (All Lang)",MTV Hits Netherlandsⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5771.ts
@@ -4473,13 +4473,13 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92123.ts
 #EXTINF:-1 tvg-id="NickMusic.nl" tvg-name="Nick Music Netherlandsⓧ SD" group-title="Music (All Lang)",Nick Music Netherlandsⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5783.ts
-#EXTINF:-1 tvg-id="Q-music.be" tvg-name="NL | Q Musicⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-q-music-18c7c956.png" group-title="Music (EPG)",NL | Q Musicⓧ HD
+#EXTINF:-1 tvg-id="Q-music.be" tvg-name="Q Music Belgiumⓧ HD" group-title="Music (All Lang)",Q Music Belgiumⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92126.ts
-#EXTINF:-1 tvg-name="NL | Radio TV A1ⓧ HD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (EPG)",NL | Radio TV A1ⓧ HD OFFLINE
+#EXTINF:-1 tvg-name="NL | Radio TV A1ⓧ HD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",NL | Radio TV A1ⓧ HD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107889.ts
-#EXTINF:-1 tvg-name="NL | Salto 3 Brasa Musicⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (EPG)",NL | Salto 3 Brasa Musicⓧ HD
+#EXTINF:-1 tvg-name="NL | Salto 3 Brasa Musicⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",NL | Salto 3 Brasa Musicⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5709.ts
-#EXTINF:-1 tvg-name="NL | Salto MA Liveⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-mediacollegeamsterdam.png" group-title="Music (EPG)",NL | Salto MA Liveⓧ HD
+#EXTINF:-1 tvg-name="NL | Salto MA Liveⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-mediacollegeamsterdam.png" group-title="Z - Offline Streams",NL | Salto MA Liveⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107888.ts
 #EXTINF:-1 tvg-id="SLAM.nl" tvg-name="Slam! TV Netherlandsⓧ SD" group-title="Music (All Lang)",Slam! TV Netherlandsⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5862.ts
@@ -4673,103 +4673,103 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/52648.ts
 #EXTINF:-1 tvg-id="STARStv.pl" tvg-name="Stars TV Polandⓧ" group-title="Music (All Lang)",Stars TV Polandⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/52653.ts
-#EXTINF:-1 tvg-name="PL | Trace Urban Muzikⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-trace-urban-muzik-ffa20dea.png" group-title="Music (EPG)",PL | Trace Urban Muzikⓧ
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban Franceⓧ FHD" group-title="Music (All Lang)",Trace Urban Franceⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/52654.ts
 #EXTINF:-1 tvg-id="MTV80s.pl" tvg-name="MTV 80s Polandⓧ SD OFFLINE" group-title="Music (All Lang)",MTV 80s Polandⓧ SD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/104714.ts
-#EXTINF:-1 tvg-name="PL | 4Fun Gold Hitsⓧ " tvg-logo="http://platinumxmedia.xyz/images/logos/p-4fun-gold-hits-d6ff332f.png" group-title="Music (EPG)",PL | 4Fun Gold Hitsⓧ
+#EXTINF:-1 tvg-id="4FUNDANCE.pl" tvg-name="4Fun Dance Polandⓧ SD" tvg-logo="4fun gold hits" group-title="Music (All Lang)",4Fun Dance Polandⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/174721.ts
-#EXTINF:-1 tvg-id="Afro.Music.Channel.pt" tvg-name="PT | Afro Musicⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-afro-music-c0e6b02e.png" group-title="Music (Portugal)",PT | Afro Musicⓧ
+#EXTINF:-1 tvg-id="Afro.Music.Channel.pt" tvg-name="Afro Music Portugalⓧ" group-title="Music (All Lang)",Afro Music Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9660.ts
-#EXTINF:-1 tvg-name="PT | Alma Lusaⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-alma-lusa-hd-6c9318da.png" group-title="Music (Portugal)",PT | Alma Lusaⓧ FHD
+#EXTINF:-1 tvg-id="ALMALUSA.pt" tvg-name="Alma Lusa Portugalⓧ FHD" group-title="Music (All Lang)",Alma Lusa Portugalⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9791.ts
-#EXTINF:-1 tvg-name="PT | Alma Lusaⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-alma-lusa-hd-6c9318da.png" group-title="Music (Portugal)",PT | Alma Lusaⓧ HD
+#EXTINF:-1 tvg-id="ALMALUSA.pt" tvg-name="Alma Lusa Portugalⓧ HD" group-title="Music (All Lang)",Alma Lusa Portugalⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9789.ts
-#EXTINF:-1 tvg-name="PT | Alma Lusaⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-alma-lusa-hd-6c9318da.png" group-title="Music (Portugal)",PT | Alma Lusaⓧ SD
+#EXTINF:-1 tvg-id="ALMALUSA.pt" tvg-name="Alma Lusa Portugalⓧ SD" group-title="Music (All Lang)",Alma Lusa Portugalⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9790.ts
 #EXTINF:-1 tvg-name="PT | Box Hits UKⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-box-hits-uk-5d7fffc9.png" group-title="Z - Offline Streams",PT | Box Hits UKⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9659.ts
-#EXTINF:-1 tvg-name="PT | Clubbing TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-clubbing-tv-a3e6057f.png" group-title="Music (Portugal)",PT | Clubbing TVⓧ
+#EXTINF:-1 tvg-id="CLUBBINGTV.pt" tvg-name="Clubbing TV Portugalⓧ" group-title="Music (All Lang)",Clubbing TV Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9673.ts
 #EXTINF:-1 tvg-name="PT | Fashion Boxⓧ FHD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/fashionbox-hd-int.png" group-title="Z - Offline Streams",PT | Fashion Boxⓧ FHD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74171.ts
 #EXTINF:-1 tvg-name="PT | Hotⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-hot-ef0e66d3.png" group-title="Z - Offline Streams",PT | Hotⓧ SD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9724.ts
-#EXTINF:-1 tvg-name="PT | Kuriakos Musicⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-kuriakos-music-77229215.jpg" group-title="Music (Portugal)",PT | Kuriakos Musicⓧ FHD
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos Music Portugalⓧ FHD" group-title="Music (All Lang)",Kuriakos Music Portugalⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9671.ts
-#EXTINF:-1 tvg-id="MCM.Pop.pt" tvg-name="PT | MCM Popⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-mcm-pop-0f8bb751.png" group-title="Music (Portugal)",PT | MCM Popⓧ
+#EXTINF:-1 tvg-id="MCMPOP.pt" tvg-name="MCM Pop Portugalⓧ" group-title="Music (All Lang)",MCM Pop Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9666.ts
-#EXTINF:-1 tvg-id="MCM.Top.pt" tvg-name="PT | MCM Topⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/mcm-top-fr.png" group-title="Music (Portugal)",PT | MCM Topⓧ
+#EXTINF:-1 tvg-id="MCMTOP.pt" tvg-name="MCM Top Portugalⓧ" group-title="Music (All Lang)",MCM Top Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9667.ts
-#EXTINF:-1 tvg-id="Mezzo.Live.HD.pt" tvg-name="PT | Mezzo Liveⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-mezzo-live-71f31f72.png" group-title="Music (Portugal)",PT | Mezzo Liveⓧ HD
+#EXTINF:-1 tvg-id="MEZZOLive.pt" tvg-name="Mezzo Live Portugalⓧ HD" group-title="Music (All Lang)",Mezzo Live Portugalⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9665.ts
-#EXTINF:-1 tvg-id="Mezzo.pt" tvg-name="PT | Mezzoⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mezzo-fr.png" group-title="Music (Portugal)",PT | Mezzoⓧ SD
+#EXTINF:-1 tvg-id="Mezzo.pt" tvg-name="Mezzo Portugalⓧ SD" group-title="Music (All Lang)",Mezzo Portugalⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9674.ts
-#EXTINF:-1 tvg-name="PT | MTV 00sⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-mtv-00s-8e723a93.png" group-title="Music (Portugal)",PT | MTV 00sⓧ
+#EXTINF:-1 tvg-id="MTV00s.pt" tvg-name="MTV 00s Portugalⓧ" group-title="Music (All Lang)",MTV 00s Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9668.ts
-#EXTINF:-1 tvg-name="PT | MTV 80sⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-mtv-80s-277488f9.png" group-title="Music (Portugal)",PT | MTV 80sⓧ
+#EXTINF:-1 tvg-name="PT | MTV 80sⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-mtv-80s-277488f9.png" group-title="Z - Offline Streams",PT | MTV 80sⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9862.ts
-#EXTINF:-1 tvg-name="PT | MTV 90sⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-mtv-90s-abe62f26.png" group-title="Music (Portugal)",PT | MTV 90sⓧ
+#EXTINF:-1 tvg-name="PT | MTV 90sⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-mtv-90s-abe62f26.png" group-title="Z - Offline Streams",PT | MTV 90sⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9861.ts
-#EXTINF:-1 tvg-name="PT | MTV Baseⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-base-za.png" group-title="Music (Portugal)",PT | MTV Baseⓧ
+#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV Portugalⓧ" group-title="Music (All Lang)",MTV Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9831.ts
-#EXTINF:-1 tvg-name="PT | MTV Clubⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-club-au.png" group-title="Music (Portugal)",PT | MTV Clubⓧ
+#EXTINF:-1 tvg-name="PT | MTV Clubⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-club-au.png" group-title="Z - Offline Streams",PT | MTV Clubⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9754.ts
-#EXTINF:-1 tvg-name="PT | MTV Liveⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-mtb-e-b1c4cbc1.png" group-title="Music (Portugal)",PT | MTV Liveⓧ
+#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV Portugalⓧ" group-title="Music (All Lang)",MTV Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9664.ts
-#EXTINF:-1 tvg-name="PT | MTV Musicⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (Portugal)",PT | MTV Musicⓧ
+#EXTINF:-1 tvg-name="PT | MTV Musicⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",PT | MTV Musicⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9663.ts
-#EXTINF:-1 tvg-name="PT | MTVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-ar.png" group-title="Music (Portugal)",PT | MTVⓧ FHD
+#EXTINF:-1 tvg-name="PT | MTVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-ar.png" group-title="Z - Offline Streams",PT | MTVⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9819.ts
-#EXTINF:-1 tvg-name="PT | MTVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-ar.png" group-title="Music (Portugal)",PT | MTVⓧ SD
+#EXTINF:-1 tvg-id="MTVPortugal.pt" tvg-name="MTV Portugalⓧ SD" group-title="Music (All Lang)",MTV Portugalⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9662.ts
-#EXTINF:-1 tvg-name="PT | Music Topⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (Portugal)",PT | Music Topⓧ
+#EXTINF:-1 tvg-name="PT | Music Topⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",PT | Music Topⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9675.ts
 #EXTINF:-1 tvg-name="PT | QYOUⓧ SD OFFLINE" group-title="Z - Offline Streams",PT | QYOUⓧ SD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9649.ts
-#EXTINF:-1 tvg-name="PT | Stingray Classicaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/stingray-classica-ca.png" group-title="Music (Portugal)",PT | Stingray Classicaⓧ
+#EXTINF:-1 tvg-id="Stingray.Music.Dummy.us" tvg-name="Stingray Classica Portugalⓧ" group-title="Music (All Lang)",Stingray Classica Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9672.ts
-#EXTINF:-1 tvg-id="Stingray.iConcerts.HD.pt" tvg-name="PT | Stingray iConcertsⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-stingray-iconcerts-1e7fc01b.png" group-title="Music (Portugal)",PT | Stingray iConcertsⓧ
+#EXTINF:-1 tvg-id="STINGRAYICONCERTS.pt" tvg-name="Stingray iConcerts Portugalⓧ" group-title="Music (All Lang)",Stingray iConcerts Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9661.ts
-#EXTINF:-1 tvg-name="PT | Trace Africaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-trace-africa-4082be69.png" group-title="Music (Portugal)",PT | Trace Africaⓧ
+#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="Trace Africa Portugalⓧ" group-title="Music (All Lang)",Trace Africa Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9759.ts
-#EXTINF:-1 tvg-name="PT | Trace Brazucaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (Portugal)",PT | Trace Brazucaⓧ
+#EXTINF:-1 tvg-id="TraceBrazuca.pt" tvg-name="Trace Brazuca Portugalⓧ" group-title="Music (All Lang)",Trace Brazuca Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9864.ts
-#EXTINF:-1 tvg-name="PT | Trace Latinaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/trace-latina-fr.png" group-title="Music (Portugal)",PT | Trace Latinaⓧ
+#EXTINF:-1 tvg-id="TRACELatina.lu" tvg-name="Trace Latina Portugalⓧ" group-title="Music (All Lang)",Trace Latina Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9670.ts
-#EXTINF:-1 tvg-name="PT | Trace Mzikiⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-trace-mziki-841d170b.png" group-title="Music (Portugal)",PT | Trace Mzikiⓧ
+#EXTINF:-1 tvg-id="TRACEMuzika.gh" tvg-name="Trace Mziki Portugalⓧ" group-title="Music (All Lang)",Trace Mziki Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9836.ts
-#EXTINF:-1 tvg-id="Trace.Toca.pt" tvg-name="PT | Trace Tocaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-trace-toca-d900805c.png" group-title="Music (Portugal)",PT | Trace Tocaⓧ
+#EXTINF:-1 tvg-id="TraceToca.pt" tvg-name="Trace Toca Portugalⓧ" group-title="Music (All Lang)",Trace Toca Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9669.ts
-#EXTINF:-1 tvg-id="Trace.Urban.HD.pt" tvg-name="PT | Trace Urbanⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/trace-urban-fr.png" group-title="Music (Portugal)",PT | Trace Urbanⓧ
+#EXTINF:-1 tvg-id="TraceUrban.pt" tvg-name="Trace Urban Portugalⓧ" group-title="Music (All Lang)",Trace Urban Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9856.ts
-#EXTINF:-1 tvg-name="RO | 1 Music Channelⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-1musicchannel.png" group-title="Music (EPG)",RO | 1 Music Channelⓧ SD
+#EXTINF:-1 tvg-id="MusicChannel.ro" tvg-name="Music Channel Romaniaⓧ SD" group-title="Music (All Lang)",Music Channel Romaniaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85593.ts
 #EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV Romaniaⓧ SD" group-title="Religion (All Lang)",Alfa Omega TV Romaniaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85597.ts
 #EXTINF:-1 tvg-name="RO | Antena Comedyⓧ HD OFFLINE" group-title="Z - Offline Streams",RO | Antena Comedyⓧ HD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85603.ts
-#EXTINF:-1 tvg-name="RO | Balkanika Music TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (EPG)",RO | Balkanika Music TVⓧ SD
+#EXTINF:-1 tvg-id="BalkanikaTV.ro" tvg-name="Balkanika Music TV Romaniaⓧ SD" group-title="Music (All Lang)",Balkanika Music TV Romaniaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85707.ts
-#EXTINF:-1 tvg-name="RO | Classicaⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-classica-fea2e9b0.png" group-title="Music (EPG)",RO | Classicaⓧ FHD
+#EXTINF:-1 tvg-name="RO | Classicaⓧ FHD OFFLINE" group-title="Z - Offline Streams",RO | Classicaⓧ FHD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108295.ts
-#EXTINF:-1 tvg-name="RO | Cornea TV ⓧ HD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-cornea-tv-66637b82.jpg" group-title="Music (EPG)",RO | Cornea TV ⓧ HD OFFLINE
+#EXTINF:-1 tvg-name="RO | Cornea TV ⓧ HD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-cornea-tv-66637b82.jpg" group-title="Z - Offline Streams",RO | Cornea TV ⓧ HD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108254.ts
 #EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV Romaniaⓧ HD" group-title="Religion (All Lang)",Credo TV Romaniaⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85630.ts
-#EXTINF:-1 tvg-name="RO | Diaspora TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-diaspora-tv-08f8d62f.png" group-title="Music (EPG)",RO | Diaspora TVⓧ FHD
+#EXTINF:-1 tvg-name="FR | Diaspora TVⓧ FHD" group-title="FR - Divertissement",FR | Diaspora TVⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108285.ts
-#EXTINF:-1 tvg-name="RO | Dibi TVⓧ HD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (EPG)",RO | Dibi TVⓧ HD OFFLINE
+#EXTINF:-1 tvg-name="RO | Dibi TVⓧ HD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",RO | Dibi TVⓧ HD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85771.ts
 #EXTINF:-1 tvg-id="EtnoTV.ro" tvg-name="Etno TV Romaniaⓧ SD" group-title="Music (All Lang)",Etno TV Romaniaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85661.ts
 #EXTINF:-1 tvg-id="Favorit.ro" tvg-name="Favorit TV Romaniaⓧ SD" group-title="Music (All Lang)",Favorit TV Romaniaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85667.ts
-#EXTINF:-1 tvg-name="RO | Hit Music Channelⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/hit-music-channel-ro.png" group-title="Music (EPG)",RO | Hit Music Channelⓧ SD
+#EXTINF:-1 tvg-id="H!TMusicChannel.ro" tvg-name="Hit Music Channel Romaniaⓧ SD" group-title="Music (All Lang)",Hit Music Channel Romaniaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85688.ts
-#EXTINF:-1 tvg-name="RO | Hora TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/hora-tv-ro.png" group-title="Music (EPG)",RO | Hora TVⓧ SD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Hora TV Romaniaⓧ SD" group-title="Music (All Lang)",Hora TV Romaniaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85689.ts
-#EXTINF:-1 tvg-name="RO | iConcertsⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-iconcerts-sd-5f4c2c6d.jpg" group-title="Music (EPG)",RO | iConcertsⓧ SD
+#EXTINF:-1 tvg-name="RO | iConcertsⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-iconcerts-sd-5f4c2c6d.jpg" group-title="Z - Offline Streams",RO | iConcertsⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108296.ts
 #EXTINF:-1 tvg-id="IneditTV.ro" tvg-name="Inedit TV Romaniaⓧ HD" group-title="Music (All Lang)",Inedit TV Romaniaⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85690.ts
@@ -4789,13 +4789,13 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85710.ts
 #EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="Mooz RO! Romaniaⓧ SD" group-title="Music (All Lang)",Mooz RO! Romaniaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85709.ts
-#EXTINF:-1 tvg-name="RO | MTV Clubⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-club-au.png" group-title="Music (EPG)",RO | MTV Clubⓧ SD OFFLINE
+#EXTINF:-1 tvg-name="RO | MTV Clubⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-club-au.png" group-title="Z - Offline Streams",RO | MTV Clubⓧ SD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85712.ts
 #EXTINF:-1 tvg-id="MTVHits.ro" tvg-name="MTV Hits Romaniaⓧ SD" group-title="Music (All Lang)",MTV Hits Romaniaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85714.ts
 #EXTINF:-1 tvg-id="MTVLive.ro" tvg-name="MTV Live Romaniaⓧ HD OFFLINE" group-title="Music (All Lang)",MTV Live Romaniaⓧ HD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85713.ts
-#EXTINF:-1 tvg-name="RO | MTVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-ar.png" group-title="Music (EPG)",RO | MTVⓧ SD
+#EXTINF:-1 tvg-id="MTVEurope.ro" tvg-name="MTV Romaniaⓧ SD" group-title="Music (All Lang)",MTV Romaniaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85711.ts
 #EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV Romaniaⓧ SD OFFLINE" group-title="Music (All Lang)",Rock TV Romaniaⓧ SD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85731.ts
@@ -4803,9 +4803,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85785.ts
 #EXTINF:-1 tvg-id="TarafTV.ro" tvg-name="Taraf Romaniaⓧ SD" group-title="Music (All Lang)",Taraf Romaniaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85746.ts
-#EXTINF:-1 tvg-name="RO | Tezaur TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-tezaur-tv-f158b84a.png" group-title="Music (EPG)",RO | Tezaur TVⓧ SD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Tezaur TV Moldovaⓧ SD" tvg-logo="Romania" group-title="Music (All Lang)",Tezaur TV Moldovaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108293.ts
-#EXTINF:-1 tvg-name="RO | Traditional Tⓧ FHD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/p-traditional-t-fhd-offline-4466a69f.jpg" group-title="Music (EPG)",RO | Traditional Tⓧ FHD OFFLINE
+#EXTINF:-1 tvg-name="RO | Traditional Tⓧ FHD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/p-traditional-t-fhd-offline-4466a69f.jpg" group-title="Z - Offline Streams",RO | Traditional Tⓧ FHD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108287.ts
 #EXTINF:-1 tvg-id="TrinitasTV.ro" tvg-name="Trinitas TV Romaniaⓧ SD" group-title="Religion (All Lang)",Trinitas TV Romaniaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85757.ts
@@ -4813,7 +4813,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85742.ts
 #EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV Romaniaⓧ SD" group-title="Music (All Lang)",UTV Romaniaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85769.ts
-#EXTINF:-1 tvg-id="ZU.TV.HD.ro" tvg-name="RO | ZU TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/zu-tv-ro.png" group-title="Music (EPG)",RO | ZU TVⓧ SD
+#EXTINF:-1 tvg-id="ZU.TV.HD.ro" tvg-name="RO | ZU TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/zu-tv-ro.png" group-title="Z - Offline Streams",RO | ZU TVⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85778.ts
 #EXTINF:-1 tvg-name="AU | NRL 00ⓧ: Roosters v Knights | Sun 4th Oct 9:30AM UK" tvg-logo="http://platinumxmedia.xyz:80/images/49b0c436d8f1761fd7895fbcd94ea5de.png" group-title="Z - Offline Streams",AU | NRL 00ⓧ: Roosters v Knights | Sun 4th Oct 9:30AM UK
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/51058.ts
@@ -4865,7 +4865,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93502.ts
 #EXTINF:-1 tvg-name="ES | 3ABNⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Religion (EPG)",ES | 3ABNⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/95116.ts
-#EXTINF:-1 tvg-name="ES | 4FUN TV Poloniaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (Spain)",ES | 4FUN TV Poloniaⓧ
+#EXTINF:-1 tvg-name="ES | 4FUN TV Poloniaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",ES | 4FUN TV Poloniaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94227.ts
 #EXTINF:-1 tvg-name="ES | 7 La Riojaⓧ " tvg-logo="http://platinumxmedia.xyz/images/logos/l3-7-la-rioja-f08a7f1f.png" group-title="ESP - Local Spain",ES | 7 La Riojaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94204.ts
@@ -4883,7 +4883,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/95972.ts
 #EXTINF:-1 tvg-name="ES | ABC TV Paraguayⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-abc-tv-paraguay-44c1fe42.png" group-title="ESP - Canales Internacionales Spain",ES | ABC TV Paraguayⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/95137.ts
-#EXTINF:-1 tvg-name="ES | Activa TV Españaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-activa-tv-espa-a-5e38403d.png" group-title="Music (Spain)",ES | Activa TV Españaⓧ
+#EXTINF:-1 tvg-name="ES | Activa TV Españaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-activa-tv-espa-a-5e38403d.png" group-title="Z - Offline Streams",ES | Activa TV Españaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94216.ts
 #EXTINF:-1 tvg-name="ES | Al Jazeera ENⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-al-jazeera-en-10792c7e.png" group-title="ESP - Canales Internacionales Spain",ES | Al Jazeera ENⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/95138.ts
@@ -4969,7 +4969,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93506.ts
 #EXTINF:-1 tvg-name="ES | C33 Madridⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ESP - Local Spain",ES | C33 Madridⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93848.ts
-#EXTINF:-1 tvg-name="ES | Cadena Elite Españaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-cadena-elite-espa-a-e39b3176.jpg" group-title="Music (Spain)",ES | Cadena Elite Españaⓧ
+#EXTINF:-1 tvg-name="ES | Cadena Elite Españaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-cadena-elite-espa-a-e39b3176.jpg" group-title="Z - Offline Streams",ES | Cadena Elite Españaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94217.ts
 #EXTINF:-1 tvg-id="Calle.13.es" tvg-name="ES | Calle 13ⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/calle-13-es.png" group-title="ESP - CINE Y SERIES Spain",ES | Calle 13ⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48640.ts
@@ -5045,7 +5045,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48804.ts
 #EXTINF:-1 tvg-name="ES | Clanⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/clan-es.png" group-title="ESP - Hijos y familia",ES | Clanⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48805.ts
-#EXTINF:-1 tvg-name="ES | Classicaⓧ " tvg-logo="http://platinumxmedia.xyz/images/logos/l3-classica-fea2e9b0.png" group-title="Music (Spain)",ES | Classicaⓧ
+#EXTINF:-1 tvg-name="ES | Classicaⓧ OFFLINE" group-title="Z - Offline Streams",ES | Classicaⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93358.ts
 #EXTINF:-1 tvg-id="CMM.TV.es" tvg-name="ES | CMMⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-cmm-c33fc78a.png" group-title="ESP - Local Spain",ES | CMMⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93488.ts
@@ -5213,7 +5213,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93507.ts
 #EXTINF:-1 tvg-name="ES | Fibwiⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-fibwi-c8e1de91.png" group-title="ESP - Local Spain",ES | Fibwiⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94203.ts
-#EXTINF:-1 tvg-name="ES | First Music Channel Bielorrusiaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (Spain)",ES | First Music Channel Bielorrusiaⓧ
+#EXTINF:-1 tvg-name="ES | First Music Channel Bielorrusiaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",ES | First Music Channel Bielorrusiaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94236.ts
 #EXTINF:-1 tvg-name="ES | FOX News ENⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ESP - Canales Internacionales Spain",ES | FOX News ENⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/520.ts
@@ -5243,7 +5243,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94209.ts
 #EXTINF:-1 tvg-name="ES | Hispan TV Iranⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-hispan-tv-iran-d08745d3.png" group-title="ESP - Canales Internacionales Spain",ES | Hispan TV Iranⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/95141.ts
-#EXTINF:-1 tvg-name="ES | Hit Music Romaniaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (Spain)",ES | Hit Music Romaniaⓧ
+#EXTINF:-1 tvg-name="ES | Hit Music Romaniaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",ES | Hit Music Romaniaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94232.ts
 #EXTINF:-1 tvg-id="Hollywood.es" tvg-name="ES | Hollywoodⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-hollywood-3222682c.png" group-title="ESP - CINE Y SERIES Spain",ES | Hollywoodⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48818.ts
@@ -5359,7 +5359,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48832.ts
 #EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="DAZN F1 Spainⓧ SD" group-title="ESP - Deportes",DAZN F1 Spainⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/104702.ts
-#EXTINF:-1 tvg-name="ES | m2o Italiaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-m2o-italia-cc03567a.png" group-title="Music (Spain)",ES | m2o Italiaⓧ
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Radio m2o Italyⓧ" group-title="Music (All Lang)",Radio m2o Italyⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94229.ts
 #EXTINF:-1 tvg-name="ES | M95 Marbellaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-m95-marbella-a8c3bf0d.jpg" group-title="ESP - Local Spain",ES | M95 Marbellaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93440.ts
@@ -5377,9 +5377,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48773.ts
 #EXTINF:-1 tvg-id="TV.Melilla.es" tvg-name="ES | Melilla TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-melilla-tv-b44fa89f.jpg" group-title="ESP - Local Spain",ES | Melilla TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94205.ts
-#EXTINF:-1 tvg-name="ES | Melody Hitsⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-melody-hits-f3291d3b.png" group-title="Music (Spain)",ES | Melody Hitsⓧ
+#EXTINF:-1 tvg-name="ES | Melody Hitsⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-melody-hits-f3291d3b.png" group-title="Z - Offline Streams",ES | Melody Hitsⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94252.ts
-#EXTINF:-1 tvg-id="Mezzo.Live.es" tvg-name="ES | Mezzo Liveⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/mezzo-es.png" group-title="Music (Spain)",ES | Mezzo Liveⓧ
+#EXTINF:-1 tvg-id="Mezzo.Live.es" tvg-name="ES | Mezzo Liveⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/mezzo-es.png" group-title="Z - Offline Streams",ES | Mezzo Liveⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48686.ts
 #EXTINF:-1 tvg-name="ES | Mijas 3.40 TVⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-mijas-3-40-tv-ee7f14e7.png" group-title="ESP - Local Spain",ES | Mijas 3.40 TVⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93439.ts
@@ -5517,11 +5517,11 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48820.ts
 #EXTINF:-1 tvg-name="ES | Movistar Vamosⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-movistar-vamos-fhd-17fe1bb3.png" group-title="ESP - Deportes Spain",ES | Movistar Vamosⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48786.ts
-#EXTINF:-1 tvg-id="MTV.España.es" tvg-name="ES | MTV Españaⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-mtv-espa-a-sd-6d092f8a.png" group-title="Music (Spain)",ES | MTV Españaⓧ FHD
+#EXTINF:-1 tvg-id="MTV.es" tvg-name="MTV España Spainⓧ FHD" group-title="Music (All Lang)",MTV España Spainⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48685.ts
-#EXTINF:-1 tvg-id="MTV.España.es" tvg-name="ES | MTV Españaⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-mtv-espa-a-sd-6d092f8a.png" group-title="Music (Spain)",ES | MTV Españaⓧ SD
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="DAZN 4 Spainⓧ FHD" tvg-logo="MTV España " group-title="ESP - Deportes",DAZN 4 Spainⓧ SFHDD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48646.ts
-#EXTINF:-1 tvg-id="MTV.España.es" tvg-name="ES | MTV Españaⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-mtv-espana-8841ab45.jpg" group-title="Music (Spain)",ES | MTV Españaⓧ HD
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="DAZN 4 Spainⓧ HD" tvg-logo="MTV España HD" group-title="ESP - Deportes",DAZN 4 Spainⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93360.ts
 #EXTINF:-1 tvg-name="ES | My Time Movie Networkⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/r-926e03688e.png" group-title="ESP - CINE Y SERIES Spain",ES | My Time Movie Networkⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/116083.ts
@@ -5571,7 +5571,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48771.ts
 #EXTINF:-1 tvg-id="Nova.es" tvg-name="ES | Novaⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/nova-es.png" group-title="ESP - CINE Y SERIES Spain",ES | Novaⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/526.ts
-#EXTINF:-1 tvg-name="ES | Ocko Chequiaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (Spain)",ES | Ocko Chequiaⓧ
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Ocko Chequia Czechⓧ" group-title="Music (All Lang)",Ocko Chequia Czechⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94228.ts
 #EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES | Odiseaⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/odisea-4k-es.png" group-title="ESP - Documentales Spain",ES | Odiseaⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48670.ts
@@ -5585,7 +5585,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94213.ts
 #EXTINF:-1 tvg-id="OneToro.TV.es" tvg-name="ES | Onetoro TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-onetoro-tv-fhd-30746eb2.png" group-title="ESP - Deportes Spain",ES | Onetoro TVⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48856.ts
-#EXTINF:-1 tvg-name="ES | ON TV Portugalⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (Spain)",ES | ON TV Portugalⓧ
+#EXTINF:-1 tvg-name="ES | ON TV Portugalⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",ES | ON TV Portugalⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94230.ts
 #EXTINF:-1 tvg-name="ES | Onda 15 TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-onda-15-tv-f5709b2a.png" group-title="ESP - Local Spain",ES | Onda 15 TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93873.ts
@@ -5593,7 +5593,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93450.ts
 #EXTINF:-1 tvg-name="ES | Onda Cadizⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/p-onda-cadiz-offline-fd9c0363.png" group-title="Z - Offline Streams",ES | Onda Cadizⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93392.ts
-#EXTINF:-1 tvg-name="ES | Onda Digital Perúⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-onda-digital-peru-e6705c48.jpg" group-title="Music (Spain)",ES | Onda Digital Perúⓧ
+#EXTINF:-1 tvg-name="ES | Onda Digital Perúⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-onda-digital-peru-e6705c48.jpg" group-title="Z - Offline Streams",ES | Onda Digital Perúⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94246.ts
 #EXTINF:-1 tvg-name="ES | Onda Madridⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-onda-madrid-e1ac58b6.png" group-title="ESP - Local Spain",ES | Onda Madridⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93846.ts
@@ -5605,9 +5605,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93474.ts
 #EXTINF:-1 tvg-id="Popular.TV.Cantabria.es" tvg-name="ES | Popular TV Cantabriaⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/popular-tv-cantabria-es.png" group-title="ESP - Local Spain",ES | Popular TV Cantabriaⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93487.ts
-#EXTINF:-1 tvg-name="ES | Portal Foxmix Colombiaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (Spain)",ES | Portal Foxmix Colombiaⓧ
+#EXTINF:-1 tvg-name="ES | Portal Foxmix Colombiaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",ES | Portal Foxmix Colombiaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94251.ts
-#EXTINF:-1 tvg-name="ES | Power TV Turquíaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (Spain)",ES | Power TV Turquíaⓧ
+#EXTINF:-1 tvg-id="PowerTurk.al" tvg-name="Power TV Turquía Turkeyⓧ" group-title="AR - Arabic",Power TV Turquía Turkeyⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94233.ts
 #EXTINF:-1 tvg-name="ES | PTV Córdobaⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-ptv-cordoba-ea37ba10.png" group-title="ESP - Local Spain",ES | PTV Córdobaⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93467.ts
@@ -5615,7 +5615,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93464.ts
 #EXTINF:-1 tvg-name="ES | PTV Sevillaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-ptv-sevilla-45a57988.jpg" group-title="ESP - Local Spain",ES | PTV Sevillaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93470.ts
-#EXTINF:-1 tvg-name="ES | QMusic Holandaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (Spain)",ES | QMusic Holandaⓧ
+#EXTINF:-1 tvg-name="ES | QMusic Holandaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",ES | QMusic Holandaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94226.ts
 #EXTINF:-1 tvg-name="ES | Quran TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-saudiquran.png" group-title="Religion (EPG)",ES | Quran TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/95117.ts
@@ -5641,7 +5641,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48837.ts
 #EXTINF:-1 tvg-name="ES | Redevida Brasil PTⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Religion (EPG)",ES | Redevida Brasil PTⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/95115.ts
-#EXTINF:-1 tvg-name="ES | Retro Plus TV Chileⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (Spain)",ES | Retro Plus TV Chileⓧ
+#EXTINF:-1 tvg-name="ES | Retro Plus TV Chileⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",ES | Retro Plus TV Chileⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94240.ts
 #EXTINF:-1 tvg-name="ES | Ribera TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-ribera-tv-2f4eb363.png" group-title="ESP - Local Spain",ES | Ribera TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93859.ts
@@ -5711,7 +5711,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93459.ts
 #EXTINF:-1 tvg-name="ES | Telemadrid intⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-telemadrid-int-3912ed5a.jpg" group-title="ESP - Local Spain",ES | Telemadrid intⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93843.ts
-#EXTINF:-1 tvg-name="ES | Telemúsica Colombiaⓧ " tvg-logo="http://platinumxmedia.xyz/images/logos/l3-telemusica-colombia-fbd74a79.png" group-title="Music (Spain)",ES | Telemúsica Colombiaⓧ
+#EXTINF:-1 tvg-name="ES | Telemúsica Colombiaⓧ " tvg-logo="http://platinumxmedia.xyz/images/logos/l3-telemusica-colombia-fbd74a79.png" group-title="Z - Offline Streams",ES | Telemúsica Colombiaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94250.ts
 #EXTINF:-1 tvg-name="ES | Telenovelasⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-telenovelas-sd-46f7f78e.webp" group-title="ESP - CINE Y SERIES Spain",ES | Telenovelasⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48846.ts
@@ -5733,7 +5733,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48638.ts
 #EXTINF:-1 tvg-id="Warner.TV.es" tvg-name="ES | Warner TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/warner-tv-es.png" group-title="ESP - CINE Y SERIES Spain",ES | Warner TVⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48711.ts
-#EXTINF:-1 tvg-name="ES | Top Latino TV Perúⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-top-latino-tv-per-c1221e4a.png" group-title="Music (Spain)",ES | Top Latino TV Perúⓧ
+#EXTINF:-1 tvg-name="ES | Top Latino TV Perúⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-top-latino-tv-per-c1221e4a.png" group-title="Z - Offline Streams",ES | Top Latino TV Perúⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94243.ts
 #EXTINF:-1 tvg-name="ES | Torrevisiónⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-torrevision-99122734.png" group-title="Z - Offline Streams",ES | Torrevisiónⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93454.ts
@@ -5785,9 +5785,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94218.ts
 #EXTINF:-1 tvg-name="ES | Urola TVⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/p-urola-tv-offline-d110e375.jpg" group-title="ESP - Local Spain",ES | Urola TVⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94214.ts
-#EXTINF:-1 tvg-name="ES | V2Beat TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-v2beat-tv-3a28d798.png" group-title="Music (Spain)",ES | V2Beat TVⓧ
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="V2Beat TV Italyⓧ" group-title="Music (All Lang)",V2Beat TV Italyⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94221.ts
-#EXTINF:-1 tvg-name="ES | Mezzoⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/mezzo-es.png" group-title="Music (Spain)",ES | Mezzoⓧ
+#EXTINF:-1 tvg-id="Mezzo.es" tvg-name="Mezzo Spainⓧ HD" group-title="Music (All Lang)",Mezzo Spainⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172671.ts
 #EXTINF:-1 tvg-name="ES | Venezolana de Televisiónⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-venezolana-de-television-573850e9.png" group-title="ESP - Canales Internacionales Spain",ES | Venezolana de Televisiónⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/95134.ts
@@ -6249,9 +6249,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/589.ts
 #EXTINF:-1 tvg-name="TR | Dream Animasyonⓧ FHD OFFLINE" group-title="Z - Offline Streams",TR | Dream Animasyonⓧ FHD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/49329.ts
-#EXTINF:-1 tvg-id="DREAM.TV.tr" tvg-name="TR | Dream TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-dream-tv-fhd-b6ae7dab.png" group-title="Music (EPG)",TR | Dream TVⓧ FHD
+#EXTINF:-1 tvg-id="DreamTurk.al" tvg-name="Dream Turk Albaniaⓧ FHD" tvg-logo="Turkey" group-title="Music (All Lang)",Dream Turk Albaniaⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/647.ts
-#EXTINF:-1 tvg-id="DREAM.TÜRK.TV.tr" tvg-name="TR | Dream Türk TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-dream-turk-tv-3713451f.png" group-title="Music (EPG)",TR | Dream Türk TVⓧ HD
+#EXTINF:-1 tvg-id="DreamTurk.al" tvg-name="Dream Türk Albaniaⓧ HD" group-title="Music (All Lang)",Dream Türk Albaniaⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/648.ts
 #EXTINF:-1 tvg-id="FM.TV.tr" tvg-name="TR | FM TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/fm-tv-tr.png" group-title="Religion (EPG)",TR | FM TVⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93773.ts
@@ -6265,9 +6265,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62792.ts
 #EXTINF:-1 tvg-name="TR | Keloglan TVⓧ HD" group-title="Z - Offline Streams",TR | Keloglan TVⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/658.ts
-#EXTINF:-1 tvg-name="TR | Kral Popⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/kral-pop-tr.png" group-title="Music (EPG)",TR | Kral Popⓧ HD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Kral Pop Turkeyⓧ HD" group-title="Music (All Lang)",Kral Pop Turkeyⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/642.ts
-#EXTINF:-1 tvg-name="TR | Kral TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/kral-tv-hd-tr.png" group-title="Music (EPG)",TR | Kral TVⓧ HD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Kral Pop Turkeyⓧ FHD" group-title="Music (All Lang)",Kral Pop Turkeyⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/641.ts
 #EXTINF:-1 tvg-name="TR | Kudus TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-kudus-tv-0c8e9027.png" group-title="Religion (EPG)",TR | Kudus TVⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/591.ts
@@ -6295,19 +6295,19 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62825.ts
 #EXTINF:-1 tvg-name="TR | Netserver Animasyon 6ⓧ HD" group-title="Z - Offline Streams",TR | Netserver Animasyon 6ⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62826.ts
-#EXTINF:-1 tvg-name="TR | Number One Türkⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-number-one-turk-3ca78dfe.png" group-title="Music (EPG)",TR | Number One Türkⓧ HD
+#EXTINF:-1 tvg-id="NUMBER1.TURK.HD.tr" tvg-name="Number One Türkⓧ HD" group-title="Music (All Lang)",Number One Türkⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/646.ts
-#EXTINF:-1 tvg-name="TR | Number Oneⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-number-one-110229dc.png" group-title="Music (EPG)",TR | Number Oneⓧ HD
+#EXTINF:-1 tvg-id="NUMBER1.TV.HD.tr" tvg-name="Number One (Turkey)ⓧ HD" group-title="Music (All Lang)",Number One (Turkey)ⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/645.ts
 #EXTINF:-1 tvg-name="TR | Pamukkale TV Denizliⓧ SD" group-title="Z - Offline Streams",TR | Pamukkale TV Denizliⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/621.ts
-#EXTINF:-1 tvg-id="POWER.TURK.HD.tr" tvg-name="TR | Power TV Türkⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-power-tv-turk-439bdacf.png" group-title="Music (EPG)",TR | Power TV Türkⓧ FHD
+#EXTINF:-1 tvg-id="POWER.TÜRK.tr" tvg-name="Power TV Türkⓧ FHD" group-title="Music (All Lang)",Power TV Türkⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93791.ts
-#EXTINF:-1 tvg-id="POWER.TURK.HD.tr" tvg-name="TR | Power TV Türkⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-power-tv-turk-439bdacf.png" group-title="Music (EPG)",TR | Power TV Türkⓧ SD
+#EXTINF:-1 tvg-id="POWER.TÜRK.tr" tvg-name="Power TV Türkⓧ SD" group-title="Music (All Lang)",Power TV Türkⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/644.ts
-#EXTINF:-1 tvg-id="POWER.TV.HD.tr" tvg-name="TR | Power TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/power-tv-hd-tr.png" group-title="Music (EPG)",TR | Power TVⓧ FHD
+#EXTINF:-1 tvg-id="POWER.TV.tr" tvg-name="Power TV Turkeyⓧ FHD" group-title="Music (All Lang)",Power TV Turkeyⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93790.ts
-#EXTINF:-1 tvg-id="POWER.TV.HD.tr" tvg-name="TR | Power TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/power-tv-hd-tr.png" group-title="Music (EPG)",TR | Power TVⓧ HD
+#EXTINF:-1 tvg-id="POWER.TV.tr" tvg-name="Power TV Turkeyⓧ HD" group-title="Music (All Lang)",Power TV Turkeyⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/643.ts
 #EXTINF:-1 tvg-name="TR | Rehber TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/rehber-tv-tr.png" group-title="Religion (EPG)",TR | Rehber TVⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93771.ts
@@ -6367,7 +6367,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/86.ts
 #EXTINF:-1 tvg-id="Aastha.uk" tvg-name="UK | Aastha ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-aastha-d370ecb7.png" group-title="Other - International UK",UK | Aastha ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122819.ts
-#EXTINF:-1 tvg-name="UK | Afrobeats 24/7ⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (UK)",UK | Afrobeats 24/7ⓧ HD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Afrobeats 24/7ⓧ HD" group-title="Music (All Lang)",Afrobeats 24/7ⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107390.ts
 #EXTINF:-1 tvg-id="Akaal.Channel.uk" tvg-name="UK | Akaal Channelⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-akaal-channel-ace82e23.png" group-title="Other - International UK",UK | Akaal Channelⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107761.ts
@@ -6605,7 +6605,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/71.ts
 #EXTINF:-1 tvg-id="TrueCrime.uk" tvg-name="True Crime UKⓧ SD" group-title="ENG - Entertainment",True Crime UKⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/72.ts
-#EXTINF:-1 tvg-name="UK | CGTN Documentaryⓧ SD" tvg-logo="http://platinumxmedia.xyz:80/images/db344d2f2358ca6bebe593c96490c903.png" group-title="Z - wrong station id",UK | CGTN Documentaryⓧ SD
+#EXTINF:-1 tvg-name="UK | CGTN Documentaryⓧ SD" tvg-logo="http://platinumxmedia.xyz:80/images/db344d2f2358ca6bebe593c96490c903.png" group-title="Z - Wrong Info",UK | CGTN Documentaryⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/49237.ts
 #EXTINF:-1 tvg-name="UK | CGTN World Newsⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - News",UK | CGTN World Newsⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107789.ts
@@ -6675,9 +6675,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/173280.ts
 #EXTINF:-1 tvg-id="CITV.uk" tvg-name="UK | CITVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/c-itv-uk.png" group-title="ENG - Kids & Family",UK | CITVⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/76.ts
-#EXTINF:-1 tvg-name="UK | Clubbing TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-clubbing-tv-27684c2a.png" group-title="Music (UK)",UK | Clubbing TVⓧ HD
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Clubbing TV UKⓧ HD" group-title="Music (All Lang)",Clubbing TV UKⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107777.ts
-#EXTINF:-1 tvg-id="Clubland.TV.uk" tvg-name="UK | Clubland TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/clubland-uk.png" group-title="Music (UK)",UK | Clubland TVⓧ
+#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV UKⓧ" group-title="Music (All Lang)",Clubland TV UKⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/79273.ts
 #EXTINF:-1 tvg-id="CNBC.Europe.ie" tvg-name="UK | CNBC Europeⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-cnbc-europe-277c1355.png" group-title="ENG - News",UK | CNBC Europeⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10834.ts
@@ -6729,7 +6729,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/81.ts
 #EXTINF:-1 tvg-id="DAYSTAR.HD.uk" tvg-name="UK | Daystarⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/daystar-au.png" group-title="Religion (All Lang)",UK | Daystarⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107632.ts
-#EXTINF:-1 tvg-name="UK | Deluxe Loungeⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/deluxe-lounge-de.png" group-title="Music (UK)",UK | Deluxe Loungeⓧ HD
+#EXTINF:-1 tvg-id="DeluxeLounge.de" tvg-name="Deluxe Loungeⓧ HD" group-title="Z - Offline Streams",Deluxe Loungeⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/14702.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel+1.uk" tvg-name="Discovery +1 UKⓧ" group-title="ENG - Entertainment",Discovery +1 UKⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10847.ts
@@ -6861,13 +6861,13 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107630.ts
 #EXTINF:-1 tvg-id="GOD.Channel.uk" tvg-name="UK | God TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-god-tv-hd-74e04241.png" group-title="Religion (All Lang)",UK | God TVⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92303.ts
-#EXTINF:-1 tvg-name="UK | Gold +1ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/gold-uk.png" group-title="Z - wrong station id",UK | Gold +1ⓧ
+#EXTINF:-1 tvg-id="UAndGold.uk" tvg-name="U&Goldⓧ HD" group-title="ENG - Entertainment",U&Goldⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10864.ts
-#EXTINF:-1 tvg-id="U.and.Gold.uk" tvg-name="UK | Goldⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/gold-uk.png" group-title="Z - wrong station id",UK | Goldⓧ FHD
+#EXTINF:-1 tvg-id="U.and.Gold.uk" tvg-name="UK | Goldⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/gold-uk.png" group-title="Z - Wrong Info",UK | Goldⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40422.ts
-#EXTINF:-1 tvg-id="U.and.Gold.uk" tvg-name="UK | Goldⓧ HD" tvg-logo="http://platinumxmedia.xyz:80/images/c217ee03651c2d96b77a1661b6388163.png" group-title="Z - wrong station id",UK | Goldⓧ HD
+#EXTINF:-1 tvg-id="U.and.Gold.uk" tvg-name="UK | Goldⓧ HD" tvg-logo="http://platinumxmedia.xyz:80/images/c217ee03651c2d96b77a1661b6388163.png" group-title="Z - Wrong Info",UK | Goldⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/250.ts
-#EXTINF:-1 tvg-id="U.and.Gold.uk" tvg-name="UK | Goldⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/gold-uk.png" group-title="Z - wrong station id",UK | Goldⓧ SD
+#EXTINF:-1 tvg-id="U.and.Gold.uk" tvg-name="UK | Goldⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/gold-uk.png" group-title="Z - Wrong Info",UK | Goldⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74458.ts
 #EXTINF:-1 tvg-id="GREAT!.movies+1.uk" tvg-name="UK | Great! Movies +1ⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/great-movies-uk.png" group-title="Z - Offline Streams",UK | Great! Movies +1ⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/280.ts
@@ -6991,7 +6991,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107634.ts
 #EXTINF:-1 tvg-name="UK | LuxeTVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-luxetv.png" group-title="Z - Offline Streams",UK | LuxeTVⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107759.ts
-#EXTINF:-1 tvg-name="UK | Magic TVⓧ SD " tvg-logo="http://platinumxmedia.xyz/images/logos/magic-tv-uk.png" group-title="Music (UK)",UK | Magic TVⓧ SD
+#EXTINF:-1 tvg-id="MagicTV.bg" tvg-name="Magic TVⓧ SD " group-title="Music (All Lang)",Magic TVⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10852.ts
 #EXTINF:-1 tvg-id="More4+1.uk" tvg-name="More4 +1 ⓧ" group-title="ENG - Entertainment",More4 +1 ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122836.ts
@@ -7009,19 +7009,19 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107739.ts
 #EXTINF:-1 tvg-name="UK | MTA3 Arabicⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Religion (All Lang)",UK | MTA3 Arabicⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107740.ts
-#EXTINF:-1 tvg-id="MTV.80s.uk" tvg-name="UK | MTV 80sⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-80s-uk.png" group-title="Music (UK)",UK | MTV 80sⓧ SD
+#EXTINF:-1 tvg-id="MTV.80s.uk" tvg-name="UK | MTV 80sⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-80s-uk.png" group-title="Z - Offline Streams",UK | MTV 80sⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/156.ts
-#EXTINF:-1 tvg-name="UK | MTV 90sⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-90s-uk.png" group-title="Music (UK)",UK | MTV 90sⓧ SD
+#EXTINF:-1 tvg-name="UK | MTV 90sⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-90s-uk.png" group-title="Z - Offline Streams",UK | MTV 90sⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/115.ts
-#EXTINF:-1 tvg-name="UK | MTV 90sⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-90s-uk.png" group-title="Music (UK)",UK | MTV 90sⓧ
+#EXTINF:-1 tvg-name="UK | MTV 90sⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-90s-uk.png" group-title="Z - Offline Streams",UK | MTV 90sⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/95995.ts
-#EXTINF:-1 tvg-name="UK | MTV Classicⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-classic-uk.png" group-title="Music (UK)",UK | MTV Classicⓧ SD
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classicⓧ SD" group-title="Music (All Lang)",MTV Classicⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/111.ts
-#EXTINF:-1 tvg-name="UK | MTV Hitsⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-hits-uk.png" group-title="Music (UK)",UK | MTV Hitsⓧ SD
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV (East)ⓧ SD" group-title="ENG - Entertainment",MTV (East)ⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/113.ts
-#EXTINF:-1 tvg-name="UK | MTV Musicⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-music-uk.png" group-title="Music (UK)",UK | MTV Musicⓧ SD
+#EXTINF:-1 tvg-name="UK | MTV Musicⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-music-uk.png" group-title="Z - Offline Streams",UK | MTV Musicⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/114.ts
-#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-name="UK | MTVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-hd-uk.png" group-title="Music (UK)",UK | MTVⓧ HD
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV (East) ⓧ HD" group-title="ENG - Entertainment",MTV (East) ⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/112.ts
 #EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="UK | MUTVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/mutv-hd-uk.png" group-title="ENG - Sports UK",UK | MUTVⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62575.ts
@@ -7035,11 +7035,11 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120725.ts
 #EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Comedyⓧ SD" group-title="ENG - Entertainment",Sky Comedyⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/117.ts
-#EXTINF:-1 tvg-id="National.Geographic.HD.ie" tvg-name="UK | National Geographicⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/national-geographic-hd-uk.png" group-title="Z - wrong station id",UK | National Geographicⓧ FHD
+#EXTINF:-1 tvg-id="NationalGeographicChannel.uk" tvg-name="National Geographic UKⓧ FHD" group-title="ENG - Entertainment",National Geographic UKⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40419.ts
-#EXTINF:-1 tvg-id="National.Geographic.HD.ie" tvg-name="UK | National Geographicⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/national-geographic-hd-uk.png" group-title="Z - wrong station id",UK | National Geographicⓧ HD
+#EXTINF:-1 tvg-id="NationalGeographicChannel.uk" tvg-name="National Geographic UKⓧ HD" group-title="ENG - Entertainment",National Geographic UKⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/116.ts
-#EXTINF:-1 tvg-id="National.Geographic.HD.ie" tvg-name="UK | National Geographicⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/national-geographic-hd-uk.png" group-title="Z - wrong station id",UK | National Geographicⓧ SD
+#EXTINF:-1 tvg-id="National.Geographic.HD.ie" tvg-name="UK | National Geographicⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/national-geographic-hd-uk.png" group-title="Z - Wrong Info",UK | National Geographicⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122835.ts
 #EXTINF:-1 tvg-id="NDTV.24x7.uk" tvg-name="UK | NDTV 24x7ⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/ndtv-24x7-uk.png" group-title="Other - International UK",UK | NDTV 24x7ⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62578.ts
@@ -7053,11 +7053,11 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10856.ts
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="UK | Nicktoonsⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/nick-toons-uk.png" group-title="Z - Wrong Info",UK | Nicktoonsⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/118.ts
-#EXTINF:-1 tvg-id="NOW.70s.uk" tvg-name="UK | Now 70sⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/now-70s-uk.png" group-title="Music (UK)",UK | Now 70sⓧ SD
+#EXTINF:-1 tvg-id="That’s.Christmas.(Freeview).be" tvg-name="That's Christmasⓧ HD" group-title="Music (All Lang)",That's Christmasⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62567.ts
-#EXTINF:-1 tvg-id="NOW.80s.uk" tvg-name="UK | Now 80sⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/now-80s-uk.png" group-title="Music (UK)",UK | Now 80sⓧ SD
+#EXTINF:-1 tvg-id="en:.That’s.80s.ae" tvg-name="That's 80sⓧ FHD" group-title="Music (All Lang)",That's 80sⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62568.ts
-#EXTINF:-1 tvg-id="Now.Rock.uk" tvg-name="UK | Now Rockⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/now-rock-uk.png" group-title="Music (UK)",UK | Now Rockⓧ
+#EXTINF:-1 tvg-id="NOWRock.uk" tvg-name="Now Rockⓧ" group-title="Music (All Lang)",Now Rockⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10871.ts
 #EXTINF:-1 tvg-id="TV.One.uk" tvg-name="UK | One TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/one-tv-fr.png" group-title="ENG - Sports UK",UK | One TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/79304.ts
@@ -7071,7 +7071,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40090.ts
 #EXTINF:-1 tvg-name="UK | PDC Darts TV2ⓧ (Live Events Only)" tvg-logo="http://platinumxmedia.xyz:80/images/f254c67066af56b6b0d88c85246c1fda.png" group-title="ENG - Sports UK",UK | PDC Darts TV2ⓧ (Live Events Only)
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40091.ts
-#EXTINF:-1 tvg-id="Sky.Mix.HD.uk" tvg-name="UK | Sky Mixⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-mix-hd-uk.png" group-title="Z - wrong station id",UK | Sky Mixⓧ SD
+#EXTINF:-1 tvg-id="Sky.Mix.HD.uk" tvg-name="UK | Sky Mixⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-mix-hd-uk.png" group-title="Z - Wrong Info",UK | Sky Mixⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122834.ts
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mixⓧ HD" group-title="ENG - Sports",Sky Sports Mixⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120.ts
@@ -7097,7 +7097,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/104877.ts
 #EXTINF:-1 tvg-name="UK | Quran TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-saudiquran.png" group-title="Religion (All Lang)",UK | Quran TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62577.ts
-#EXTINF:-1 tvg-name="UK | QVC +1 ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/qvc-hd-uk.png" group-title="Z - wrong station id",UK | QVC +1 ⓧ
+#EXTINF:-1 tvg-name="UK | QVC +1 ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/qvc-hd-uk.png" group-title="Z - Wrong Info",UK | QVC +1 ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122832.ts
 #EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-name="QVC Beauty UKⓧ SD" group-title="ENG - Entertainment",QVC Beauty UKⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/255.ts
@@ -7107,7 +7107,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/257.ts
 #EXTINF:-1 tvg-id="QVC.uk" tvg-name="QVC UKⓧ SD" group-title="ENG - Entertainment",QVC UKⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/254.ts
-#EXTINF:-1 tvg-name="UK | Qwest TV Jazz and Beyondⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-qwest-tv-jazz-and-beyond-3429bcca.png" group-title="Music (UK)",UK | Qwest TV Jazz and Beyondⓧ HD
+#EXTINF:-1 tvg-name="UK | Qwest TV Jazz and Beyondⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-qwest-tv-jazz-and-beyond-3429bcca.png" group-title="Z - Offline Streams",UK | Qwest TV Jazz and Beyondⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62566.ts
 #EXTINF:-1 tvg-name="UK | Racing Post TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - Sports Betting UK",UK | Racing Post TVⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/175.ts
@@ -7121,7 +7121,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11364.ts
 #EXTINF:-1 tvg-name="UK | Rakuten TV Comedyⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",UK | Rakuten TV Comedyⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/252.ts
-#EXTINF:-1 tvg-id="Really.uk" tvg-name="UK | Reallyⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/really-uk.png" group-title="Z - wrong station id",UK | Reallyⓧ SD
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="Reallyⓧ SD" group-title="ENG - Entertainment",Reallyⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10872.ts
 #EXTINF:-1 tvg-name="UK | Red Bull TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/red-bull-tv-int.png" group-title="ENG - Sports UK",UK | Red Bull TVⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40435.ts
@@ -7217,23 +7217,23 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/145377.ts
 #EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="Sky Documentaryⓧ FHD" group-title="ENG - Entertainment",Sky Documentaryⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11535.ts
-#EXTINF:-1 tvg-id="SkyOne.uk" tvg-name="Sky Oneⓧ HD" group-title="Z - wrong station id",Sky Oneⓧ HD
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV1ⓧ HD" group-title="ENG - Entertainment",ITV1ⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/39920.ts
-#EXTINF:-1 tvg-id="SkyOne.uk" tvg-name="Sky Oneⓧ SD" group-title="Z - wrong station id",Sky Oneⓧ SD
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV1ⓧ SD" group-title="ENG - Entertainment",ITV1ⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11536.ts
-#EXTINF:-1 tvg-id="Sky.History.2.ie" tvg-name="UK | Sky History 2ⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-history-2-hd-uk.png" group-title="Z - wrong station id",UK | Sky History 2ⓧ FHD
+#EXTINF:-1 tvg-id="MysteryX.uk" tvg-name="Mystery X UKⓧ FHD" group-title="ENG - Entertainment",Mystery X UKⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11539.ts
-#EXTINF:-1 tvg-id="Sky.History.2.ie" tvg-name="UK | Sky History 2ⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-history-2-hd-uk.png" group-title="Z - wrong station id",UK | Sky History 2ⓧ HD
+#EXTINF:-1 tvg-id="MysteryX.uk" tvg-name="Mystery X UKⓧ HD" group-title="ENG - Entertainment",Mystery X UKⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/100.ts
-#EXTINF:-1 tvg-id="Sky.History.HD.ie" tvg-name="UK | Sky Historyⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-history-hd-uk.png" group-title="Z - wrong station id",UK | Sky Historyⓧ FHD
+#EXTINF:-1 tvg-id="Sky.History.HD.ie" tvg-name="UK | Sky Historyⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-history-hd-uk.png" group-title="Z - Wrong Info",UK | Sky Historyⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40421.ts
 #EXTINF:-1 tvg-id="SkyHistory.uk" tvg-name="Sky History UKⓧ HD" group-title="ENG - Entertainment",Sky History UKⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/101.ts
-#EXTINF:-1 tvg-id="Sky.One.HD.uk" tvg-name="UK | Sky Oneⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-one-hd-uk.png" group-title="Z - wrong station id",UK | Sky Oneⓧ FHD
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="5USAⓧ FHD" group-title="ENG - Entertainment",5USAⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40429.ts
-#EXTINF:-1 tvg-id="Sky.One.HD.uk" tvg-name="UK | Sky Oneⓧ HD" tvg-logo="http://platinumxmedia.xyz:80/images/75e906f0df43da6c52aed764bf2fbd57.png" group-title="Z - wrong station id",UK | Sky Oneⓧ HD
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="5USAⓧ HD" group-title="ENG - Entertainment",5USAⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/127.ts
-#EXTINF:-1 tvg-id="Sky.One.HD.uk" tvg-name="UK | Sky Oneⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-one-hd-uk.png" group-title="Z - wrong station id",UK | Sky Oneⓧ SD
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="5USAⓧ SD" group-title="ENG - Entertainment",5USAⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/126.ts
 #EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-name="UK | Sky Natureⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-nature-hd-uk.png" group-title="Z - Wrong Info",UK | Sky Natureⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11538.ts
@@ -7243,7 +7243,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/142.ts
 #EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-name="UK | Sky Newsⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-news-hd-uk.png" group-title="ENG - News",UK | Sky Newsⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11575.ts
-#EXTINF:-1 tvg-id="Sky.Replay.uk" tvg-name="UK | Sky Replayⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-replay-uk.png" group-title="Z - wrong station id",UK | Sky Replayⓧ SD
+#EXTINF:-1 tvg-id="Sky.Replay.uk" tvg-name="UK | Sky Replayⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-replay-uk.png" group-title="Z - Wrong Info",UK | Sky Replayⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/145.ts
 #EXTINF:-1 tvg-name="UK | Sky Showcaseⓧ HD " tvg-logo="http://platinumxmedia.xyz/images/logos/sky-showcase-hd-uk.png" group-title="Z - Wrong Info",UK | Sky Showcaseⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/110275.ts
@@ -7321,7 +7321,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107342.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Racing.HD.ie" tvg-name="UK | Sky Sports Racingⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-sports-racing-hd-uk.png" group-title="ENG - Sports UK",UK | Sky Sports Racingⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107343.ts
-#EXTINF:-1 tvg-id="Sky.Witness+1.uk" tvg-name="UK | Sky Witness+1ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-witness-hd-uk.png" group-title="Z - wrong station id",UK | Sky Witness+1ⓧ
+#EXTINF:-1 tvg-id="Sky.Witness+1.uk" tvg-name="UK | Sky Witness+1ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-witness-hd-uk.png" group-title="Z - Wrong Info",UK | Sky Witness+1ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/65380.ts
 #EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="Sky Witnessⓧ FHD" group-title="ENG - Entertainment",Sky Witnessⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/292.ts
@@ -7329,11 +7329,11 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48614.ts
 #EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="Sky Witnessⓧ SD" group-title="ENG - Entertainment",Sky Witnessⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48615.ts
-#EXTINF:-1 tvg-name="UK | Smithsonian Channelⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/smithsonian-channel-hd-uk.png" group-title="Z - wrong station id",UK | Smithsonian Channelⓧ HD
+#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="Smithsonian (East)ⓧ HD" group-title="ENG - Entertainment",Smithsonian (East)ⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/65382.ts
 #EXTINF:-1 tvg-name="UK | Sony TV INⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-sonyentertainmenttv.png" group-title="Other - International UK",UK | Sony TV INⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/147.ts
-#EXTINF:-1 tvg-id="Spotlight.TV.uk" tvg-name="UK | Spotlight TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/spotlight-uk.png" group-title="Music (UK)",UK | Spotlight TVⓧ SD
+#EXTINF:-1 tvg-id="Spotlight.TV.uk" tvg-name="UK | Spotlight TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/spotlight-uk.png" group-title="Z - Offline Streams",UK | Spotlight TVⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62569.ts
 #EXTINF:-1 tvg-name="UK | STV Eastⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-stv-east-f588d8fa.png" group-title="ENG - Local UK BBC",UK | STV Eastⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122828.ts
@@ -7347,7 +7347,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/65385.ts
 #EXTINF:-1 tvg-name="UK | Supertoons TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-supertoonstv.png" group-title="Z - Wrong Info",UK | Supertoons TVⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107754.ts
-#EXTINF:-1 tvg-name="UK | SyFyⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/syfy-hd-uk.png" group-title="Z - wrong station id",UK | SyFyⓧ FHD
+#EXTINF:-1 tvg-id="Sci-FiChannel.hr" tvg-name="Sci-Fi Croatiaⓧ FHD (Subtitles)" group-title="ENG - Entertainment",Sci-Fi Croatiaⓧ FHD (Subtitles)
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40428.ts
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="SyFy (East)ⓧ HD" group-title="ENG - Entertainment",SyFy (East)ⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/148.ts
@@ -7357,11 +7357,11 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/131346.ts
 #EXTINF:-1 tvg-id="TalkingPicturesTV.uk" tvg-name="Talking Picturesⓧ SD" group-title="ENG - Movies",Talking Picturesⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62573.ts
-#EXTINF:-1 tvg-name="UK | Tastemadeⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/tastemade-us.png" group-title="Z - wrong station id",UK | Tastemadeⓧ HD
+#EXTINF:-1 tvg-name="UK | Tastemadeⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/tastemade-us.png" group-title="Z - Wrong Info",UK | Tastemadeⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107778.ts
 #EXTINF:-1 tvg-name="UK | TBNⓧ HD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/tbn-uk.png" group-title="Religion (All Lang)",UK | TBNⓧ HD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107631.ts
-#EXTINF:-1 tvg-name="UK | TCM+1ⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-tcmplus1.png" group-title="Z - wrong station id",UK | TCM+1ⓧ SD
+#EXTINF:-1 tvg-name="UK | TCM+1ⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-tcmplus1.png" group-title="Z - Wrong Info",UK | TCM+1ⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10865.ts
 #EXTINF:-1 tvg-name="UK | TCMⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/tcm-ar.png" group-title="Z - Offline Streams",UK | TCMⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10866.ts
@@ -7371,29 +7371,29 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107768.ts
 #EXTINF:-1 tvg-name="UK | Tennis Channelⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/tennis-channel-us.png" group-title="ENG - Sports UK",UK | Tennis Channelⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107753.ts
-#EXTINF:-1 tvg-id="The.Box.uk" tvg-name="UK | The Boxⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/the-box-uk.png" group-title="Music (UK)",UK | The Boxⓧ SD
+#EXTINF:-1 tvg-id="The.Box.uk" tvg-name="UK | The Boxⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/the-box-uk.png" group-title="Z - Offline Streams",UK | The Boxⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/88.ts
-#EXTINF:-1 tvg-id="Tiny.Pop+1.uk" tvg-name="UK | Tiny POP +1ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/tiny-pop-uk.png" group-title="Z - wrong station id",UK | Tiny POP +1ⓧ
+#EXTINF:-1 tvg-id="Tiny.Pop+1.uk" tvg-name="UK | Tiny POP +1ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/tiny-pop-uk.png" group-title="Z - Wrong Info",UK | Tiny POP +1ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122827.ts
 #EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny POPⓧ SD" group-title="ENG - Kids & Family",Tiny POPⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/151.ts
 #EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC UKⓧ HD" group-title="ENG - Entertainment",TJC UKⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107782.ts
-#EXTINF:-1 tvg-id="TLC+1.uk" tvg-name="UK | TLC +1ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/tlc-hd-uk.png" group-title="Z - wrong station id",UK | TLC +1ⓧ
+#EXTINF:-1 tvg-id="TLC+1.uk" tvg-name="UK | TLC +1ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/tlc-hd-uk.png" group-title="Z - Wrong Info",UK | TLC +1ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/65386.ts
-#EXTINF:-1 tvg-id="TLC.HD.uk" tvg-name="UK | TLCⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/tlc-hd-uk.png" group-title="Z - wrong station id",UK | TLCⓧ FHD
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Pointless Game Show UK" tvg-logo="TLC FHD UK" group-title="ENG - 24/7",Pointless Game Show UK
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40417.ts
 #EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC UKⓧ HD" group-title="ENG - Entertainment",TLC UKⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/153.ts
-#EXTINF:-1 tvg-id="TLC.HD.uk" tvg-name="UK | TLCⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/tlc-hd-uk.png" group-title="Z - wrong station id",UK | TLCⓧ SD
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="Pointless Game Show UKⓧ SD" tvg-logo="TLC UK SD" group-title="ENG - 24/7",Pointless Game Show UKⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/152.ts
 #EXTINF:-1 tvg-id="TogetherTV.uk" tvg-name="Together TVⓧ SD" group-title="ENG - Entertainment",Together TVⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/65387.ts
 #EXTINF:-1 tvg-name="UK | Toon Gogglesⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Wrong Info",UK | Toon Gogglesⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107764.ts
-#EXTINF:-1 tvg-id="Trace.Hits.uk" tvg-name="UK | Trace Hitsⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/trace-hits-uk.png" group-title="Music (UK)",UK | Trace Hitsⓧ SD OFFLINE
+#EXTINF:-1 tvg-id="Trace.Hits.uk" tvg-name="UK | Trace Hitsⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/trace-hits-uk.png" group-title="Z - Offline Streams",UK | Trace Hitsⓧ SD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122826.ts
-#EXTINF:-1 tvg-name="UK | Trace Urbanⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/trace-urban-uk.png" group-title="Music (UK)",UK | Trace Urbanⓧ HD
+#EXTINF:-1 tvg-name="UK | Trace Urbanⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/trace-urban-uk.png" group-title="Z - Offline Streams",UK | Trace Urbanⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62565.ts
 #EXTINF:-1 tvg-id="Travelxp.uk" tvg-name="UK | Travel XPⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-travel-xp-8441bf93.png" group-title="Z - Wrong Info",UK | Travel XPⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/246.ts
@@ -7417,11 +7417,11 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/272.ts
 #EXTINF:-1 tvg-id="UTV.uk" tvg-name="UK | UTVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/u-tv-uk.png" group-title="ENG - Local UK BBC",UK | UTVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/65388.ts
-#EXTINF:-1 tvg-name="UK | Vevo '90s & '00s ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (UK)",UK | Vevo '90s & '00s ⓧ
+#EXTINF:-1 tvg-name="UK | Vevo '90s & '00s ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",UK | Vevo '90s & '00s ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122824.ts
-#EXTINF:-1 tvg-name="UK | Vevo Christmas ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (UK)",UK | Vevo Christmas ⓧ
+#EXTINF:-1 tvg-name="UK | Vevo Christmas ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",UK | Vevo Christmas ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122825.ts
-#EXTINF:-1 tvg-name="UK | VEVO Popⓧ FHD " tvg-logo="http://platinumxmedia.xyz/images/logos/l3-vevo-pop-4d6db8f3.png" group-title="Music (UK)",UK | VEVO Popⓧ FHD
+#EXTINF:-1 tvg-id="VevoPop.pluto" tvg-name="VEVO Popⓧ FHD " group-title="Music (All Lang)",VEVO Popⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62570.ts
 #EXTINF:-1 tvg-name="UK | Viaplay Sports 1ⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/viaplay-sports-1-uk.png" group-title="ENG - Sports UK",UK | Viaplay Sports 1ⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62563.ts
@@ -7495,7 +7495,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10839.ts
 #EXTINF:-1 tvg-id="RTENews.ie" tvg-name="RTE News Irelandⓧ FHD" group-title="ENG - News",RTE News Irelandⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/124.ts
-#EXTINF:-1 tvg-id="RTE.One.+1.ie" tvg-name="IRE | RTE One +1ⓧ SD " tvg-logo="http://platinumxmedia.xyz/images/logos/rte-one-ie.png" group-title="Z - wrong station id",IRE | RTE One +1ⓧ SD
+#EXTINF:-1 tvg-id="RTE.One.+1.ie" tvg-name="IRE | RTE One +1ⓧ SD " tvg-logo="http://platinumxmedia.xyz/images/logos/rte-one-ie.png" group-title="Z - Wrong Info",IRE | RTE One +1ⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/65379.ts
 #EXTINF:-1 tvg-id="RTE.One.HD.ie" tvg-name="IRE | RTE Oneⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/rte-one-ie.png" group-title="Z - Offline Streams",IRE | RTE Oneⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122.ts
@@ -7521,7 +7521,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11574.ts
 #EXTINF:-1 tvg-id="VirginMediaFour.ie" tvg-name="Virgin Media 4 Irelandⓧ SD OFFLINE " group-title="Z - Offline Streams",Virgin Media 4 Irelandⓧ SD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/153721.ts
-#EXTINF:-1 tvg-name="UK | Music And Memories TVⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-music-and-memories-tv-6d30b84f.png" group-title="Music (UK)",UK | Music And Memories TVⓧ OFFLINE
+#EXTINF:-1 tvg-name="UK | Music And Memories TVⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-music-and-memories-tv-6d30b84f.png" group-title="Z - Offline Streams",UK | Music And Memories TVⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/153722.ts
 #EXTINF:-1 tvg-id="UAndAlibi.uk" tvg-name="U&Alibiⓧ HD" group-title="ENG - Entertainment",U&Alibiⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/169895.ts
@@ -7537,9 +7537,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/170033.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.HD.ie" tvg-name="UK | Sky Sports Tennisⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-sports-tennis-hd-uk.png" group-title="ENG - Sports UK",UK | Sky Sports Tennisⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/14096.ts
-#EXTINF:-1 tvg-name="UK | Star Plusⓧ IN" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-starplus.png" group-title="Z - wrong station id",UK | Star Plusⓧ IN
+#EXTINF:-1 tvg-id="StarPlus.us" tvg-name="Star Plus USⓧ SD" group-title="HIN - Hindi",Star Plus USⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/170697.ts
-#EXTINF:-1 tvg-name="UK | Star Bharatⓧ IN" tvg-logo="http://platinumxmedia.xyz:80/images/469781d3f096d7f2d87d21cdcbf6b7c3.png" group-title="Z - wrong station id",UK | Star Bharatⓧ IN
+#EXTINF:-1 tvg-id="StarBharat.us" tvg-name="Star Bharat USⓧ HD" group-title="HIN - Hindi",Star Bharat USⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/170698.ts
 #EXTINF:-1 tvg-id="E4Extra.uk" tvg-name="E4 Extraⓧ " group-title="ENG - Entertainment",E4 Extraⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/96018.ts
@@ -7567,13 +7567,13 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172220.ts
 #EXTINF:-1 tvg-id="SkySci-Fi.uk" tvg-name="Sci-Fi by Skyⓧ SD" group-title="ENG - Entertainment",Sci-Fi by Skyⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172221.ts
-#EXTINF:-1 tvg-id="Sky.History.HD.ie" tvg-name="UK | Sky Historyⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-history-hd-uk.png" group-title="Z - wrong station id",UK | Sky Historyⓧ SD
+#EXTINF:-1 tvg-id="Sky.History.HD.ie" tvg-name="UK | Sky Historyⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-history-hd-uk.png" group-title="Z - Wrong Info",UK | Sky Historyⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172222.ts
 #EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-name="UK | Sky Natureⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/sky-nature-hd-uk.png" group-title="Z - Wrong Info",UK | Sky Natureⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172223.ts
-#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-name="UK | MTVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-hd-uk.png" group-title="Music (UK)",UK | MTVⓧ FHD
+#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-name="UK | MTVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-hd-uk.png" group-title="Z - Offline Streams",UK | MTVⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172224.ts
-#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-name="UK | MTVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-hd-uk.png" group-title="Music (UK)",UK | MTVⓧ SD
+#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-name="UK | MTVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-hd-uk.png" group-title="Z - Offline Streams",UK | MTVⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172225.ts
 #EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Comedyⓧ FHD" group-title="ENG - Entertainment",Sky Comedyⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172226.ts
