@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge! (D)" group-title="EN - Entertainment",Charge! (D)
-https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
-#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet (D)" group-title="EN - Entertainment",Comet (D)
-https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 tvg-id="Roar.us" tvg-name="Roar (D)" group-title="EN - Entertainment",Roar (D)
-https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-name="The Country Network (D)" group-title="Music (All Lang)",The Country Network (D)
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="TheNest.us" tvg-name="The Nest (D)" group-title="EN - Entertainment",The Nest (D)
-https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Chiptune Radio" group-title="Music (All Lang)",24/7 Chiptune Radio
 https://watch.chiptune.fm/hls/0/stream.m3u8?cachebust=a0a999
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="24/7 Vapor Funk Radio" group-title="Music (All Lang)",24/7 Vapor Funk Radio
