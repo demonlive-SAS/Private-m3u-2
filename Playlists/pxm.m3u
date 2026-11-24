@@ -51,9 +51,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1277.ts
 #EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&E+ ⓧ" group-title="EN - Entertainment",A&E+ ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/165909.ts
-#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&Eⓧ (Backup)" group-title="EN - Entertainment",A&Eⓧ (Backup)
+#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&E (East)ⓧ (Backup)" group-title="EN - Entertainment",A&E (East)ⓧ (Backup)
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/115588.ts
-#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&Eⓧ 4K" group-title="EN - Entertainment",A&Eⓧ 4K
+#EXTINF:-1 tvg-id="AandENetwork.us" tvg-name="A&E (East)ⓧ 4K" group-title="EN - Entertainment",A&E (East)ⓧ 4K
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/155541.ts
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24 Argentinaⓧ HD" group-title="ES - Entretenimiento",A24 Argentinaⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/116852.ts
@@ -171,13 +171,13 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1280.ts
 #EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+ⓧ" group-title="EN - Entertainment",AMC+ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1356.ts
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMCⓧ" group-title="EN - Entertainment",AMCⓧ
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC (East)ⓧ" group-title="EN - Entertainment",AMC (East)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1001.ts
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMCⓧ 4K" group-title="EN - Entertainment",AMCⓧ 4K
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMCⓧ 4K" group-title="EN - Entertainment",AMCⓧ 4K
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/155542.ts
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channelⓧ" group-title="EN - Entertainment",American Heroes Channelⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1002.ts
-#EXTINF:-1 tvg-id="AMG.TV.us2" tvg-name="AMG TVⓧ" group-title="EN - Entertainment",AMG TVⓧ
+#EXTINF:-1 tvg-id="AMGTV.us" tvg-name="AMG TVⓧ" group-title="EN - Entertainment",AMG TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93037.ts
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet (East)ⓧ" group-title="EN - Entertainment",Animal Planet (East)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1003.ts
@@ -197,7 +197,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48695.ts
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3 Spainⓧ SD" group-title="ES - Entretenimiento",Antena 3 Spainⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48696.ts
-#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TVⓧ" group-title="EN - Entertainment",Antenna TVⓧ
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="Antenna TVⓧ" group-title="EN - Entertainment",Antenna TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1004.ts
 #EXTINF:-1 tvg-id="APTN.ca" tvg-name="APTNⓧ" group-title="EN - Entertainment",APTNⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/111608.ts
@@ -479,7 +479,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/60705.ts
 #EXTINF:-1 tvg-name="ARG | TyC SPORTS PLAY ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/tyc-sports.png" group-title="ES - Entretenimiento (EPG)",ARG | TyC SPORTS PLAY ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123244.ts
-#EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="Aspire TVⓧ" group-title="EN - Entertainment",Aspire TVⓧ
+#EXTINF:-1 tvg-id="ASPiRE.us" tvg-name="Aspire TVⓧ" group-title="EN - Entertainment",Aspire TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1005.ts
 #EXTINF:-1 tvg-name="AU | 3AWⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-3aw-299e7499.png" group-title="Z - Offline Streams",AU | 3AWⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/104305.ts
@@ -877,7 +877,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/85707.ts
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America (East) ⓧ" group-title="EN - Entertainment",BBC America (East) ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1282.ts
-#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC Americaⓧ" group-title="EN - Entertainment",BBC Americaⓧ
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC Americaⓧ" group-title="EN - Entertainment",BBC Americaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1009.ts
 #EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="BBC Earth Canadaⓧ" group-title="EN - Entertainment",BBC Earth Canadaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/123639.ts
@@ -933,19 +933,19 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5371.ts
 #EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-name="beIN Sports Xtraⓧ" group-title="EN - Sports",beIN Sports Xtraⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11587.ts
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (East)ⓧ" group-title="EN - Entertainment",BET (East)ⓧ
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET (East)ⓧ" group-title="EN - Entertainment",BET (East)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1010.ts
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (East)ⓧ" group-title="EN - Entertainment",BET (East)ⓧ
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET (East)ⓧ" group-title="EN - Entertainment",BET (East)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/155539.ts
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET (East)ⓧ (backup)" group-title="EN - Entertainment",BET (East)ⓧ (backup)
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET (East)ⓧ (backup)" group-title="EN - Entertainment",BET (East)ⓧ (backup)
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/7982.ts
-#EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET (West)ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-bet-east-d92e8f18.png" group-title="EN - Entertainment",BET (West)ⓧ
+#EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET (West)ⓧ" group-title="EN - Entertainment",BET (West)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1011.ts
 #EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET (West)ⓧ (backup)" group-title="EN - Entertainment",BET (West)ⓧ (backup)
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/51039.ts
-#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET Her ⓧ" group-title="EN - Entertainment",BET Her ⓧ
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET Her ⓧ HD1" group-title="EN - Entertainment",BET Her ⓧ HD1
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/111609.ts
-#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET Herⓧ" group-title="EN - Entertainment",BET Herⓧ
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET Herⓧ HD2" group-title="EN - Entertainment",BET Herⓧ HD2
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1012.ts
 #EXTINF:-1 tvg-id="Beteve.es" tvg-name="Betevé Spainⓧ" group-title="ES - Entretenimiento",Betevé Spainⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93271.ts
@@ -1075,9 +1075,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/51654.ts
 #EXTINF:-1 tvg-name="BR | Trace Brazucaⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (All Lang)",BR | Trace Brazucaⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/51550.ts
-#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo (East) ⓧ" group-title="EN - Entertainment",Bravo (East) ⓧ
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo (East)ⓧ HD1" group-title="EN - Entertainment",Bravo (East)ⓧ HD1
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/143997.ts
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo (East)ⓧ" group-title="EN - Entertainment",Bravo (East)ⓧ
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo (East)ⓧ HD2" group-title="EN - Entertainment",Bravo (East)ⓧ HD2
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1019.ts
 #EXTINF:-1 tvg-id="BravoPacific.us" tvg-name="Bravo (West)ⓧ" group-title="EN - Entertainment",Bravo (West)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1020.ts
@@ -1257,7 +1257,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/96012.ts
 #EXTINF:-1 tvg-id="NBCKMIR.us" tvg-name="CA | Palm Springs | NBC KMIRⓧ" group-title="EN - Local NBC",CA | Palm Springs | NBC KMIRⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/95504.ts
-#EXTINF:-1 tvg-id="PeachtreeTVWPCH.ca" tvg-name="CA | Peachtree TVⓧ " group-title="EN - Entertainment",CA | Peachtree TVⓧ
+#EXTINF:-1 tvg-id="PeachtreeTVWPCH.ca" tvg-name="CA | Peachtree TVⓧ " group-title="EN - Local CW/IND",CA | Peachtree TVⓧ 
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1383.ts
 #EXTINF:-1 tvg-name="CA | Players TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-players-tv-6f72bb33.png" group-title="Z - Offline Streams",CA | Players TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/18446.ts
@@ -1327,7 +1327,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/897.ts
 #EXTINF:-1 tvg-name="CA | San Francisco | Galavisionⓧ" group-title="ES - Local US",CA | San Francisco | Galavisionⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122292.ts
-#EXTINF:-1 tvg-id="KPIX+KPYX.us" tvg-name="CA | San Francisco | IND KPYXⓧ" group-title="EN - Entertainment",CA | San Francisco | IND KPYXⓧ
+#EXTINF:-1 tvg-id="KPIX+KPYX.us" tvg-name="CA | San Francisco | IND KPYXⓧ" group-title="EN - Local CW/IND",CA | San Francisco | IND KPYXⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/12011.ts
 #EXTINF:-1 tvg-id="KTSF-DT.us_locals1" tvg-name="CA | San Francisco | IND KTSFⓧ" group-title="EN - Local CW/IND",CA | San Francisco | IND KTSFⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/155538.ts
@@ -1509,7 +1509,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/7151.ts
 #EXTINF:-1 tvg-id="CartoonNetwork.ca" tvg-name="Cartoon Network Canadaⓧ" group-title="EN - Entertainment",Cartoon Network Canadaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1289.ts
-#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedyⓧ" group-title="EN - Entertainment",Catchy Comedyⓧ
+#EXTINF:-1 tvg-id="CatchyComedy.us" tvg-name="Catchy Comedyⓧ" group-title="EN - Entertainment",Catchy Comedyⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/91962.ts
 #EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBCⓧ FHD" group-title="EN - Kids & Family",CBBCⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/243.ts
@@ -1553,33 +1553,33 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40413.ts
 #EXTINF:-1 tvg-id="CBSEast_WCBS.us" tvg-name="CBS (East)ⓧ" group-title="EN - Entertainment",CBS (East)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/844.ts
-#EXTINF:-1 tvg-name="CBS News Baltimore, MDⓧ" group-title="EN - News",MDⓧ" group-title="EN - News",MDⓧ" group-title="EN - News",MDⓧ" group-title="EN - News",MDⓧ" group-title="EN - News",MDⓧ" group-title="EN - News",MDⓧ" group-title="EN - News",CBS News Baltimore, MDⓧ
+#EXTINF:-1 tvg-name="CBS News Baltimore, MDⓧ" group-title="EN - News",MDⓧ" group-title="EN - News",MDⓧ" group-title="EN - News",MDⓧ" group-title="EN - News",MDⓧ" group-title="EN - News",MDⓧ" group-title="EN - News",MDⓧ" group-title="EN - News",MDⓧ" group-title="EN - News",CBS News Baltimore, MDⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48527.ts
-#EXTINF:-1 tvg-name="CBS News Bay Area, CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CBS News Bay Area, CAⓧ
+#EXTINF:-1 tvg-name="CBS News Bay Area, CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CBS News Bay Area, CAⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1141.ts
-#EXTINF:-1 tvg-name="CBS News Boston, MAⓧ" group-title="EN - News",MAⓧ" group-title="EN - News",MAⓧ" group-title="EN - News",MAⓧ" group-title="EN - News",MAⓧ" group-title="EN - News",MAⓧ" group-title="EN - News",MAⓧ" group-title="EN - News",CBS News Boston, MAⓧ
+#EXTINF:-1 tvg-name="CBS News Boston, MAⓧ" group-title="EN - News",MAⓧ" group-title="EN - News",MAⓧ" group-title="EN - News",MAⓧ" group-title="EN - News",MAⓧ" group-title="EN - News",MAⓧ" group-title="EN - News",MAⓧ" group-title="EN - News",MAⓧ" group-title="EN - News",CBS News Boston, MAⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1048.ts
-#EXTINF:-1 tvg-name="CBS News Chicago, ILⓧ" group-title="EN - News",ILⓧ" group-title="EN - News",ILⓧ" group-title="EN - News",ILⓧ" group-title="EN - News",ILⓧ" group-title="EN - News",ILⓧ" group-title="EN - News",ILⓧ" group-title="EN - News",CBS News Chicago, ILⓧ
+#EXTINF:-1 tvg-name="CBS News Chicago, ILⓧ" group-title="EN - News",ILⓧ" group-title="EN - News",ILⓧ" group-title="EN - News",ILⓧ" group-title="EN - News",ILⓧ" group-title="EN - News",ILⓧ" group-title="EN - News",ILⓧ" group-title="EN - News",ILⓧ" group-title="EN - News",CBS News Chicago, ILⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/55494.ts
-#EXTINF:-1 tvg-name="CBS News Colorado, COⓧ" group-title="EN - News",COⓧ" group-title="EN - News",COⓧ" group-title="EN - News",COⓧ" group-title="EN - News",COⓧ" group-title="EN - News",COⓧ" group-title="EN - News",COⓧ" group-title="EN - News",CBS News Colorado, COⓧ
+#EXTINF:-1 tvg-name="CBS News Colorado, COⓧ" group-title="EN - News",COⓧ" group-title="EN - News",COⓧ" group-title="EN - News",COⓧ" group-title="EN - News",COⓧ" group-title="EN - News",COⓧ" group-title="EN - News",COⓧ" group-title="EN - News",COⓧ" group-title="EN - News",CBS News Colorado, COⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48528.ts
-#EXTINF:-1 tvg-name="CBS News Detroit, MIⓧ" group-title="EN - News",MIⓧ" group-title="EN - News",MIⓧ" group-title="EN - News",MIⓧ" group-title="EN - News",MIⓧ" group-title="EN - News",MIⓧ" group-title="EN - News",MIⓧ" group-title="EN - News",CBS News Detroit, MIⓧ
+#EXTINF:-1 tvg-name="CBS News Detroit, MIⓧ" group-title="EN - News",MIⓧ" group-title="EN - News",MIⓧ" group-title="EN - News",MIⓧ" group-title="EN - News",MIⓧ" group-title="EN - News",MIⓧ" group-title="EN - News",MIⓧ" group-title="EN - News",MIⓧ" group-title="EN - News",CBS News Detroit, MIⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48529.ts
-#EXTINF:-1 tvg-name="CBS News Los Angeles, CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CBS News Los Angeles, CAⓧ
+#EXTINF:-1 tvg-name="CBS News Los Angeles, CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CBS News Los Angeles, CAⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/63362.ts
-#EXTINF:-1 tvg-name="CBS News Miami, FLⓧ" group-title="EN - News",FLⓧ" group-title="EN - News",FLⓧ" group-title="EN - News",FLⓧ" group-title="EN - News",FLⓧ" group-title="EN - News",FLⓧ" group-title="EN - News",FLⓧ" group-title="EN - News",CBS News Miami, FLⓧ
+#EXTINF:-1 tvg-name="CBS News Miami, FLⓧ" group-title="EN - News",FLⓧ" group-title="EN - News",FLⓧ" group-title="EN - News",FLⓧ" group-title="EN - News",FLⓧ" group-title="EN - News",FLⓧ" group-title="EN - News",FLⓧ" group-title="EN - News",FLⓧ" group-title="EN - News",CBS News Miami, FLⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/141373.ts
-#EXTINF:-1 tvg-name="CBS News Minnesota, MNⓧ" group-title="EN - News",MNⓧ" group-title="EN - News",MNⓧ" group-title="EN - News",MNⓧ" group-title="EN - News",MNⓧ" group-title="EN - News",MNⓧ" group-title="EN - News",MNⓧ" group-title="EN - News",CBS News Minnesota, MNⓧ
+#EXTINF:-1 tvg-name="CBS News Minnesota, MNⓧ" group-title="EN - News",MNⓧ" group-title="EN - News",MNⓧ" group-title="EN - News",MNⓧ" group-title="EN - News",MNⓧ" group-title="EN - News",MNⓧ" group-title="EN - News",MNⓧ" group-title="EN - News",MNⓧ" group-title="EN - News",CBS News Minnesota, MNⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48530.ts
-#EXTINF:-1 tvg-name="CBS News New York, NYⓧ" group-title="EN - News",NYⓧ" group-title="EN - News",NYⓧ" group-title="EN - News",NYⓧ" group-title="EN - News",NYⓧ" group-title="EN - News",NYⓧ" group-title="EN - News",NYⓧ" group-title="EN - News",CBS News New York, NYⓧ
+#EXTINF:-1 tvg-name="CBS News New York, NYⓧ" group-title="EN - News",NYⓧ" group-title="EN - News",NYⓧ" group-title="EN - News",NYⓧ" group-title="EN - News",NYⓧ" group-title="EN - News",NYⓧ" group-title="EN - News",NYⓧ" group-title="EN - News",NYⓧ" group-title="EN - News",CBS News New York, NYⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5641.ts
-#EXTINF:-1 tvg-name="CBS News Philadelphia, PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",CBS News Philadelphia, PAⓧ
+#EXTINF:-1 tvg-name="CBS News Philadelphia, PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",CBS News Philadelphia, PAⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48531.ts
-#EXTINF:-1 tvg-name="CBS News Pittsburgh, PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",CBS News Pittsburgh, PAⓧ
+#EXTINF:-1 tvg-name="CBS News Pittsburgh, PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",PAⓧ" group-title="EN - News",CBS News Pittsburgh, PAⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48532.ts
-#EXTINF:-1 tvg-name="CBS News Sacramento, CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CBS News Sacramento, CAⓧ
+#EXTINF:-1 tvg-name="CBS News Sacramento, CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CAⓧ" group-title="EN - News",CBS News Sacramento, CAⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48533.ts
-#EXTINF:-1 tvg-name="CBS News Texas, TXⓧ" group-title="EN - News",TXⓧ" group-title="EN - News",TXⓧ" group-title="EN - News",TXⓧ" group-title="EN - News",TXⓧ" group-title="EN - News",TXⓧ" group-title="EN - News",TXⓧ" group-title="EN - News",CBS News Texas, TXⓧ
+#EXTINF:-1 tvg-name="CBS News Texas, TXⓧ" group-title="EN - News",TXⓧ" group-title="EN - News",TXⓧ" group-title="EN - News",TXⓧ" group-title="EN - News",TXⓧ" group-title="EN - News",TXⓧ" group-title="EN - News",TXⓧ" group-title="EN - News",TXⓧ" group-title="EN - News",CBS News Texas, TXⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48534.ts
 #EXTINF:-1 tvg-name="CH | Musig24 TVⓧ HD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-musig24-tv-948b69fb.png" group-title="Z - Offline Streams",CH | Musig24 TVⓧ HD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9981.ts
@@ -1861,7 +1861,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92734.ts
 #EXTINF:-1 tvg-id="Canal.Zona.Latina.cl" tvg-name="CL | Zona Latinaⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-zona-latina-b2975cf2.png" group-title="ES - Chile",CL | Zona Latinaⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92769.ts
-#EXTINF:-1 tvg-id="Cleo.TV.HD.us2" tvg-name="Cleo TVⓧ" group-title="EN - Entertainment",Cleo TVⓧ
+#EXTINF:-1 tvg-id="CleoTV.us" tvg-name="Cleo TVⓧ" group-title="EN - Entertainment",Cleo TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75811.ts
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="Clubbing TV Franceⓧ FHD" group-title="Music (All Lang)",Clubbing TV Franceⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77075.ts
@@ -1953,7 +1953,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/117827.ts
 #EXTINF:-1 tvg-name="CO | Uno Play ⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ES - Entretenimiento (EPG)",CO | Uno Play ⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122262.ts
-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central (East)ⓧ" group-title="EN - Entertainment",Comedy Central (East)ⓧ
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central (East)ⓧ" group-title="EN - Entertainment",Comedy Central (East)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1029.ts
 #EXTINF:-1 tvg-id="ComedyCentralPacific.us" tvg-name="Comedy Central (West)ⓧ" group-title="EN - Entertainment",Comedy Central (West)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/847.ts
@@ -1971,23 +1971,23 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74457.ts
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamicsⓧ" group-title="EN - Entertainment",Comedy Dynamicsⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78468.ts
-#EXTINF:-1 tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy TVⓧ" group-title="EN - Entertainment",Comedy TVⓧ
+#EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="Comedy.TVⓧ" group-title="EN - Entertainment",Comedy.TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78463.ts
-#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Cometⓧ FHD" group-title="EN - Entertainment",Cometⓧ FHD
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="Cometⓧ FHD" group-title="EN - Entertainment",Cometⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1030.ts
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel+ ⓧ" group-title="EN - Entertainment",Cooking Channel+ ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/165912.ts
-#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channelⓧ" group-title="EN - Entertainment",Cooking Channelⓧ
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channelⓧ HD1" group-title="EN - Entertainment",Cooking Channelⓧ HD1
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1031.ts
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channelⓧ HD" group-title="EN - Entertainment",Cooking Channelⓧ HD
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channelⓧ HD2" group-title="EN - Entertainment",Cooking Channelⓧ HD2
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1314.ts
 #EXTINF:-1 tvg-id="CottageLife.ca" tvg-name="Cottage Lifeⓧ HD" group-title="EN - Entertainment",Cottage Lifeⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1315.ts
 #EXTINF:-1 tvg-id="CourtTV.uk" tvg-name="Court TV UKⓧ HD" group-title="EN - Entertainment",Court TV UKⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107792.ts
-#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TVⓧ" group-title="EN - Entertainment",Court TVⓧ
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TVⓧ" group-title="EN - Entertainment",Court TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/111554.ts
-#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi TVⓧ" group-title="EN - Entertainment",Cozi TVⓧ
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-name="Cozi TVⓧ" group-title="EN - Entertainment",Cozi TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1032.ts
 #EXTINF:-1 tvg-id="CP24.ca" tvg-name="CP 24ⓧ HD" group-title="EN - News",CP 24ⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1316.ts
@@ -2133,7 +2133,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78472.ts
 #EXTINF:-1 tvg-id="DTV.hn" tvg-name="D Television Hondurasⓧ HD " group-title="ES - Entretenimiento",D Television Hondurasⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/60968.ts
-#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABLⓧ" group-title="EN - Entertainment",DABLⓧ
+#EXTINF:-1 tvg-id="Dabl.us" tvg-name="DABLⓧ" group-title="EN - Entertainment",DABLⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92460.ts
 #EXTINF:-1 tvg-id="DanceTelevision.nl" tvg-name="Dance Television Netherlandsⓧ FHD" group-title="Music (All Lang)",Dance Television Netherlandsⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/5647.ts
@@ -2189,7 +2189,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/170709.ts
 #EXTINF:-1 tvg-id="Music.Dummy.us" tvg-name="DBM TV Franceⓧ SD" group-title="Music (All Lang)",DBM TV Franceⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/9032.ts
-#EXTINF:-1 tvg-id="DCNewsNowWDVM.us" tvg-name="DC News Now Washington, DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DC News Now Washington, DCⓧ
+#EXTINF:-1 tvg-id="DCNewsNowWDVM.us" tvg-name="DC News Now Washington, DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DC News Now Washington, DCⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172486.ts
 #EXTINF:-1 tvg-id="WJLA-DT.us_locals1" tvg-name="DC | Washington | ABC WJLAⓧ" group-title="EN - Local ABC",DC | Washington | ABC WJLAⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11807.ts
@@ -2429,11 +2429,11 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/52635.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel+1.uk" tvg-name="Discovery +1 UKⓧ" group-title="EN - Entertainment",Discovery +1 UKⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10847.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel (East)ⓧ" group-title="EN - Entertainment",Discovery Channel (East)ⓧ
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery (East)ⓧ" group-title="EN - Entertainment",Discovery (East)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1034.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel (East)ⓧ HD2" group-title="EN - Entertainment",Discovery Channel (East)ⓧ HD2
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery (East)ⓧ HD2" group-title="EN - Entertainment",Discovery (East)ⓧ HD2
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/155543.ts
-#EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery Channel (West)ⓧ" group-title="EN - Entertainment",Discovery Channel (West)ⓧ
+#EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery (West)ⓧ" group-title="EN - Entertainment",Discovery (West)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/12014.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel UKⓧ FHD" group-title="EN - Entertainment",Discovery Channel UKⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40439.ts
@@ -2441,7 +2441,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40424.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel UKⓧ SD" group-title="EN - Entertainment",Discovery Channel UKⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/82.ts
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Familyⓧ" group-title="EN - Entertainment",Discovery Familyⓧ
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Familyⓧ" group-title="EN - Entertainment",Discovery Familyⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1035.ts
 #EXTINF:-1 tvg-id="DiscoveryHistory+1.uk" tvg-name="Discovery History +1 UKⓧ" group-title="EN - Entertainment",Discovery History +1 UKⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/65392.ts
@@ -2461,7 +2461,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/65390.ts
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo UKⓧ HD" group-title="EN - Sports Auto",Discovery Turbo UKⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/282.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery+ ⓧ" group-title="EN - Entertainment",Discovery+ ⓧ
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery+ (East)ⓧ" group-title="EN - Entertainment",Discovery+ (East)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/165916.ts
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney (East)ⓧ" group-title="EN - Kids & Family",Disney (East)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/12015.ts
@@ -2629,7 +2629,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/104873.ts
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="E4ⓧ SD" group-title="EN - Entertainment",E4ⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/104874.ts
-#EXTINF:-1 tvg-name="Ebony TVⓧ" group-title="EN - Entertainment",Ebony TVⓧ
+#EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" tvg-name="Ebony TVⓧ" group-title="EN - Entertainment",Ebony TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78474.ts
 #EXTINF:-1 tvg-name="EC | Canela TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-canela-tv-hd-0ff50e0f.png" group-title="ES - Entretenimiento (EPG)",EC | Canela TVⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/60928.ts
@@ -2905,7 +2905,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108864.ts
 #EXTINF:-1 tvg-name="EN 24/7 | Captain Americaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-captain-america-72a7b286.jpg" group-title="EN - 24/7",EN 24/7 | Captain Americaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107480.ts
-#EXTINF:-1 tvg-name="EN 24/7 | Car 54, Where are you!ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-car-54-where-are-you-ff7bcd29.jpg" group-title="EN - 24/7",Where are you!ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-car-54-where-are-you-ff7bcd29.jpg" group-title="EN - 24/7",Where are you!ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-car-54-where-are-you-ff7bcd29.jpg" group-title="EN - 24/7",Where are you!ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-car-54-where-are-you-ff7bcd29.jpg" group-title="EN - 24/7",Where are you!ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-car-54-where-are-you-ff7bcd29.jpg" group-title="EN - 24/7",Where are you!ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-car-54-where-are-you-ff7bcd29.jpg" group-title="EN - 24/7",EN 24/7 | Car 54, Where are you!ⓧ
+#EXTINF:-1 tvg-name="EN 24/7 | Car 54, Where are you!ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-car-54-where-are-you-ff7bcd29.jpg" group-title="EN - 24/7",Where are you!ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-car-54-where-are-you-ff7bcd29.jpg" group-title="EN - 24/7",Where are you!ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-car-54-where-are-you-ff7bcd29.jpg" group-title="EN - 24/7",Where are you!ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-car-54-where-are-you-ff7bcd29.jpg" group-title="EN - 24/7",Where are you!ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-car-54-where-are-you-ff7bcd29.jpg" group-title="EN - 24/7",Where are you!ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-car-54-where-are-you-ff7bcd29.jpg" group-title="EN - 24/7",Where are you!ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-car-54-where-are-you-ff7bcd29.jpg" group-title="EN - 24/7",EN 24/7 | Car 54, Where are you!ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108758.ts
 #EXTINF:-1 tvg-name="EN 24/7 | Castleⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-castle-7c567f33.jpg" group-title="EN - 24/7",EN 24/7 | Castleⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107447.ts
@@ -3667,7 +3667,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108978.ts
 #EXTINF:-1 tvg-name="EN 24/7 | Thundercatsⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-thundercats-f930c14d.jpg" group-title="EN - 24/7",EN 24/7 | Thundercatsⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108976.ts
-#EXTINF:-1 tvg-name="EN 24/7 | Tiger King: Murder, Mayhem and Madnessⓧ" group-title="EN - 24/7",Mayhem and Madnessⓧ" group-title="EN - 24/7",Mayhem and Madnessⓧ" group-title="EN - 24/7",Mayhem and Madnessⓧ" group-title="EN - 24/7",Mayhem and Madnessⓧ" group-title="EN - 24/7",Mayhem and Madnessⓧ" group-title="EN - 24/7",EN 24/7 | Tiger King: Murder, Mayhem and Madnessⓧ
+#EXTINF:-1 tvg-name="EN 24/7 | Tiger King: Murder, Mayhem and Madnessⓧ" group-title="EN - 24/7",Mayhem and Madnessⓧ" group-title="EN - 24/7",Mayhem and Madnessⓧ" group-title="EN - 24/7",Mayhem and Madnessⓧ" group-title="EN - 24/7",Mayhem and Madnessⓧ" group-title="EN - 24/7",Mayhem and Madnessⓧ" group-title="EN - 24/7",Mayhem and Madnessⓧ" group-title="EN - 24/7",EN 24/7 | Tiger King: Murder, Mayhem and Madnessⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/108816.ts
 #EXTINF:-1 tvg-name="EN 24/7 | Tom And Jerryⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-tom-and-jerry-45f012dc.jpg" group-title="EN - 24/7",EN 24/7 | Tom And Jerryⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107611.ts
@@ -5335,23 +5335,23 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11631.ts
 #EXTINF:-1 tvg-id="PBSWXEL.us" tvg-name="FL | WPB | PBS WXELⓧ" group-title="EN - Kids & Family",FL | WPB | PBS WXELⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/104477.ts
-#EXTINF:-1 tvg-id="FM.HD.us2" tvg-name="FM TVⓧ" group-title="EN - Entertainment",FM TVⓧ
+#EXTINF:-1 tvg-id="FuseMusic.us" tvg-name="FM TVⓧ" group-title="EN - Entertainment",FM TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/37106.ts
 #EXTINF:-1 tvg-id="FMC.us" tvg-name="FMCⓧ" group-title="EN - Movies",FMCⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78476.ts
 #EXTINF:-1 tvg-id="FOLXMUSICTELEVISION.de" tvg-name="FOLXⓧ HD" group-title="Music (All Lang)",FOLXⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/75823.ts
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East)ⓧ" group-title="EN - Entertainment",Food Network (East)ⓧ
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East)ⓧ HD1" group-title="EN - Entertainment",Food Network (East)ⓧ HD1
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94.ts
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East)ⓧ" group-title="EN - Entertainment",Food Network (East)ⓧ
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East)ⓧ HD2" group-title="EN - Entertainment",Food Network (East)ⓧ HD2
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1045.ts
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network (East)ⓧ (backup)" group-title="EN - Entertainment",Food Network (East)ⓧ (backup)
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network (East)ⓧ HD3" group-title="EN - Entertainment",Food Network (East)ⓧ HD3
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/12020.ts
 #EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="Food Network (West)ⓧ" group-title="EN - Entertainment",Food Network (West)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/12021.ts
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network+ ⓧ" group-title="EN - Entertainment",Food Network+ ⓧ
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network+ (East)ⓧ" group-title="EN - Entertainment",Food Network+ (East)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/165917.ts
-#EXTINF:-1 tvg-id="FOX.SOUL.us2" tvg-name="FOX Soulⓧ" group-title="EN - Entertainment",FOX Soulⓧ
+#EXTINF:-1 tvg-id="FOXSOUL.us" tvg-name="FOX Soulⓧ" group-title="EN - Entertainment",FOX Soulⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/91976.ts
 #EXTINF:-1 tvg-id="FOXSports.co" tvg-name="FOX Sports 1 Colombiaⓧ HD" group-title="ES - Deportes",FOX Sports 1 Colombiaⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/60914.ts
@@ -5457,15 +5457,15 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122059.ts
 #EXTINF:-1 tvg-name="FR | Via TelePaeseⓧ HD" group-title="Z - Offline Streams",FR | Via TelePaeseⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77252.ts
-#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeformⓧ" group-title="EN - Entertainment",Freeformⓧ
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform (East)ⓧ" group-title="EN - Entertainment",Freeform (East)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1046.ts
 #EXTINF:-1 tvg-id="fueltv.au" tvg-name="Fuel TV Australia ⓧ HD" group-title="EN - Sports",Fuel TV Australia ⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/28028.ts
 #EXTINF:-1 tvg-id="fueltv.au" tvg-name="Fuel TV Australia ⓧ SD" group-title="EN - Sports",Fuel TV Australia ⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/28015.ts
-#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuseⓧ" group-title="EN - Entertainment",Fuseⓧ
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuseⓧ HD1" group-title="EN - Entertainment",Fuseⓧ HD1
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1047.ts
-#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuseⓧ HD" group-title="EN - Entertainment",Fuseⓧ HD
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuseⓧ HD2" group-title="EN - Entertainment",Fuseⓧ HD2
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/27936.ts
 #EXTINF:-1 tvg-id="FUTV.cr" tvg-name="FUTV Costa Ricaⓧ" group-title="ES - Entretenimiento",FUTV Costa Ricaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/60825.ts
@@ -5473,11 +5473,11 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1050.ts
 #EXTINF:-1 tvg-id="FXX.ca" tvg-name="FXX Canadaⓧ HD" group-title="EN - Entertainment",FXX Canadaⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1412.ts
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX Eastⓧ" group-title="EN - Entertainment",FXX Eastⓧ
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX (East)ⓧ HD1" group-title="EN - Entertainment",FXX (East)ⓧ HD1
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1051.ts
-#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FXⓧ" group-title="EN - Entertainment",FXⓧ
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX (East)ⓧ HD2" group-title="EN - Entertainment",FX (East)ⓧ HD2
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1049.ts
-#EXTINF:-1 tvg-id="FX.us" tvg-name="FXⓧ HD" group-title="EN - Entertainment",FXⓧ HD
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX (East)ⓧ HD3" group-title="EN - Entertainment",FX (East)ⓧ HD3
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1407.ts
 #EXTINF:-1 tvg-name="FYI (East)ⓧ HD" group-title="EN - Entertainment",FYI (East)ⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11607.ts
@@ -8591,7 +8591,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1093.ts
 #EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="Paramount Network (West)ⓧ" group-title="EN - Entertainment",Paramount Network (West)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/170307.ts
-#EXTINF:-1 tvg-name="PBS Abilene, TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",PBS Abilene, TX CH65ⓧ OFFLINE
+#EXTINF:-1 tvg-name="PBS Abilene, TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",TX CH65ⓧ OFFLINE" group-title="Z - Offline Streams",PBS Abilene, TX CH65ⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172179.ts
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS Americaⓧ" group-title="EN - Entertainment",PBS Americaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283.ts
@@ -10415,8 +10415,6 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/51.ts
 #EXTINF:-1 tvg-name="UK | Beano TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-beano-tv-79cf58aa.png" group-title="Z - Wrong Info",UK | Beano TVⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107746.ts
-#EXTINF:-1 tvg-name="UK | Betfred TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Sports Betting UK",UK | Betfred TVⓧ SD
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40102.ts
 #EXTINF:-1 tvg-name="UK | BFBS Extraⓧ" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bfbs-extra-uk.png" group-title="Other - International UK",UK | BFBS Extraⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172393.ts
 #EXTINF:-1 tvg-name="UK | Bloomberg TV EMEAⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-bloomberg.png" group-title="EN - News",UK | Bloomberg TV EMEAⓧ HD
@@ -10499,10 +10497,6 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10835.ts
 #EXTINF:-1 tvg-id="COLORS.HD.uk" tvg-name="UK | Colorsⓧ FHD" tvg-logo="http://platinumxmedia.xyz:80/images/e9a8cbe087977b6a5b8b70d941958e94.png" group-title="Other - International UK",UK | Colorsⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78.ts
-#EXTINF:-1 tvg-name="UK | Coral TV 1ⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-coraltv2.png" group-title="EN - Sports Betting UK",UK | Coral TV 1ⓧ SD
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40101.ts
-#EXTINF:-1 tvg-name="UK | Coral TV 2ⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-coraltv2.png" group-title="EN - Sports Betting UK",UK | Coral TV 2ⓧ SD
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40100.ts
 #EXTINF:-1 tvg-id="The.Craft.Store.uk" tvg-name="UK | Craft Storeⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/the-craft-store-uk.png" group-title="Z - Offline Streams",UK | Craft Storeⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107796.ts
 #EXTINF:-1 tvg-id="DAYSTAR.HD.uk" tvg-name="UK | Daystarⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/daystar-au.png" group-title="Religion (All Lang)",UK | Daystarⓧ HD
@@ -10633,12 +10627,6 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172395.ts
 #EXTINF:-1 tvg-id="KICC.TV.uk" tvg-name="UK | KICC TVⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/kicc-tv-uk.png" group-title="Religion (All Lang)",UK | KICC TVⓧ SD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107638.ts
-#EXTINF:-1 tvg-name="UK | Ladbrokes TV 1ⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/ladbrokes.gif" group-title="EN - Sports Betting UK",UK | Ladbrokes TV 1ⓧ SD OFFLINE
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62545.ts
-#EXTINF:-1 tvg-name="UK | Ladbrokes TV 2ⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/ladbrokes.gif" group-title="EN - Sports Betting UK",UK | Ladbrokes TV 2ⓧ SD OFFLINE
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62546.ts
-#EXTINF:-1 tvg-name="UK | Ladbrokes TV 3ⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/ladbrokes.gif" group-title="EN - Sports Betting UK",UK | Ladbrokes TV 3ⓧ SD OFFLINE
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93709.ts
 #EXTINF:-1 tvg-name="UK | LaLiga TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/laliga-tv-uk.png" group-title="EN - Sports UK",UK | LaLiga TVⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172.ts
 #EXTINF:-1 tvg-name="UK | LFC TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/lfctv-hd-uk.png" group-title="EN - Sports UK",UK | LFC TVⓧ FHD
@@ -10705,10 +10693,6 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/118.ts
 #EXTINF:-1 tvg-id="TV.One.uk" tvg-name="UK | One TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/one-tv-fr.png" group-title="EN - Sports UK",UK | One TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/79304.ts
-#EXTINF:-1 tvg-name="UK | Paddy Power TV 1ⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-paddypowertv1.png" group-title="EN - Sports Betting UK",UK | Paddy Power TV 1ⓧ SD OFFLINE
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40099.ts
-#EXTINF:-1 tvg-name="UK | Paddy Power TV 3ⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-paddypowertv3.png" group-title="EN - Sports Betting UK",UK | Paddy Power TV 3ⓧ SD OFFLINE
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40098.ts
 #EXTINF:-1 tvg-name="UK | PDC Darts TV1ⓧ (Live Events Only)" tvg-logo="http://platinumxmedia.xyz:80/images/f254c67066af56b6b0d88c85246c1fda.png" group-title="EN - Sports UK",UK | PDC Darts TV1ⓧ (Live Events Only)
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40090.ts
 #EXTINF:-1 tvg-name="UK | PDC Darts TV2ⓧ (Live Events Only)" tvg-logo="http://platinumxmedia.xyz:80/images/f254c67066af56b6b0d88c85246c1fda.png" group-title="EN - Sports UK",UK | PDC Darts TV2ⓧ (Live Events Only)
@@ -10719,16 +10703,12 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122832.ts
 #EXTINF:-1 tvg-name="UK | Qwest TV Jazz and Beyondⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-qwest-tv-jazz-and-beyond-3429bcca.png" group-title="Z - Offline Streams",UK | Qwest TV Jazz and Beyondⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62566.ts
-#EXTINF:-1 tvg-name="UK | Racing Post TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Sports Betting UK",UK | Racing Post TVⓧ HD
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/175.ts
 #EXTINF:-1 tvg-id="Racing.TV.uk" tvg-name="UK | Racing TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/racing-tv-hd-uk.png" group-title="EN - Sports UK",UK | Racing TVⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/62555.ts
 #EXTINF:-1 tvg-id="Racing.TV.uk" tvg-name="UK | Racing TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/racing-tv-hd-uk.png" group-title="EN - Sports UK",UK | Racing TVⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/15.ts
 #EXTINF:-1 tvg-id="Racing.TV.uk" tvg-name="UK | Racing TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/racing-tv-hd-uk.png" group-title="EN - Sports UK",UK | Racing TVⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/10861.ts
-#EXTINF:-1 tvg-name="UK | Racing.comⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/racing-com-au.png" group-title="EN - Sports Betting UK",UK | Racing.comⓧ HD
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11364.ts
 #EXTINF:-1 tvg-name="UK | Rakuten TV Comedyⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",UK | Rakuten TV Comedyⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/252.ts
 #EXTINF:-1 tvg-name="UK | Red Bull TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/red-bull-tv-int.png" group-title="EN - Sports UK",UK | Red Bull TVⓧ FHD
@@ -10741,12 +10721,6 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/125.ts
 #EXTINF:-1 tvg-id="S4C.HD.uk" tvg-name="UK | S4Cⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/s4c-hd-uk.png" group-title="EN - Local UK BBC",UK | S4Cⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/95.ts
-#EXTINF:-1 tvg-name="UK | SIS Oneⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-sisone.png" group-title="EN - Sports Betting UK",UK | SIS Oneⓧ SD
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40097.ts
-#EXTINF:-1 tvg-name="UK | SIS Racingⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-sisracing.png" group-title="EN - Sports Betting UK",UK | SIS Racingⓧ SD
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40096.ts
-#EXTINF:-1 tvg-name="UK | SIS Twoⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-sistwo.png" group-title="EN - Sports Betting UK",UK | SIS Twoⓧ SD
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40095.ts
 #EXTINF:-1 tvg-name="UK | Ski TVⓧ FHD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-ski-tv-fb8c65aa.png" group-title="EN - Sports UK",UK | Ski TVⓧ FHD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/121189.ts
 #EXTINF:-1 tvg-id="Sky.Adventure.uk" tvg-name="UK | Sky Adventureⓧ FHD OFFLINE " tvg-logo="http://109.104.153.221/tv-logos/countries/united-kingdom/sky-cinema-adventure-hd-uk.png" group-title="Z - Offline Streams",UK | Sky Adventureⓧ FHD OFFLINE
@@ -10975,12 +10949,6 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11368.ts
 #EXTINF:-1 tvg-id="Vox.Africa.uk" tvg-name="UK | Vox Africaⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/voxafrica-uk.png" group-title="Other - International UK",UK | Vox Africaⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107791.ts
-#EXTINF:-1 tvg-name="UK | William Hill BTVⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Sports Betting UK",UK | William Hill BTVⓧ SD OFFLINE
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40094.ts
-#EXTINF:-1 tvg-name="UK | William Hill TV1ⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Sports Betting UK",UK | William Hill TV1ⓧ SD OFFLINE
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40093.ts
-#EXTINF:-1 tvg-name="UK | William Hill TV2ⓧ SD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Sports Betting UK",UK | William Hill TV2ⓧ SD OFFLINE
-http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40092.ts
 #EXTINF:-1 tvg-id="WION.HD.uk" tvg-name="UK | WION TVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-wion-tv-sd-975da69e.png" group-title="EN - News",UK | WION TVⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107794.ts
 #EXTINF:-1 tvg-id="WRN.Europe.uk" tvg-name="UK | WRN Europe ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-wrn-europe-eb0758e4.png" group-title="Other - International UK",UK | WRN Europe ⓧ
@@ -11229,7 +11197,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120910.ts
 #EXTINF:-1 tvg-name="USA | CBS Eastⓧ HD" tvg-logo="http://platinumxmedia.xyz:80/images/0123d58e0219e8a423d58736e5a2771f.png" group-title="EN - Local CBS",USA | CBS Eastⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/843.ts
-#EXTINF:-1 tvg-id="WBBJ-DT.us_locals1" tvg-name="USA | CBS Jackson, TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN | Jackson | CBS WBBJⓧ
+#EXTINF:-1 tvg-id="WBBJ-DT.us_locals1" tvg-name="USA | CBS Jackson, TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN WBBJ-DT3ⓧ" group-title="EN - Local CBS",TN | Jackson | CBS WBBJⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/93953.ts
 #EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-name="USA | CBS Sports Golazoⓧ" tvg-logo="http://platinumxmedia.xyz:80/images/d59aae01b5eb8b30f5c9ec5c42608c2f.png" group-title="EN - Sports",USA | CBS Sports Golazoⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1250.ts
@@ -11399,9 +11367,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/129419.ts
 #EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Country Party" group-title="Music (All Lang)",MC: Country Party
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283191.ts
-#EXTINF:-1 tvg-name="USA | Country Rock" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Country Rock
+#EXTINF:-1 tvg-id="MusicChoiceCountryRock.us" tvg-name="MC: Country Rock" group-title="Music (All Lang)",MC: Country Rock
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283192.ts
-#EXTINF:-1 tvg-name="USA | Country Songwriters" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Country Songwriters
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Country Songwriters" group-title="Music (All Lang)",MC: Country Songwriters
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283193.ts
 #EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="USA | CSPAN" tvg-logo="http://platinumxmedia.xyz/images/logos/c-span-live-us.png" group-title="EN - News",USA | CSPAN
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/171523.ts
@@ -11415,29 +11383,29 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/27917.ts
 #EXTINF:-1 tvg-id="WMTV-DT.us_locals1" tvg-name="USA | CW Madison WMTV-DT2ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/nbc-15-wmtv-us.png" group-title="EN - Local CW/IND",USA | CW Madison WMTV-DT2ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/14147.ts
-#EXTINF:-1 tvg-name="USA | Dan + Shay Channel" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Dan + Shay Channel
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Dan + Shay Channel" group-title="Music (All Lang)",MC: Dan + Shay Channel
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283194.ts
-#EXTINF:-1 tvg-name="USA | Dance" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Dance
+#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC: Dance" group-title="Music (All Lang)",MC: Dance
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283195.ts
-#EXTINF:-1 tvg-name="USA | Dance (Uncensored)" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Dance (Uncensored)
+#EXTINF:-1 tvg-id="MusicChoiceDance.us" tvg-name="MC: Dance (Uncensored)" group-title="Music (All Lang)",MC: Dance (Uncensored)
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283196.ts
 #EXTINF:-1 tvg-name="USA | Daystarⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/daystar-us.png" group-title="Religion (All Lang)",USA | Daystarⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/125670.ts
 #EXTINF:-1 tvg-name="USA | Deal Zoneⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",USA | Deal Zoneⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/171525.ts
-#EXTINF:-1 tvg-name="USA | Dembow" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Dembow
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Dembow" group-title="Music (All Lang)",MC: Dembow
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283197.ts
 #EXTINF:-1 tvg-id="Discovery.en.Español.us2" tvg-name="USA | Discovery en Españolⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-discovery-en-espa-ol-hd-4993a9b2.png" group-title="ES - Local US",USA | Discovery en Españolⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/61031.ts
 #EXTINF:-1 tvg-name="USA | Discovery Familiaⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/discovery-familia-us.png" group-title="ES - Local US",USA | Discovery Familiaⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/61064.ts
-#EXTINF:-1 tvg-name="USA | Disney Hits" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Disney Hits
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Disney Hits" group-title="EN - Kids & Family",MC: Disney Hits
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283198.ts
-#EXTINF:-1 tvg-name="USA | Disney Piano" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Disney Piano
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Disney Piano" group-title="EN - Kids & Family",MC: Disney Piano
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283199.ts
 #EXTINF:-1 tvg-name="USA | Ditty TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-ditty-tv-011887f9.png" group-title="Music (All Lang)",USA | Ditty TVⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94253.ts
-#EXTINF:-1 tvg-name="USA | Dolly Parton Channel" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Dolly Parton Channel
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Dolly Parton Channel" group-title="Music (All Lang)",MC: Dolly Parton Channel
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283200.ts
 #EXTINF:-1 tvg-name="USA | Dove Channelⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/dove-channel-us.png" group-title="Religion (All Lang)",USA | Dove Channelⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/55462.ts
@@ -11445,7 +11413,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78473.ts
 #EXTINF:-1 tvg-id="EarthX.us2" tvg-name="USA | EarthXⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-earthx-256b97dc.png" group-title="Z - Offline Streams",USA | EarthXⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/892.ts
-#EXTINF:-1 tvg-name="USA | Easy Listening" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Easy Listening
+#EXTINF:-1 tvg-id="MusicChoiceEasyListening.us" tvg-name="MC: Easy Listening" group-title="Music (All Lang)",MC: Easy Listening
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283201.ts
 #EXTINF:-1 tvg-name="USA | Entertainment Tonightⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-entertainment-tonight-a736502b.png" group-title="Z - Offline Streams",USA | Entertainment Tonightⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1246.ts
@@ -11487,7 +11455,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/125671.ts
 #EXTINF:-1 tvg-name="USA | Fail Army TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-fail-army-tv-85342f45.png" group-title="EN - Entertainment",USA | Fail Army TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78475.ts
-#EXTINF:-1 tvg-name="USA | Family Hits" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Family Hits
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Family Hits" group-title="Music (All Lang)",MC: Family Hits
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283202.ts
 #EXTINF:-1 tvg-name="USA | FanDuel Sports Network Cincinnati Extraⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FanDuel_Sports_Network_Ohio_logo.svg/1200px-FanDuel_Sports_Network_Ohio_logo.svg.png" group-title="EN - Sports",USA | FanDuel Sports Network Cincinnati Extraⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78395.ts
@@ -11553,17 +11521,17 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/91762.ts
 #EXTINF:-1 tvg-id="FanDuel.TV.us" tvg-name="USA | FanDuel TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/fanduel-tv-us.png" group-title="EN - Sports",USA | FanDuel TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1210.ts
-#EXTINF:-1 tvg-name="USA | Feel-Good Favorites" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Feel-Good Favorites
+#EXTINF:-1 tvg-id="MusicChoiceFeel-GoodFavorites.us" tvg-name="MC: Feel-Good Favorites" group-title="Music (All Lang)",MC: Feel-Good Favorites
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283203.ts
-#EXTINF:-1 tvg-name="USA | Feel-Good Soft Rock" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Feel-Good Soft Rock
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Feel-Good Soft Rock" group-title="Music (All Lang)",MC: Feel-Good Soft Rock
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283204.ts
 #EXTINF:-1 tvg-id="Fight.Network.us2" tvg-name="USA | Fight Networkⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/fight-network-us.png" group-title="EN - Sports",USA | Fight Networkⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78480.ts
 #EXTINF:-1 tvg-name="USA | Fight Sportsⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/fight-sports-es.png" group-title="EN - Sports",USA | Fight Sportsⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120973.ts
-#EXTINF:-1 tvg-name="USA | Filipino" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Filipino
+#EXTINF:-1 tvg-id="MusicChoiceFilipino.us" tvg-name="MC: Filipino" group-title="Music (All Lang)",MC: Filipino
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283205.ts
-#EXTINF:-1 tvg-name="USA | Folk" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Folk
+#EXTINF:-1 tvg-id="MusicChoiceFolk.us" tvg-name="MC: Folk" group-title="Music (All Lang)",MC: Folk
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283206.ts
 #EXTINF:-1 tvg-name="USA | Folk TV Eastⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/r-436d5ebd9c.png" group-title="EN - Entertainment",USA | Folk TV Eastⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120975.ts
@@ -11589,13 +11557,13 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1179.ts
 #EXTINF:-1 tvg-name="USA | FOX Weatherⓧ" tvg-logo="http://platinumxmedia.xyz:80/images/086ff5b5ddfd130300460033f47686e6.png" group-title="EN - News",USA | FOX Weatherⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/126332.ts
-#EXTINF:-1 tvg-name="USA | Freestyle Hits" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Freestyle Hits
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Freestyle Hits" group-title="Music (All Lang)",MC: Freestyle Hits
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283207.ts
 #EXTINF:-1 tvg-name="USA | FUBO Sports Networkⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/fubo-sports-network-us.png" group-title="EN - Sports",USA | FUBO Sports Networkⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/956.ts
 #EXTINF:-1 tvg-name="USA | Fuel TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-fuel-tv-b6ee5c01.png" group-title="EN - Sports",USA | Fuel TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78484.ts
-#EXTINF:-1 tvg-name="USA | Funk" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Funk
+#EXTINF:-1 tvg-id="MusicChoiceFunk.us" tvg-name="MC: Funk" group-title="Music (All Lang)",MC: Funk
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283208.ts
 #EXTINF:-1 tvg-name="USA | Galavision Eastⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-galavision-east-d6a4f026.png" group-title="ES - Local US",USA | Galavision Eastⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92400.ts
@@ -11619,11 +11587,11 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1053.ts
 #EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="USA | Golf Channelⓧ (Backup)" tvg-logo="http://platinumxmedia.xyz/images/logos/golf-channel-ar.png" group-title="EN - Sports",USA | Golf Channelⓧ (Backup)
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1144.ts
-#EXTINF:-1 tvg-name="USA | Gospel" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Gospel
+#EXTINF:-1 tvg-id="MusicChoiceGospel.us" tvg-name="MC: Gospel" group-title="Music (All Lang)",MC: Gospel
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283209.ts
-#EXTINF:-1 tvg-name="USA | Happy Hits" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Happy Hits
+#EXTINF:-1 tvg-id="MusicChoiceHappyHits.us" tvg-name="MC: Happy Hits" group-title="Music (All Lang)",MC: Happy Hits
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283210.ts
-#EXTINF:-1 tvg-name="USA | Hard Rock" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Hard Rock
+#EXTINF:-1 tvg-id="MusicChoiceHardRock.us" tvg-name="MC: Hard Rock" group-title="Music (All Lang)",MC: Hard Rock
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283211.ts
 #EXTINF:-1 tvg-name="USA | Harley Davidson Factory TVⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-harley-davidson-factory-tv-7ed1f4e7.png" group-title="EN - Entertainment",USA | Harley Davidson Factory TVⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120976.ts
@@ -11631,97 +11599,97 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120977.ts
 #EXTINF:-1 tvg-name="USA | Harley Davidson Rides TVⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-harley-davidson-factory-tv-7ed1f4e7.png" group-title="EN - Entertainment",USA | Harley Davidson Rides TVⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120978.ts
-#EXTINF:-1 tvg-name="USA | Hawaiian" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Hawaiian
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Hawaiian" group-title="Music (All Lang)",MC: Hawaiian
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283212.ts
 #EXTINF:-1 tvg-id="HBO.Latino.HD.us2" tvg-name="USA | HBO Latinoⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/hbo-latino-us.png" group-title="ES - Local US",USA | HBO Latinoⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/7155.ts
 #EXTINF:-1 tvg-name="USA | Heartlandⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/heartland-us.png" group-title="Music (All Lang)",USA | Heartlandⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/125684.ts
-#EXTINF:-1 tvg-name="USA | Hip-Hop and R&B" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Hip-Hop and R&B
+#EXTINF:-1 tvg-id="MusicChoiceHip-HopandRandB.us" tvg-name="MC: Hip-Hop and R&B" group-title="Music (All Lang)",MC: Hip-Hop and R&B
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283213.ts
-#EXTINF:-1 tvg-name="USA | Hip-Hop And R&B (Uncensored)" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Hip-Hop And R&B (Uncensored)
+#EXTINF:-1 tvg-id="MusicChoiceHip-HopandRandB.us" tvg-name="MC: Hip-Hop & R&B (Uncensored)" group-title="Music (All Lang)",MC: Hip-Hop & R&B (Uncensored)
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283214.ts
-#EXTINF:-1 tvg-name="USA | Hip-Hop Classics" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Hip-Hop Classics
+#EXTINF:-1 tvg-id="MusicChoiceHip-HopClassics.us" tvg-name="MC: Hip-Hop Classics" group-title="Music (All Lang)",MC: Hip-Hop Classics
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283215.ts
-#EXTINF:-1 tvg-name="USA | Hip-Hop Classics (Uncensored)" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Hip-Hop Classics (Uncensored)
+#EXTINF:-1 tvg-id="MusicChoiceHip-HopClassics.us" tvg-name="MC: Hip-Hop Classics (Uncensored)" group-title="Music (All Lang)",MC: Hip-Hop Classics (Uncensored)
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283216.ts
-#EXTINF:-1 tvg-name="USA | Hip-Hop Party" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Hip-Hop Party
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Hip-Hop Party" group-title="Music (All Lang)",MC: Hip-Hop Party
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283217.ts
 #EXTINF:-1 tvg-name="USA | History & Warfare Nowⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/r-46a8e5f14c.png" group-title="Z - Offline Streams",USA | History & Warfare Nowⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78507.ts
 #EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="USA | HLNⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/hln-us.png" group-title="EN - News",USA | HLNⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1061.ts
-#EXTINF:-1 tvg-name="USA | Honky Tonk" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Honky Tonk
+#EXTINF:-1 tvg-id="MusicChoiceHonkyTonk.us" tvg-name="MC: Honky Tonk" group-title="Music (All Lang)",MC: Honky Tonk
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283218.ts
 #EXTINF:-1 tvg-id="The.Hope.Channel.us2" tvg-name="USA | Hope Channelⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/hope-channel-us.png" group-title="Religion (All Lang)",USA | Hope Channelⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/125678.ts
 #EXTINF:-1 tvg-name="USA | Ice Road Truckersⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",USA | Ice Road Truckersⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172163.ts
-#EXTINF:-1 tvg-name="USA | Indie" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Indie
+#EXTINF:-1 tvg-id="MusicChoiceIndieVideo.us" tvg-name="MC: Indie" group-title="Music (All Lang)",MC: Indie
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283219.ts
 #EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="USA | Insp TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/insp-us.png" group-title="Religion (All Lang)",USA | Insp TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1064.ts
 #EXTINF:-1 tvg-name="USA | InWonderⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-inwonder.png" group-title="Z - Offline Streams",USA | InWonderⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107780.ts
-#EXTINF:-1 tvg-name="USA | Irish Favorites" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Irish Favorites
+#EXTINF:-1 tvg-id="MusicChoiceIrishFavorites.us" tvg-name="MC: Irish Favorites" group-title="Music (All Lang)",MC: Irish Favorites
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283220.ts
-#EXTINF:-1 tvg-name="USA | Italian Favorites" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Italian Favorites
+#EXTINF:-1 tvg-id="MusicChoiceItalianFavorites.us" tvg-name="MC: Italian Favorites" group-title="Music (All Lang)",MC: Italian Favorites
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283221.ts
-#EXTINF:-1 tvg-name="USA | Jazz" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Jazz
+#EXTINF:-1 tvg-id="MusicChoiceJazz.us" tvg-name="MC: Jazz" group-title="Music (All Lang)",MC: Jazz
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283222.ts
-#EXTINF:-1 tvg-name="USA | Jazz Vocal Hits" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Jazz Vocal Hits
+#EXTINF:-1 tvg-id="MusicChoiceJazzVocalHits.us" tvg-name="MC: Jazz Vocal Hits" group-title="Music (All Lang)",MC: Jazz Vocal Hits
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283223.ts
-#EXTINF:-1 tvg-name="USA | Jazz Vocal Standards" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Jazz Vocal Standards
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Jazz Vocal Standards" group-title="Music (All Lang)",MC: Jazz Vocal Standards
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283224.ts
 #EXTINF:-1 tvg-id="JBS.us2" tvg-name="USA | JBSⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-jbs-sd-0c59a6c9.png" group-title="Religion (All Lang)",USA | JBSⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/125676.ts
 #EXTINF:-1 tvg-name="USA | JLTVⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Religion (All Lang)",USA | JLTVⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/125677.ts
-#EXTINF:-1 tvg-name="USA | Joyful Instrumentals" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Joyful Instrumentals
+#EXTINF:-1 tvg-id="MusicChoiceJoyfulInstrumentals.us" tvg-name="MC: Joyful Instrumentals" group-title="Music (All Lang)",MC: Joyful Instrumentals
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283225.ts
-#EXTINF:-1 tvg-name="USA | K-Pop" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | K-Pop
+#EXTINF:-1 tvg-id="MusicChoiceK-Pop.us" tvg-name="MC: K-Pop" group-title="Music (All Lang)",MC: K-Pop
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283228.ts
 #EXTINF:-1 tvg-name="USA | KBP Sportsⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Sports",USA | KBP Sportsⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120980.ts
-#EXTINF:-1 tvg-name="USA | Kids Movies & Musicals" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Kids Movies & Musicals
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Kids Movies & Musicals" group-title="EN - Kids & Family",MC: Kids Movies & Musicals
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283226.ts
-#EXTINF:-1 tvg-name="USA | Kids Only!" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Kids Only!
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Kids Only!" group-title="EN - Kids & Family",MC: Kids Only!
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283227.ts
 #EXTINF:-1 tvg-name="USA | La Mega Mundialⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-la-mega-mundial-33ecd6a5.png" group-title="ES - Local US",USA | La Mega Mundialⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94248.ts
 #EXTINF:-1 tvg-name="USA | LaLiga TV en Españolⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/laliga.png" group-title="EN - Sports",USA | LaLiga TV en Españolⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/98854.ts
-#EXTINF:-1 tvg-name="USA | Latin Afrobeats" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Latin Afrobeats
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Latin Afrobeats" group-title="Music (All Lang)",MC: Latin Afrobeats
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283229.ts
-#EXTINF:-1 tvg-name="USA | Latin House" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Latin House
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Latin House" group-title="Music (All Lang)",MC: Latin House
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283230.ts
-#EXTINF:-1 tvg-name="USA | Latin Jazz" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Latin Jazz
+#EXTINF:-1 tvg-id="MusicChoiceLatinJazz.us" tvg-name="MC: Latin Jazz" group-title="Music (All Lang)",MC: Latin Jazz
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283231.ts
 #EXTINF:-1 tvg-name="USA | Lifetime Latinoⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-lifetime-latino-hd-c43d4f4f.png" group-title="ES - Local US",USA | Lifetime Latinoⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122293.ts
 #EXTINF:-1 tvg-name="USA | Liga MXⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/liga-mx.png" group-title="EN - Sports",USA | Liga MXⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/120974.ts
-#EXTINF:-1 tvg-name="USA | Light Classical" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Light Classical
+#EXTINF:-1 tvg-id="MusicChoiceLightClassical.us" tvg-name="MC: Light Classical" group-title="Music (All Lang)",MC: Light Classical
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283232.ts
 #EXTINF:-1 tvg-id="The.Word.Network.us2" tvg-name="USA | LLBN His Wordⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-llbn-his-word-d827d2c2.png" group-title="Religion (All Lang)",USA | LLBN His Wordⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/125679.ts
-#EXTINF:-1 tvg-name="USA | Lofi" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Lofi
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Lofi" group-title="Music (All Lang)",MC: Lofi
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283233.ts
 #EXTINF:-1 tvg-name="USA | Longhorn Networkⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/longhorn-network-us.png" group-title="EN - Sports",USA | Longhorn Networkⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1069.ts
-#EXTINF:-1 tvg-name="USA | Lounge" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Lounge
+#EXTINF:-1 tvg-id="MusicChoiceLounge.us" tvg-name="MC: Lounge" group-title="Music (All Lang)",MC: Lounge
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283234.ts
-#EXTINF:-1 tvg-name="USA | Love Songs" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Love Songs
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Love Songs" group-title="Music (All Lang)",MC: Love Songs
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283235.ts
 #EXTINF:-1 tvg-name="USA | LoveWorld USAⓧ FHD OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-loveworlduk.png" group-title="Religion (All Lang)",USA | LoveWorld USAⓧ FHD OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/125680.ts
-#EXTINF:-1 tvg-name="USA | Lullabies" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Lullabies
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Lullabies" group-title="EN - Kids & Family",MC: Lullabies
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283236.ts
 #EXTINF:-1 tvg-id="MagellanTV.Now.us2" tvg-name="USA | MagellanTV Nowⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-magellantv-now-675229f8.png" group-title="Z - Offline Streams",USA | MagellanTV Nowⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78509.ts
-#EXTINF:-1 tvg-name="USA | Mainstream Rap" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Mainstream Rap
+#EXTINF:-1 tvg-id="MusicChoiceMainstreamRap.us" tvg-name="MC: Mainstream Rap" group-title="Music (All Lang)",MC: Mainstream Rap
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283237.ts
-#EXTINF:-1 tvg-name="USA | Malt Shop Favorites" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Malt Shop Favorites
+#EXTINF:-1 tvg-id="MusicChoiceMaltShopFavorites.us" tvg-name="MC: Malt Shop Favorites" group-title="Music (All Lang)",MC: Malt Shop Favorites
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283238.ts
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="USA | Marquee Sports Networkⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/marquee-sports-network-us.png" group-title="EN - Sports",USA | Marquee Sports Networkⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1165.ts
@@ -11733,9 +11701,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1070.ts
 #EXTINF:-1 tvg-name="USA | Mega TV WSBSⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-mega-tv-wsbs-d0b73172.png" group-title="ES - Local US",USA | Mega TV WSBSⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/95732.ts
-#EXTINF:-1 tvg-name="USA | Metal" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Metal
+#EXTINF:-1 tvg-id="MusicChoiceMetalVideo.us" tvg-name="MC: Metal" group-title="Music (All Lang)",MC: Metal
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283239.ts
-#EXTINF:-1 tvg-name="USA | Mexicana" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Mexicana
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Mexicana" group-title="Music (All Lang)",MC: Mexicana
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283240.ts
 #EXTINF:-1 tvg-name="USA | MGMⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/mgm-hd-us.png" group-title="ES - Películas",USA | MGMⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/133194.ts
@@ -11817,9 +11785,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/262.ts
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="USA | Motor Trendⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/motor-trend-us.png" group-title="EN - Sports",USA | Motor Trendⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1072.ts
-#EXTINF:-1 tvg-name="USA | Motown Hits" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Motown Hits
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Motown Hits" group-title="Music (All Lang)",MC: Motown Hits
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283241.ts
-#EXTINF:-1 tvg-name="USA | Movie Scores" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Movie Scores
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Movie Scores" group-title="Music (All Lang)",MC: Movie Scores
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283242.ts
 #EXTINF:-1 tvg-name="USA | MSG 2 Plusⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-msg-2-plus-hd-0f47152f.png" group-title="EN - Sports",USA | MSG 2 Plusⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1169.ts
@@ -11847,9 +11815,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172547.ts
 #EXTINF:-1 tvg-name="USA | MTV2ⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/mtv-2-us.png" group-title="Music (All Lang)",USA | MTV2ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1077.ts
-#EXTINF:-1 tvg-name="USA | Musica Urbana" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Musica Urbana
+#EXTINF:-1 tvg-id="MusicChoiceMusicaUrbanaVideo.us" tvg-name="MC: Musica Urbana" group-title="Music (All Lang)",MC: Musica Urbana
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283243.ts
-#EXTINF:-1 tvg-name="USA | Nature Sounds" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Nature Sounds
+#EXTINF:-1 tvg-id="MusicChoiceNatureSounds.us" tvg-name="MC: Nature Sounds" group-title="Music (All Lang)",MC: Nature Sounds
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283244.ts
 #EXTINF:-1 tvg-name="USA | Nautical Channelⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/nautical-channel-us.png" group-title="EN - Sports",USA | Nautical Channelⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/79262.ts
@@ -11987,13 +11955,13 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1170.ts
 #EXTINF:-1 tvg-name="USA | NET-TVⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/net-tv-ar.png" group-title="Religion (All Lang)",USA | NET-TVⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/125681.ts
-#EXTINF:-1 tvg-name="USA | New Age" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | New Age
+#EXTINF:-1 tvg-id="MusicChoiceNewAge.us" tvg-name="MC: New Age" group-title="Music (All Lang)",MC: New Age
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283245.ts
-#EXTINF:-1 tvg-name="USA | New Music Now" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | New Music Now
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: New Music Now" group-title="Music (All Lang)",MC: New Music Now
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283246.ts
-#EXTINF:-1 tvg-name="USA | New Wave" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | New Wave
+#EXTINF:-1 tvg-id="MusicChoiceNewWave.us" tvg-name="MC: New Wave" group-title="Music (All Lang)",MC: New Wave
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283247.ts
-#EXTINF:-1 tvg-name="USA | New Wave (Uncensored)" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | New Wave (Uncensored)
+#EXTINF:-1 tvg-id="MusicChoiceNewWave.us" tvg-name="MC: New Wave (Uncensored)" group-title="Music (All Lang)",MC: New Wave (Uncensored)
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283248.ts
 #EXTINF:-1 tvg-name="USA | News 12 Long Islandⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/news12-long-island-us.png" group-title="EN - News",USA | News 12 Long Islandⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/713.ts
@@ -12227,9 +12195,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/95731.ts
 #EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="USA | One America Newsⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-one-america-news-fb5f6fcb.png" group-title="EN - News",USA | One America Newsⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1087.ts
-#EXTINF:-1 tvg-name="USA | Opera" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Opera
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Opera" group-title="Music (All Lang)",MC: Opera
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283249.ts
-#EXTINF:-1 tvg-name="USA | Orchestra" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Orchestra
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Orchestra" group-title="Music (All Lang)",MC: Orchestra
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283250.ts
 #EXTINF:-1 tvg-name="USA | Origin Sportsⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Sports",USA | Origin Sportsⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78516.ts
@@ -12251,77 +12219,77 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1174.ts
 #EXTINF:-1 tvg-name="USA | PAC-12 Washingtonⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/pac-12-washington-us.png" group-title="Z - Offline Streams",USA | PAC-12 Washingtonⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1177.ts
-#EXTINF:-1 tvg-name="USA | Party Favorites" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Party Favorites
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Party Favorites" group-title="Music (All Lang)",MC: Party Favorites
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283251.ts
 #EXTINF:-1 tvg-name="USA | Pasionesⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/p-pasiones-fhd-a6fd8d74.png" group-title="ES - Local US",USA | Pasionesⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/61059.ts
-#EXTINF:-1 tvg-name="USA | PBS Beaumont, TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - PBS REGIONALS",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - PBS REGIONALS",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="|USA| PBS REGIONALS ",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="|USA| PBS REGIONALS ",USA | PBS Beaumont, TXⓧ OFFLINE
+#EXTINF:-1 tvg-name="USA | PBS Beaumont, TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Z - Offline Streams",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - Kids & Family",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - PBS REGIONALS",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="ENG - PBS REGIONALS",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="|USA| PBS REGIONALS ",TXⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="|USA| PBS REGIONALS ",USA | PBS Beaumont, TXⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/172194.ts
 #EXTINF:-1 tvg-name="USA | PBS Pennsylvania Philadelphia WPPTⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/pbs-us.png" group-title="Z - Offline Streams",USA | PBS Pennsylvania Philadelphia WPPTⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/14216.ts
 #EXTINF:-1 tvg-name="USA | People TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/people-tv-us.png" group-title="EN - Entertainment",USA | People TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1095.ts
-#EXTINF:-1 tvg-name="USA | Piano" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Piano
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Piano" group-title="Music (All Lang)",MC: Piano
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283252.ts
 #EXTINF:-1 tvg-name="USA | Pickle TVⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Sports",USA | Pickle TVⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/170294.ts
 #EXTINF:-1 tvg-name="USA | Pickleball TVⓧ" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/PBTV-hero.jpg" group-title="EN - Sports",USA | Pickleball TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78525.ts
-#EXTINF:-1 tvg-name="USA | PJ's Smooth Blend" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | PJ's Smooth Blend
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: PJ's Smooth Blend" group-title="Music (All Lang)",MC: PJ's Smooth Blend
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283253.ts
 #EXTINF:-1 tvg-name="USA | Players TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-players-tv-6f72bb33.png" group-title="EN - Sports",USA | Players TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/171526.ts
 #EXTINF:-1 tvg-name="USA | PokerGoⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-pokergo-444ce7b8.png" group-title="EN - Sports",USA | PokerGoⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/133572.ts
-#EXTINF:-1 tvg-name="USA | Pop & Country" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Pop & Country
+#EXTINF:-1 tvg-id="MusicChoicePopAndCountry.us" tvg-name="MC: Pop & Country" group-title="Music (All Lang)",MC: Pop & Country
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283254.ts
-#EXTINF:-1 tvg-name="USA | Pop & Hip-Hop" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Pop & Hip-Hop
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Pop & Hip-Hop" group-title="Music (All Lang)",MC: Pop & Hip-Hop
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283255.ts
-#EXTINF:-1 tvg-name="USA | Pop Energy" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Pop Energy
+#EXTINF:-1 tvg-id="MusicChoicePopEnergy.us" tvg-name="MC: Pop Energy" group-title="Music (All Lang)",MC: Pop Energy
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283256.ts
-#EXTINF:-1 tvg-name="USA | Pop Hits" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Pop Hits
+#EXTINF:-1 tvg-id="MusicChoicePopHits.us" tvg-name="MC: Pop Hits" group-title="Music (All Lang)",MC: Pop Hits
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283257.ts
-#EXTINF:-1 tvg-name="USA | Pop Instrumentals" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Pop Instrumentals
+#EXTINF:-1 tvg-id="MusicChoicePopInstrumentals.us" tvg-name="MC: Pop Instrumentals" group-title="Music (All Lang)",MC: Pop Instrumentals
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283258.ts
-#EXTINF:-1 tvg-name="USA | R&B Classics" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | R&B Classics
+#EXTINF:-1 tvg-id="MusicChoiceRandBClassics.us" tvg-name="MC: R&B Classics" group-title="Music (All Lang)",MC: R&B Classics
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283259.ts
-#EXTINF:-1 tvg-name="USA | R&B Groove" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | R&B Groove
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: R&B Groove" group-title="Music (All Lang)",MC: R&B Groove
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283260.ts
-#EXTINF:-1 tvg-name="USA | R&B Slow Jams" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | R&B Slow Jams
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: R&B Slow Jams" group-title="Music (All Lang)",MC: R&B Slow Jams
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283261.ts
 #EXTINF:-1 tvg-name="USA | Racing Americaⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-racing-america-4e77bca8.png" group-title="EN - Sports",USA | Racing Americaⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78532.ts
 #EXTINF:-1 tvg-name="USA | RadioU TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/r-bf8f28e9b1.png" group-title="Music (All Lang)",USA | RadioU TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/94235.ts
-#EXTINF:-1 tvg-name="USA | Rainy Days" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Rainy Days
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Rainy Days" group-title="Music (All Lang)",MC: Rainy Days
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283262.ts
-#EXTINF:-1 tvg-name="USA | Rap" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Rap
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Rap" group-title="Music (All Lang)",MC: Rap
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283263.ts
 #EXTINF:-1 tvg-id="Real.Americas.Voice.us2" tvg-name="USA | Real America's Voiceⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/real-americas-voice-us.png" group-title="EN - News",USA | Real America's Voiceⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/145981.ts
 #EXTINF:-1 tvg-name="USA | Red Bull TVⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/red-bull-tv-int.png" group-title="EN - Sports",USA | Red Bull TVⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/104307.ts
-#EXTINF:-1 tvg-name="USA | Reggae" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Reggae
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Reggae" group-title="Music (All Lang)",MC: Reggae
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283264.ts
-#EXTINF:-1 tvg-name="USA | Relaxing Adult Alternative" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Relaxing Adult Alternative
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Relaxing Adult Alternative" group-title="Music (All Lang)",MC: Relaxing Adult Alternative
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283265.ts
-#EXTINF:-1 tvg-name="USA | Relaxing Vibes" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Relaxing Vibes
+#EXTINF:-1 tvg-id="MusicChoiceRelaxingVibes.us" tvg-name="MC: Relaxing Vibes" group-title="Music (All Lang)",MC: Relaxing Vibes
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283266.ts
-#EXTINF:-1 tvg-name="USA | Retro Workout" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Retro Workout
+#EXTINF:-1 tvg-id="MusicChoiceRetroWorkout.us" tvg-name="MC: Retro Workout" group-title="Music (All Lang)",MC: Retro Workout
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283267.ts
 #EXTINF:-1 tvg-id="Revolt.HD.us2" tvg-name="USA | Revoltⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/revolt-us.png" group-title="Music (All Lang)",USA | Revoltⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1099.ts
-#EXTINF:-1 tvg-name="USA | Riley Green Channel" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Riley Green Channel
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Riley Green Channel" group-title="Music (All Lang)",MC: Riley Green Channel
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283268.ts
-#EXTINF:-1 tvg-name="USA | Rock" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Rock
+#EXTINF:-1 tvg-id="MusicChoiceRock.us" tvg-name="MC: Rock" group-title="Music (All Lang)",MC: Rock
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283269.ts
-#EXTINF:-1 tvg-name="USA | Rock & Pop Hits" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Rock & Pop Hits
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Rock & Pop Hits" group-title="Music (All Lang)",MC: Rock & Pop Hits
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283270.ts
-#EXTINF:-1 tvg-name="USA | Rock (Uncensored)" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Rock (Uncensored)
+#EXTINF:-1 tvg-id="MusicChoiceRock.us" tvg-name="MC: Rock (Uncensored)" group-title="Music (All Lang)",MC: Rock (Uncensored)
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283271.ts
-#EXTINF:-1 tvg-name="USA | Rock Latino" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Rock Latino
+#EXTINF:-1 tvg-id="MusicChoiceRockLatino.us" tvg-name="MC: Rock Latino" group-title="Music (All Lang)",MC: Rock Latino
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283272.ts
-#EXTINF:-1 tvg-name="USA | Romantic Latin Pop" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Romantic Latin Pop
+#EXTINF:-1 tvg-id="MusicChoiceRomanticLatinPop.us" tvg-name="MC: Romantic Latin Pop" group-title="Music (All Lang)",MC: Romantic Latin Pop
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283273.ts
 #EXTINF:-1 tvg-id="Root.Sports.Northwest.Plus.us2" tvg-name="USA | Root Sports Northwest Plusⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-root-sports-northwest-plus-76c359c5.png" group-title="EN - Sports",USA | Root Sports Northwest Plusⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1103.ts
@@ -12333,23 +12301,23 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/12033.ts
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="USA | SEC Networkⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/sec-network-us.png" group-title="EN - Sports",USA | SEC Networkⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1206.ts
-#EXTINF:-1 tvg-name="USA | Singers & Swing" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Singers & Swing
+#EXTINF:-1 tvg-id="MusicChoiceSingersAndSwing.us" tvg-name="MC: Singers & Swing" group-title="Music (All Lang)",MC: Singers & Swing
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283274.ts
-#EXTINF:-1 tvg-name="USA | Sleep Sounds" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Sleep Sounds
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Sleep Sounds" group-title="Music (All Lang)",MC: Sleep Sounds
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283275.ts
-#EXTINF:-1 tvg-name="USA | Smooth Jazz" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Smooth Jazz
+#EXTINF:-1 tvg-id="MusicChoiceSmoothJazz.us" tvg-name="MC: Smooth Jazz" group-title="Music (All Lang)",MC: Smooth Jazz
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283276.ts
-#EXTINF:-1 tvg-name="USA | Soft Rock" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Soft Rock
+#EXTINF:-1 tvg-id="MusicChoiceSoftRock.us" tvg-name="MC: Soft Rock" group-title="Music (All Lang)",MC: Soft Rock
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283277.ts
-#EXTINF:-1 tvg-name="USA | Solid Gold Oldies" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Solid Gold Oldies
+#EXTINF:-1 tvg-id="MusicChoiceSolidGoldOldies.us" tvg-name="MC: Solid Gold Oldies" group-title="Music (All Lang)",MC: Solid Gold Oldies
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283278.ts
 #EXTINF:-1 tvg-name="USA | Somos Novelasⓧ" tvg-logo="https://images-cdn3.welcomesoftware.com/assets/somos+novelas.jpg" group-title="ES - Local US",USA | Somos Novelasⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78534.ts
-#EXTINF:-1 tvg-name="USA | Sounds of the Seasons" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Sounds of the Seasons
+#EXTINF:-1 tvg-id="MusicChoiceSoundsoftheSeasons.us" tvg-name="MC: Sounds of the Seasons" group-title="Music (All Lang)",MC: Sounds of the Seasons
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283279.ts
-#EXTINF:-1 tvg-name="USA | Soundscapes" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Soundscapes
+#EXTINF:-1 tvg-id="MusicChoiceSoundscapes.us" tvg-name="MC: Soundscapes" group-title="Music (All Lang)",MC: Soundscapes
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283280.ts
-#EXTINF:-1 tvg-name="USA | Southern Gospel" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Southern Gospel
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Southern Gospel" group-title="Music (All Lang)",MC: Southern Gospel
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283281.ts
 #EXTINF:-1 tvg-name="USA | Space City Home Network Alternateⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/space-city-home-network-us.png" group-title="EN - Sports",USA | Space City Home Network Alternateⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/670.ts
@@ -12391,15 +12359,15 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40323.ts
 #EXTINF:-1 tvg-name="USA | Stadium College Sports Pacificⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/stadium-college-sports-pacific-us.png" group-title="EN - Sports",USA | Stadium College Sports Pacificⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/55465.ts
-#EXTINF:-1 tvg-name="USA | Stage & Screen" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Stage & Screen
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Stage & Screen" group-title="Music (All Lang)",MC: Stage & Screen
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283282.ts
 #EXTINF:-1 tvg-id="Starz.Encore.Español.SD.us2" tvg-name="USA | Starz Encore Españolⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-starz-encore-espanol-48391ac7.png" group-title="ES - Local US",USA | Starz Encore Españolⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/7154.ts
 #EXTINF:-1 tvg-name="USA | Surfer TVⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Sports",USA | Surfer TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78550.ts
-#EXTINF:-1 tvg-name="USA | Symphony" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Symphony
+#EXTINF:-1 tvg-id="MusicChoiceSymphony.us" tvg-name="MC: Symphony" group-title="Music (All Lang)",MC: Symphony
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283283.ts
-#EXTINF:-1 tvg-name="USA | Taste of Italy" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Taste of Italy
+#EXTINF:-1 tvg-id="MusicChoiceTasteofItaly.us" tvg-name="MC: Taste of Italy" group-title="Music (All Lang)",MC: Taste of Italy
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283284.ts
 #EXTINF:-1 tvg-id="Tastemade.en.Español.us2" tvg-name="USA | Tastemade en Españolⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-tastemade-en-espanol-9f851678.png" group-title="ES - Local US",USA | Tastemade en Españolⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1217.ts
@@ -12473,39 +12441,39 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11270.ts
 #EXTINF:-1 tvg-name="USA | The Country Networkⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/the-country-network-us.png" group-title="Music (All Lang)",USA | The Country Networkⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/96007.ts
-#EXTINF:-1 tvg-name="USA | The Pulse" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | The Pulse
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: The Pulse" group-title="Music (All Lang)",MC: The Pulse
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283285.ts
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="USA | The Weather Channelⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/weather-channel-hd-us.png" group-title="EN - News",USA | The Weather Channelⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1125.ts
 #EXTINF:-1 tvg-id="The.Word.Network.us2" tvg-name="USA | The Word Networkⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/the-word-network-int.png" group-title="Religion (All Lang)",USA | The Word Networkⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/107635.ts
-#EXTINF:-1 tvg-name="USA | Throwback Jams" tvg-logo="http://platinumxmedia.xyz:80/images/503b84e86aa650d400ae4cc322a2623e.png" group-title="EN - Music Choice",USA | Throwback Jams
+#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC: Throwback Jams 1" group-title="Music (All Lang)",MC: Throwback Jams 1
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283286.ts
-#EXTINF:-1 tvg-name="USA | Throwback Jams" tvg-logo="http://platinumxmedia.xyz:80/images/503b84e86aa650d400ae4cc322a2623e.png" group-title="EN - Music Choice",USA | Throwback Jams
+#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC: Throwback Jams 2" group-title="Music (All Lang)",MC: Throwback Jams 2
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283307.ts
-#EXTINF:-1 tvg-name="USA | Throwback Jams" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Throwback Jams
+#EXTINF:-1 tvg-id="MusicChoiceThrowbackJams.us" tvg-name="MC: Throwback Jams 3" group-title="Music (All Lang)",MC: Throwback Jams 3
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283311.ts
 #EXTINF:-1 tvg-name="USA | TNAⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TNA_Impact%21_2024.png" group-title="EN - Sports",USA | TNAⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92590.ts
-#EXTINF:-1 tvg-name="USA | Today's Country" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Today's Country
+#EXTINF:-1 tvg-id="MusicChoiceTodaysCountry.us" tvg-name="MC: Today's Country" group-title="Music (All Lang)",MC: Today's Country
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283287.ts
-#EXTINF:-1 tvg-name="USA | Today's Hits" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Today's Hits
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Today's Hits" group-title="Music (All Lang)",MC: Today's Hits
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283288.ts
-#EXTINF:-1 tvg-name="USA | Today's Latin Hits" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Today's Latin Hits
+#EXTINF:-1 tvg-id="MusicChoiceTodaysLatinHits.us" tvg-name="MC: Today's Latin Hits" group-title="Music (All Lang)",MC: Today's Latin Hits
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283289.ts
-#EXTINF:-1 tvg-name="USA | Today's R&B" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Today's R&B
+#EXTINF:-1 tvg-id="MusicChoiceTodaysRandB.us" tvg-name="MC: Today's R&B" group-title="Music (All Lang)",MC: Today's R&B
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283290.ts
-#EXTINF:-1 tvg-name="USA | Toddler Tunes" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Toddler Tunes
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Toddler Tunes" group-title="EN - Kids & Family",MC: Toddler Tunes
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283291.ts
 #EXTINF:-1 tvg-name="USA | Tr3sⓧ SD" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="Music (All Lang)",USA | Tr3sⓧ SD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/141375.ts
-#EXTINF:-1 tvg-name="USA | Trending Hits" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Trending Hits
+#EXTINF:-1 tvg-id="MusicChoiceTrendingHits.us" tvg-name="MC: Trending Hits" group-title="Music (All Lang)",MC: Trending Hits
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283292.ts
-#EXTINF:-1 tvg-name="USA | Trending Hits (Uncensored)" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Trending Hits (Uncensored)
+#EXTINF:-1 tvg-id="MusicChoiceTrendingHits.us" tvg-name="MC: Trending Hits (Uncensored)" group-title="Music (All Lang)",MC: Trending Hits (Uncensored)
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283293.ts
 #EXTINF:-1 tvg-name="USA | Tribuna TVⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-tribuna-tv-e8814da1.png" group-title="ES - Local US",USA | Tribuna TVⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/61007.ts
-#EXTINF:-1 tvg-name="USA | Tropicales" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Tropicales
+#EXTINF:-1 tvg-id="MusicChoiceTropicales.us" tvg-name="MC: Tropicales" group-title="Music (All Lang)",MC: Tropicales
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283294.ts
 #EXTINF:-1 tvg-name="USA | TruTV Latinoⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/pi-trutv.png" group-title="ES - Local US",USA | TruTV Latinoⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/895.ts
@@ -12541,7 +12509,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/11328.ts
 #EXTINF:-1 tvg-name="USA | UFC Fight Pass 24/7ⓧ HD" tvg-logo="http://platinumxmedia.xyz:80/images/9bfc25a68a191ae6597a0415054620e7.png" group-title="EN - Sports",USA | UFC Fight Pass 24/7ⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1119.ts
-#EXTINF:-1 tvg-name="USA | Underground Hip-Hop" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Underground Hip-Hop
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Underground Hip-Hop" group-title="Music (All Lang)",MC: Underground Hip-Hop
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283295.ts
 #EXTINF:-1 tvg-id="WUVG-DT.us_locals1" tvg-name="GA | Atlanta | Unimas WUVGⓧ" group-title="ES - Local US",GA | Atlanta | Unimas WUVGⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/111618.ts
@@ -12611,9 +12579,9 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122063.ts
 #EXTINF:-1 tvg-id="Vevo.Latino.us2" tvg-name="USA | Vevo Latinoⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-vevo-latino-82d5cf58.png" group-title="Music (All Lang)",USA | Vevo Latinoⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122064.ts
-#EXTINF:-1 tvg-name="USA | Vietnamese" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Vietnamese
+#EXTINF:-1 tvg-id="MusicChoiceVietnamese.us" tvg-name="MC: Vietnamese" group-title="Music (All Lang)",MC: Vietnamese
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283296.ts
-#EXTINF:-1 tvg-name="USA | Vinyl Classic Rock" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Vinyl Classic Rock
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Vinyl Classic Rock" group-title="Music (All Lang)",MC: Vinyl Classic Rock
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283297.ts
 #EXTINF:-1 tvg-name="USA | VOAⓧ FHD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-voa-743d0076.png" group-title="EN - News",USA | VOAⓧ FHD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1236.ts
@@ -12651,7 +12619,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/121970.ts
 #EXTINF:-1 tvg-name="USA | Women's Sports Networkⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/p-women-s-sports-network-baddb36e.png" group-title="EN - Sports",USA | Women's Sports Networkⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92607.ts
-#EXTINF:-1 tvg-name="USA | Workout" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Workout
+#EXTINF:-1 tvg-id="MusicChoiceWorkout.us" tvg-name="MC: Workout" group-title="Music (All Lang)",MC: Workout
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283298.ts
 #EXTINF:-1 tvg-id="World.Harvest.Television.us2" tvg-name="USA | World Harvest Televisionⓧ HD" tvg-logo="http://platinumxmedia.xyz/images/logos/l3-world-harvest-television-df515ec8.png" group-title="Religion (All Lang)",USA | World Harvest Televisionⓧ HD
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/125672.ts
@@ -12659,7 +12627,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78971.ts
 #EXTINF:-1 tvg-name="USA | XZoneⓧ" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Entertainment",USA | XZoneⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/121898.ts
-#EXTINF:-1 tvg-name="USA | Yacht Rock" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Yacht Rock
+#EXTINF:-1 tvg-id="MusicChoiceYachtRock.us" tvg-name="MC: Yacht Rock" group-title="Music (All Lang)",MC: Yacht Rock
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283299.ts
 #EXTINF:-1 tvg-name="USA | Yahoo Financeⓧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yahoo%21_Finance_logo_2021.png/1200px-Yahoo%21_Finance_logo_2021.png" group-title="EN - News",USA | Yahoo Financeⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92608.ts
@@ -12667,7 +12635,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/121897.ts
 #EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="USA | YES Networkⓧ" tvg-logo="http://platinumxmedia.xyz:80/images/641f37b1632a411e3a4c2f229fd83a09.png" group-title="EN - Sports",USA | YES Networkⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1129.ts
-#EXTINF:-1 tvg-name="USA | Yoga Vibes" tvg-logo="http://121.91.234.42/MASTER/MusicChoice/mc_logo.png" group-title="EN - Music Choice",USA | Yoga Vibes
+#EXTINF:-1 tvg-id="Music.Choice.Dummy.us" tvg-name="MC: Yoga Vibes" group-title="Music (All Lang)",MC: Yoga Vibes
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/283300.ts
 #EXTINF:-1 tvg-name="USA | Young Iconsⓧ OFFLINE" tvg-logo="http://platinumxmedia.xyz/images/logos/xproject.png" group-title="EN - Entertainment",USA | Young Iconsⓧ OFFLINE
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/122853.ts
@@ -12947,7 +12915,7 @@ http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUS
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/60896.ts
 #EXTINF:-1 tvg-name="Waypoint TVⓧ" group-title="EN - Sports",Waypoint TVⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/92601.ts
-#EXTINF:-1 tvg-id="WDVM-DT.us_locals1" tvg-name="WDVM Washington, DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",WDVM Washington, DCⓧ
+#EXTINF:-1 tvg-id="WDVM-DT.us_locals1" tvg-name="WDVM Washington, DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",DCⓧ" group-title="EN - News",WDVM Washington, DCⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/78457.ts
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE TV (East)ⓧ" group-title="EN - Entertainment",WE TV (East)ⓧ
 http://platinumxmedia.xyz:80/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/1124.ts
